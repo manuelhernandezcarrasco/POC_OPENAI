@@ -1,19 +1,29 @@
 import os
 import fitz
 import uuid
-from openai import OpenAI
 from dotenv import load_dotenv
+import google.generativeai as genai
 
+# Cargar variables de entorno
 load_dotenv()
+
+# Configurar API Key de Gemini
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
+# Inicializar el modelo de Gemini
+model = genai.GenerativeModel("gemini-2.5-flash-preview-04-17")
+
+# Configuraciones
 cv_dir = "cvs"
-model = "o4-mini-2025-04-16"
 job_description_file = "job_description.pdf"
-
-cv_pdf_files = [os.path.join(cv_dir, f) for f in os.listdir(cv_dir) if f.endswith(".pdf")]
-
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+batch_size = 50
 
 
+def count_tokens(text):
+    return len(text) // 4
+
+
+# Leer archivos PDF
 def extract_text_from_pdf(file_path):
     text = ""
     with fitz.open(file_path) as pdf:
@@ -22,13 +32,11 @@ def extract_text_from_pdf(file_path):
     return text
 
 
-def count_tokens(text):
-    # encoding = tiktoken.encoding_for_model(model)
-    # return len(encoding.encode(text))
-    return len(text) // 4
-
-
+# Extraer descripción del puesto
 job_description = extract_text_from_pdf(job_description_file)
+
+# Leer todos los CVs
+cv_pdf_files = [os.path.join(cv_dir, f) for f in os.listdir(cv_dir) if f.endswith(".pdf")]
 cvs = [extract_text_from_pdf(file) for file in cv_pdf_files]
 cv_list = []
 for file in cv_pdf_files:
@@ -38,6 +46,8 @@ for file in cv_pdf_files:
         "text": cv_text
     })
 
+
+# Armar el prompt
 def build_prompt(job_description, batch):
     cvs_text = "\n".join([f"{cv['id']} - {cv['text']}" for cv in batch])
     return f"""
@@ -74,9 +84,8 @@ Currículums:
 {cvs_text}
 """
 
-# Separate queries in batches
-batch_size = 50
 
+# Ejecutar en batches
 results = ""
 
 for i in range(0, len(cv_list), batch_size):
@@ -94,20 +103,12 @@ for i in range(0, len(cv_list), batch_size):
     print("📄 Tokens per CV:", cv_token_counts)
     print(f"📊 Average tokens per CV: {average_tokens:.2f}")
 
-    # Count tokens for the entire prompt
-    user_message = {"role": "user", "content": prompt}
-    total_input_tokens = count_tokens(prompt)
+    response = model.generate_content(prompt)
+    print("✅ Respuesta recibida")
+    print(response.text)
 
-    print(f"🔢 Tokens in input prompt: {total_input_tokens}")
+    results += response.text
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[user_message],
-    )
-
-    results += response.choices[0].message.content
-    print(response.choices[0].message.content)
-    print(f"📊 Token usage: {response.usage}")
-
-with open("output-openai.json", "w") as f:
+# Guardar resultados
+with open("output-gemini.json", "w") as f:
     f.write(results)

@@ -1,0 +1,98 @@
+[{
+  "participant_id": "5341ca40-675d-41a1-8b5d-1a3d856799e9",
+  "score": 40,
+  "reasons": [
+    "Estudiante de ingeniería con buen perfil técnico",
+    "Conocimientos en programación pero no específicos de SEM",
+    "Inglés avanzado es un punto positivo",
+    "Sin experiencia directa en gestión de campañas SEM"
+  ]
+},
+
+{
+  "participant_id": "14409764-ea23-44dc-a5b0-a0ebb41437e4",
+  "score": 30,
+  "reasons": [
+    "Estudiante de Ingeniería Industrial sin experiencia en SEM",
+    "Experiencia breve en marketing digital no especializada",
+    "Inglés avanzado es un punto positivo",
+    "No cumple con los requisitos técnicos específicos del puesto"
+  ]
+},
+
+{
+  "participant_id": "1fafe5f1-24aa-48a8-9a08-f9558e6f5c08",
+  "score": 20,
+  "reasons": [
+    "Licenciado en Economía sin experiencia en SEM",
+    "No tiene conocimientos técnicos de herramientas SEM",
+    "Inglés avanzado",
+    "No cumple con los requisitos del puesto"
+  ]
+},
+
+{
+  "participant_id": "6e99bc8e-b042-492a-84cb-551f0451aae6",
+  "score": 25,
+  "reasons": [
+    "Diseñador multimedial sin experiencia en SEM",
+    "Conocimientos básicos de marketing digital",
+    "Inglés en curso",
+    "No cumple con los requisitos técnicos específicos"
+  ]
+},
+
+{
+  "participant_id": "5ab8ea41-5bb6-4f2b-8aeb-acc1a8d49445",
+  "score": 20,
+  "reasons": [
+    "Sin experiencia en SEM",
+    "Experiencia en ventas y atención al cliente",
+    "Inglés avanzado",
+    "No tiene conocimientos técnicos de herramientas SEM"
+  ]
+},
+
+{
+  "participant_id": "296d4584-5cab-4b3a-b2da-ee0f76bd625c",
+  "score": 35,
+  "reasons": [
+    "Experiencia en gestión de proyectos y marketing",
+    "No especializada en SEM",
+    "Inglés avanzado",
+    "Habilidades de comunicación y análisis pueden ser útiles"
+  ]
+},
+
+{
+  "participant_id": "b51e77bf-89e4-4d99-85a4-9a0122e2b391",
+  "score": 30,
+  "reasons": [
+    "Licenciada en Economía con experiencia administrativa",
+    "Conocimientos básicos de herramientas como Excel",
+    "Inglés avanzado",
+    "Sin experiencia específica en SEM"
+  ]
+},
+
+{
+  "participant_id": "ccf67ceb-a06f-4339-9bdb-c6a76999f1fb",
+  "score": 20,
+  "reasons": [
+    "Sin experiencia en SEM",
+    "Estudiante de Ingeniería Industrial",
+    "Inglés básico",
+    "No cumple con los requisitos técnicos"
+  ]
+},
+
+{
+  "participant_id": "8020318c-50c0-4b63-8eb6-713ebd48f90e",
+  "score": 25,
+  "reasons": [
+    "Estudiante de Economía",
+    "Certificaciones financieras",
+    "Inglés avanzado",
+    "No tiene experiencia en SEM"
+  ]
+}]

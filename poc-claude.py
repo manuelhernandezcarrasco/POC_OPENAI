@@ -1,18 +1,17 @@
 import os
 import fitz
 import uuid
-from openai import OpenAI
+from anthropic import Anthropic
 from dotenv import load_dotenv
 
 load_dotenv()
+
 cv_dir = "cvs"
-model = "o4-mini-2025-04-16"
 job_description_file = "job_description.pdf"
+model = "claude-3-5-haiku-20241022"
 
 cv_pdf_files = [os.path.join(cv_dir, f) for f in os.listdir(cv_dir) if f.endswith(".pdf")]
-
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
+client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 def extract_text_from_pdf(file_path):
     text = ""
@@ -21,22 +20,8 @@ def extract_text_from_pdf(file_path):
             text += page.get_text()
     return text
 
-
 def count_tokens(text):
-    # encoding = tiktoken.encoding_for_model(model)
-    # return len(encoding.encode(text))
     return len(text) // 4
-
-
-job_description = extract_text_from_pdf(job_description_file)
-cvs = [extract_text_from_pdf(file) for file in cv_pdf_files]
-cv_list = []
-for file in cv_pdf_files:
-    cv_text = extract_text_from_pdf(file)
-    cv_list.append({
-        "id": str(uuid.uuid4()),
-        "text": cv_text
-    })
 
 def build_prompt(job_description, batch):
     cvs_text = "\n".join([f"{cv['id']} - {cv['text']}" for cv in batch])
@@ -74,40 +59,45 @@ Currículums:
 {cvs_text}
 """
 
-# Separate queries in batches
-batch_size = 50
+# Load job description and CVs
+job_description = extract_text_from_pdf(job_description_file)
+cv_list = []
+for file in cv_pdf_files:
+    cv_text = extract_text_from_pdf(file)
+    cv_list.append({
+        "id": str(uuid.uuid4()),
+        "text": cv_text
+    })
 
+batch_size = 50
 results = ""
 
 for i in range(0, len(cv_list), batch_size):
     batch = cv_list[i:i + batch_size]
     prompt = build_prompt(job_description, batch)
 
-    print(f"▶️ Procesando batch {i // batch_size + 1} con {len(batch)} CVs...")
+    print(f"\n▶️ Procesando batch {i // batch_size + 1} con {len(batch)} CVs...")
 
-    # Count tokens for each CV
-    cv_token_counts = [count_tokens(cv) for cv in cvs]
-
-    # Calculate average
+    cv_token_counts = [count_tokens(cv["text"]) for cv in batch]
     average_tokens = sum(cv_token_counts) / len(cv_token_counts) if cv_token_counts else 0
 
     print("📄 Tokens per CV:", cv_token_counts)
     print(f"📊 Average tokens per CV: {average_tokens:.2f}")
 
-    # Count tokens for the entire prompt
     user_message = {"role": "user", "content": prompt}
     total_input_tokens = count_tokens(prompt)
 
     print(f"🔢 Tokens in input prompt: {total_input_tokens}")
 
-    response = client.chat.completions.create(
+    response = client.messages.create(
         model=model,
-        messages=[user_message],
+        max_tokens=4096,
+        temperature=0.2,
+        messages=[user_message]
     )
+    output = response.content[0].text
+    print(output)
+    results += output + "\n"
 
-    results += response.choices[0].message.content
-    print(response.choices[0].message.content)
-    print(f"📊 Token usage: {response.usage}")
-
-with open("output-openai.json", "w") as f:
+with open("output-claude.json", "w") as f:
     f.write(results)
