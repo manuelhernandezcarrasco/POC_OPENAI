@@ -21,7 +21,7 @@ token_usage_file = "token-usage.json"
 
 lock = threading.Lock()
 
-BATCH_SIZE = 10
+THREAD_BATCH_SIZE = 10
 DELAY_AFTER_BATCH = 60
 
 
@@ -198,28 +198,29 @@ def process_cv(cv_filename):
     except Exception as e:
         print(f"❌ Error procesando {cv_filename}: {e}")
 
+process_cv("CV_Antonila_Alvez.pdf")
 
-def batched(lst, n):
-    for i in range(0, len(lst), n):
-        yield lst[i:i + n]
+# def batched(lst, n):
+#     for i in range(0, len(lst), n):
+#         yield lst[i:i + n]
 
 
-all_files = [f for f in os.listdir(cv_dir) if f.lower().endswith((".pdf", ".png", ".jpg", ".jpeg"))]
+# all_files = [f for f in os.listdir(cv_dir) if f.lower().endswith((".pdf", ".png", ".jpg", ".jpeg"))]
 
-for i, batch in enumerate(batched(all_files, BATCH_SIZE), start=1):
-    print(f"🚀 Lanzando batch {i} con {len(batch)} archivos...")
-    threads = []
+# for i, batch in enumerate(batched(all_files, THREAD_BATCH_SIZE), start=1):
+#     print(f"🚀 Lanzando batch {i} con {len(batch)} archivos...")
+#     threads = []
 
-    for file in batch:
-        t = threading.Thread(target=process_cv, args=(file,))
-        t.start()
-        threads.append(t)
+#     for file in batch:
+#         t = threading.Thread(target=process_cv, args=(file,))
+#         t.start()
+#         threads.append(t)
 
-    for t in threads:
-        t.join()
+#     for t in threads:
+#         t.join()
 
-    if i < (len(all_files) + BATCH_SIZE - 1) // BATCH_SIZE:
-        print(f"⏳ Esperando {DELAY_AFTER_BATCH} segundos después del batch {i}...")
-        time.sleep(DELAY_AFTER_BATCH)
+#     if i < (len(all_files) + THREAD_BATCH_SIZE - 1) // THREAD_BATCH_SIZE:
+#         print(f"⏳ Esperando {DELAY_AFTER_BATCH} segundos después del batch {i}...")
+#         time.sleep(DELAY_AFTER_BATCH)
 
-print("🏁 Procesamiento completo.")
+# print("🏁 Procesamiento completo.")
