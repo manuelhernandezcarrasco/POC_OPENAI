@@ -1,0 +1,746 @@
+[
+  {
+    "participant_id": "51b93571-c749-4795-bc8a-becb52b7715f",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 209,
+    "total_tokens": 2153
+  },
+  {
+    "participant_id": "0e0a9e6d-0fd4-4440-9669-1a1f5f9e8786",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 172,
+    "total_tokens": 2106
+  },
+  {
+    "participant_id": "1c7b8d11-f54e-4509-97eb-289f84ea64f4",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 205,
+    "total_tokens": 2392
+  },
+  {
+    "participant_id": "ae2309b2-33df-4c01-ac8e-fac8142e4b3f",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 182,
+    "total_tokens": 2384
+  },
+  {
+    "participant_id": "db723f19-2185-4740-8f30-5edc42161e57",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 150,
+    "total_tokens": 2685
+  },
+  {
+    "participant_id": "82d512d4-4e3e-4678-9814-b8bdf05d3c52",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 135,
+    "total_tokens": 2608
+  },
+  {
+    "participant_id": "7e3e7cd5-612f-4998-8f17-f4478f993226",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 199,
+    "total_tokens": 2849
+  },
+  {
+    "participant_id": "b03f5eb5-d958-41a7-98ec-f9b2f94e5f66",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 177,
+    "total_tokens": 2659
+  },
+  {
+    "participant_id": "54b25d4d-1f26-4f08-931a-557bd6e7b202",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 148,
+    "total_tokens": 2476
+  },
+  {
+    "participant_id": "39375b64-31f6-4f21-9633-43c2253f8043",
+    "prompt_tokens": 1251,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 360,
+    "response_tokens": 186,
+    "total_tokens": 2723
+  },
+  {
+    "participant_id": "b6559d92-1a35-4afc-9da9-652c49418788",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 155,
+    "total_tokens": 1986
+  },
+  {
+    "participant_id": "1c65183f-6775-495c-8f5e-24ac3bb071de",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 160,
+    "total_tokens": 2093
+  },
+  {
+    "participant_id": "1ae9108b-4357-4ef8-ad3e-a6f6817936c1",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 163,
+    "total_tokens": 2505
+  },
+  {
+    "participant_id": "bba7d88a-72c3-48d8-8c82-a72bc0bbe59d",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 197,
+    "total_tokens": 2533
+  },
+  {
+    "participant_id": "18944b8c-d034-4a62-8464-c74e2c7eea09",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 180,
+    "total_tokens": 2499
+  },
+  {
+    "participant_id": "c1dacf77-d060-4654-96c6-3829abd0b80d",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 190,
+    "total_tokens": 2753
+  },
+  {
+    "participant_id": "13b1c060-fe3d-4bc2-8382-21e5e0c15ed7",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 187,
+    "total_tokens": 3017
+  },
+  {
+    "participant_id": "25e3ec04-75b3-4f10-a058-20b73d633065",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 265,
+    "total_tokens": 2929
+  },
+  {
+    "participant_id": "92ca6c5f-ec7f-480f-96f6-0126c2f11bb7",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 194,
+    "total_tokens": 1836
+  },
+  {
+    "participant_id": "c120e93d-8c48-4d41-8571-8b69b6f785cc",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 180,
+    "total_tokens": 2058
+  },
+  {
+    "participant_id": "fb91a72f-b6b2-4d40-9420-5ac479a5cd17",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 147,
+    "total_tokens": 2098
+  },
+  {
+    "participant_id": "11439edb-3f42-4bd4-8555-21658bd67b28",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 201,
+    "total_tokens": 2341
+  },
+  {
+    "participant_id": "af34afa8-275c-4d7e-b8e7-b71ffcad8145",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 212,
+    "total_tokens": 2251
+  },
+  {
+    "participant_id": "65e4ec2a-17ca-496c-8d80-5c3aa9419a4a",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 158,
+    "total_tokens": 2569
+  },
+  {
+    "participant_id": "3a79f005-0048-4508-913e-c66c0cdb0ade",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 188,
+    "total_tokens": 2739
+  },
+  {
+    "participant_id": "119505c1-9d79-4b87-9b2a-0b457b9c9881",
+    "prompt_tokens": 1251,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 360,
+    "response_tokens": 176,
+    "total_tokens": 2472
+  },
+  {
+    "participant_id": "9d3d4616-47e8-4447-b6a6-5eccea7e21a1",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 197,
+    "total_tokens": 2855
+  },
+  {
+    "participant_id": "fdc8e6bd-fa4a-499b-b6b9-6a5ce7f05507",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 190,
+    "total_tokens": 3054
+  },
+  {
+    "participant_id": "7a2a0dec-bce8-4ccc-9447-54de084f3b39",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 184,
+    "total_tokens": 2080
+  },
+  {
+    "participant_id": "8e7d7ef6-580f-4c7b-b0a2-92589e4cbf8f",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 161,
+    "total_tokens": 2126
+  },
+  {
+    "participant_id": "84e3a780-2303-49d3-9048-9bc22df1437f",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 199,
+    "total_tokens": 2498
+  },
+  {
+    "participant_id": "34a2fcaf-d3e2-4ade-886a-214b1bc02b39",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 195,
+    "total_tokens": 2201
+  },
+  {
+    "participant_id": "98a59580-501d-44a6-8283-d732b6511b38",
+    "prompt_tokens": 1251,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 360,
+    "response_tokens": 171,
+    "total_tokens": 2338
+  },
+  {
+    "participant_id": "2a4e53ca-e0e1-4c70-a658-3a25ae85dc2a",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 176,
+    "total_tokens": 2542
+  },
+  {
+    "participant_id": "2d9b7983-3dc5-410d-83e6-d1a7785d788c",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 225,
+    "total_tokens": 2699
+  },
+  {
+    "participant_id": "28739bb2-2748-49fb-ba55-d8ab7f6639ac",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 184,
+    "total_tokens": 2698
+  },
+  {
+    "participant_id": "25ca7438-9852-4bd1-83b0-d2e0b9c9ffa1",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 197,
+    "total_tokens": 2943
+  },
+  {
+    "participant_id": "52660c61-755d-4f42-86b7-93189940ec9f",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 165,
+    "total_tokens": 3035
+  },
+  {
+    "participant_id": "815c6003-cc75-43f5-a405-29d37476faea",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 197,
+    "total_tokens": 1852
+  },
+  {
+    "participant_id": "8bf14cf9-0404-458e-a176-c7bc40f7bb54",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 165,
+    "total_tokens": 2020
+  },
+  {
+    "participant_id": "0fb81775-a2c2-4ac4-978b-9b421ec3eddb",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 203,
+    "total_tokens": 2285
+  },
+  {
+    "participant_id": "9a3ccf8a-26b7-4e32-bf11-efaed7409f33",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 193,
+    "total_tokens": 2050
+  },
+  {
+    "participant_id": "a47f1c2e-2d9b-4a4d-9ff0-769dce3f2183",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 170,
+    "total_tokens": 2288
+  },
+  {
+    "participant_id": "66ea3e4a-cd4b-4168-b742-56433852eb81",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 161,
+    "total_tokens": 2212
+  },
+  {
+    "participant_id": "91929e48-fc29-4d5f-8a22-6dec52180a51",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 209,
+    "total_tokens": 2361
+  },
+  {
+    "participant_id": "54a4b74d-95b2-44eb-9ca2-5d3832802785",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 206,
+    "total_tokens": 2530
+  },
+  {
+    "participant_id": "d6eb7faa-eb21-4221-84ea-b40aa8fe65df",
+    "prompt_tokens": 1243,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 352,
+    "response_tokens": 150,
+    "total_tokens": 2853
+  },
+  {
+    "participant_id": "76f7aec8-8bb8-4948-b9f5-9c708c77a99a",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 187,
+    "total_tokens": 3109
+  },
+  {
+    "participant_id": "51e0e666-dbfe-4a63-a047-4123115c4f89",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 145,
+    "total_tokens": 2185
+  },
+  {
+    "participant_id": "dd24f3e6-95df-440b-bf56-a8c795a99259",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 165,
+    "total_tokens": 2066
+  },
+  {
+    "participant_id": "4e7f7370-1c9b-4533-aadf-cf5bab3d6103",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 193,
+    "total_tokens": 2259
+  },
+  {
+    "participant_id": "85b6e364-9403-46ad-a462-fecdc567ab2a",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 166,
+    "total_tokens": 2403
+  },
+  {
+    "participant_id": "afe6c3ce-0595-4d0c-b9c7-a502021db2e2",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 216,
+    "total_tokens": 2112
+  },
+  {
+    "participant_id": "1cb2b245-a58c-48aa-9a2a-177ff3e0c27e",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 169,
+    "total_tokens": 2592
+  },
+  {
+    "participant_id": "bd8a798d-cb90-4219-9e8e-9bc16f6afeab",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 152,
+    "total_tokens": 2348
+  },
+  {
+    "participant_id": "db24c4d2-2653-4af8-ae0e-a8193322b6c3",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 174,
+    "total_tokens": 2201
+  },
+  {
+    "participant_id": "f209a1c6-8e74-481d-ba4d-6770f5e42432",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 218,
+    "total_tokens": 2796
+  },
+  {
+    "participant_id": "806961b0-cf06-4723-b3dc-9c24701e56f2",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 171,
+    "total_tokens": 2845
+  },
+  {
+    "participant_id": "20937d71-698d-4ba5-b280-78ae7bd2c8f4",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 179,
+    "total_tokens": 1828
+  },
+  {
+    "participant_id": "ac79126c-000e-48aa-a04e-9f2edccbadf9",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 181,
+    "total_tokens": 2208
+  },
+  {
+    "participant_id": "cadf8fe2-891e-47cc-8ad9-c6ae7af61856",
+    "prompt_tokens": 1244,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 353,
+    "response_tokens": 182,
+    "total_tokens": 2397
+  },
+  {
+    "participant_id": "ed223f45-dd8d-42cb-a5cf-552cdeef52a5",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 200,
+    "total_tokens": 2218
+  },
+  {
+    "participant_id": "d8435ed4-5548-4dc6-80ee-22a003b532c6",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 199,
+    "total_tokens": 2570
+  },
+  {
+    "participant_id": "bb05aa6b-a066-4f4a-86ff-91aff83e5370",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 155,
+    "total_tokens": 2224
+  },
+  {
+    "participant_id": "9250b08d-18a4-4a2b-80cb-5d434bc2e576",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 216,
+    "total_tokens": 2490
+  },
+  {
+    "participant_id": "e1d647fe-8b70-4fb6-b2ae-2447f7791841",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 210,
+    "total_tokens": 2567
+  },
+  {
+    "participant_id": "02d3c3da-cfbd-48c8-8b71-b73675901d46",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 226,
+    "total_tokens": 2572
+  },
+  {
+    "participant_id": "cb4d1478-9efb-4cf9-89c4-097288cc31e6",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 172,
+    "total_tokens": 3367
+  },
+  {
+    "participant_id": "0079aa58-3310-4add-9e7d-f1f2418732c4",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 206,
+    "total_tokens": 1894
+  },
+  {
+    "participant_id": "c7a4c94e-3b38-4a73-8d8c-038580a939ad",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 159,
+    "total_tokens": 2182
+  },
+  {
+    "participant_id": "ceef65b6-4b8b-428f-8ad2-56d7ed59e30c",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 177,
+    "total_tokens": 2415
+  },
+  {
+    "participant_id": "f8c0acbb-de0d-4c61-a0c8-2a2b2e06c2e0",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 155,
+    "total_tokens": 2270
+  },
+  {
+    "participant_id": "d669e694-810e-463c-b568-3d10bb8f8252",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 201,
+    "total_tokens": 2147
+  },
+  {
+    "participant_id": "6db26ef7-1fd0-4173-8472-736cce7c80b2",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 199,
+    "total_tokens": 2580
+  },
+  {
+    "participant_id": "ddb449e0-89a5-4b57-92e1-8190f6de01d8",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 147,
+    "total_tokens": 2882
+  },
+  {
+    "participant_id": "02ebb761-a03a-406e-8488-8bde0a2c4870",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 187,
+    "total_tokens": 2589
+  },
+  {
+    "participant_id": "c8993bcc-0c02-4ae1-bfd3-d5e34c053d5f",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 204,
+    "total_tokens": 2812
+  },
+  {
+    "participant_id": "f0191075-7155-4225-89d7-b3dead7a533d",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 196,
+    "total_tokens": 3060
+  },
+  {
+    "participant_id": "30c09326-8ce5-4bd8-a7aa-05e412f3d407",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 181,
+    "total_tokens": 1969
+  },
+  {
+    "participant_id": "da8dfead-7f2b-42bf-8b7c-24f41bd54d7d",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 205,
+    "total_tokens": 2128
+  },
+  {
+    "participant_id": "9902bb70-fea1-48e7-9ecf-52b40cfd127e",
+    "prompt_tokens": 1246,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 355,
+    "response_tokens": 207,
+    "total_tokens": 2445
+  },
+  {
+    "participant_id": "80ac8369-0b04-4936-948f-dc69bf11d0a5",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 227,
+    "total_tokens": 2141
+  },
+  {
+    "participant_id": "02bd0e79-630b-4c0a-afd9-ee658906b389",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 169,
+    "total_tokens": 2221
+  },
+  {
+    "participant_id": "f34f2515-ee07-444e-8856-2158a1c2bf31",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 189,
+    "total_tokens": 2372
+  },
+  {
+    "participant_id": "4b8edc73-5da3-4068-b3b3-11aa8a8c59d4",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 187,
+    "total_tokens": 2368
+  },
+  {
+    "participant_id": "73283dcd-58c3-4bee-bc35-7a911eadae77",
+    "prompt_tokens": 1245,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 354,
+    "response_tokens": 177,
+    "total_tokens": 2939
+  },
+  {
+    "participant_id": "8b735687-67f4-489a-a9c1-43e98cbef38e",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 165,
+    "total_tokens": 2798
+  },
+  {
+    "participant_id": "0689b9af-d91d-4323-a31d-29a25f1f0f0f",
+    "prompt_tokens": 1250,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 359,
+    "response_tokens": 224,
+    "total_tokens": 3060
+  },
+  {
+    "participant_id": "7b8a5e2f-467e-413f-af80-c8e4db6eae31",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 183,
+    "total_tokens": 2468
+  },
+  {
+    "participant_id": "097604f8-cdf8-4602-8ae7-592b3a8f96bf",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 208,
+    "total_tokens": 2562
+  },
+  {
+    "participant_id": "4cc352d8-ac2a-4ed6-ab89-f9d229c55612",
+    "prompt_tokens": 1247,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 356,
+    "response_tokens": 171,
+    "total_tokens": 2801
+  },
+  {
+    "participant_id": "7adf6c46-1c45-473c-804e-7971c8aa351b",
+    "prompt_tokens": 1248,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 357,
+    "response_tokens": 169,
+    "total_tokens": 2531
+  },
+  {
+    "participant_id": "ab3223e4-d485-420e-ae7f-6f7b5785156b",
+    "prompt_tokens": 1249,
+    "prompt_tokens_local": 891,
+    "prompt_tokens_image": 358,
+    "response_tokens": 216,
+    "total_tokens": 3056
+  }
+]

@@ -1,12 +1,924 @@
 [
   {
-    "participant_id": "Lucas Cariola",
+    "participant_id": "51b93571-c749-4795-bc8a-becb52b7715f",
     "reasons": [
-      "El perfil y la experiencia del candidato se centran en diseño gráfico y docencia, no en marketing digital o SEM.",
-      "No se menciona experiencia ni conocimientos en herramientas clave requeridas como Google Ads, Google Analytics, Data Studio/Looker o Google Tag Manager.",
-      "El candidato no cumple con la experiencia mínima requerida de 2 años en gestión de campañas SEM y publicidad digital.",
-      "La formación académica del candidato no es en un campo relacionado con Marketing, Publicidad o Economía, como se requiere."
+      "El perfil presenta amplia experiencia en coordinaci\u00f3n de proyectos, relaciones institucionales, fundraising y gesti\u00f3n de eventos, pero carece de experiencia espec\u00edfica en gesti\u00f3n y optimizaci\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se menciona experiencia en el uso de herramientas clave para el puesto como Google Analytics, Data Studio/Looker, o Google Tag Manager.",
+      "La experiencia general es de alto nivel profesional, pero no se alinea con las tareas t\u00e9cnicas y anal\u00edticas requeridas para un Analista de Performance SEM.",
+      "Aunque el nivel de ingl\u00e9s es avanzado (C1), la falta de experiencia en el dominio principal (SEM) es un obst\u00e1culo cr\u00edtico."
     ],
     "score": 5
+  },
+  {
+    "participant_id": "0e0a9e6d-0fd4-4440-9669-1a1f5f9e8786",
+    "reasons": [
+      "El curr\u00edculum es de una abogada con experiencia exclusivamente legal.",
+      "No presenta experiencia en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No demuestra conocimientos o manejo de las herramientas requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La formaci\u00f3n acad\u00e9mica (Abogada) no se alinea con las \u00e1reas de estudio preferidas para el puesto (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "1c7b8d11-f54e-4509-97eb-289f84ea64f4",
+    "reasons": [
+      "No presenta la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM y publicidad digital.",
+      "No se menciona experiencia o conocimiento en herramientas clave como Google Ads, Meta Ads, Google Analytics, Looker/Data Studio, o Google Tag Manager, las cuales son excluyentes para el puesto.",
+      "La experiencia laboral detallada no es relevante para las tareas principales de un Analista de Performance SEM.",
+      "El campo de estudio actual (Psicolog\u00eda) y la formaci\u00f3n previa no se alinean con los requisitos educativos preferidos (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines) para roles t\u00e9cnicos de marketing."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "ae2309b2-33df-4c01-ac8e-fac8142e4b3f",
+    "reasons": [
+      "El curr\u00edculum se centra en dise\u00f1o multimedia, edici\u00f3n de video y creaci\u00f3n de contenido, no en an\u00e1lisis y gesti\u00f3n de campa\u00f1as SEM.",
+      "No se menciona experiencia espec\u00edfica con Google Ads, Meta Ads, Google Analytics, Google Tag Manager o herramientas de an\u00e1lisis de datos para performance.",
+      "El perfil no indica cumplir con la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM.",
+      "Aunque cumple con el posible nivel Junior/SemiSenior y demuestra conocimiento de ingl\u00e9s, las habilidades t\u00e9cnicas requeridas para el puesto no est\u00e1n presentes."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "db723f19-2185-4740-8f30-5edc42161e57",
+    "reasons": [
+      "No cumple con el requisito de experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM y publicidad digital.",
+      "La experiencia laboral previa no es directamente relevante para las tareas de Analista de Performance SEM.",
+      "No se menciona experiencia espec\u00edfica en el uso de herramientas clave de SEM como Google Ads, Meta Ads, Google Analytics y Google Tag Manager en el contexto del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "82d512d4-4e3e-4678-9814-b8bdf05d3c52",
+    "reasons": [
+      "El perfil del candidato es de Ingenier\u00eda de Software, no de Marketing Digital/SEM",
+      "Carece de experiencia relevante en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads)",
+      "No menciona experiencia con herramientas clave de SEM como Google Analytics, Google Tag Manager o Looker/Data Studio"
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7e3e7cd5-612f-4998-8f17-f4478f993226",
+    "reasons": [
+      "El candidato posee una Licenciatura en Econom\u00eda, que es una carrera af\u00edn al puesto.",
+      "Declara un nivel de ingl\u00e9s avanzado, superando el requisito b\u00e1sico.",
+      "La experiencia laboral y pasant\u00edas se centran en an\u00e1lisis financiero y econ\u00f3mico, no en gesti\u00f3n directa de campa\u00f1as SEM o publicidad digital.",
+      "No se menciona experiencia espec\u00edfica con herramientas excluyentes como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "No cumple con el requisito de 2 a\u00f1os de experiencia m\u00ednima en gesti\u00f3n de campa\u00f1as SEM y publicidad digital en organizaciones medianas o grandes."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "b03f5eb5-d958-41a7-98ec-f9b2f94e5f66",
+    "reasons": [
+      "Lack of specific experience in SEM campaign management (Google Ads, Meta Ads).",
+      "Does not list required tools like Google Ads, Google Analytics, Looker/Data Studio, or Google Tag Manager.",
+      "Experience is primarily in administrative, sales, and customer service roles, not digital marketing/SEM.",
+      "Does not meet the minimum 2 years of relevant experience required for the Junior/SemiSenior level.",
+      "Does not appear to have a university degree in a related field as required."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "54b25d4d-1f26-4f08-931a-557bd6e7b202",
+    "reasons": [
+      "Experiencia nula en gesti\u00f3n de campa\u00f1as SEM y publicidad digital, requisito fundamental de 2 a\u00f1os de experiencia m\u00ednima.",
+      "No se mencionan conocimientos ni manejo de herramientas clave excluyentes como Google Ads, Google Analytics y Google Tag Manager.",
+      "El perfil y la experiencia detallada se centran en desarrollo web, programaci\u00f3n y sistemas, no en performance marketing digital.",
+      "El candidato parece ser demasiado junior para la posici\u00f3n, a\u00fan cursando estudios universitarios sin experiencia profesional relevante en el \u00e1rea."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "39375b64-31f6-4f21-9633-43c2253f8043",
+    "reasons": [
+      "No cumple con la experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM.",
+      "No hay evidencia de s\u00f3lidos conocimientos o experiencia con Google Ads, Google Analytics, Looker/Data Studio (requisitos excluyentes).",
+      "No hay evidencia de conocimientos o experiencia con Google Tag Manager (requisito excluyente).",
+      "Es estudiante, no graduado/a en carrera af\u00edn.",
+      "La experiencia en marketing digital es limitada (5 meses) y enfocada en Meta Ads, no espec\u00edficamente SEM (Google Ads)."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "b6559d92-1a35-4afc-9da9-652c49418788",
+    "reasons": [
+      "El candidato es estudiante y busca su primera experiencia laboral, no cumpliendo con el requisito de 2+ a\u00f1os de experiencia en SEM/publicidad digital.",
+      "El curr\u00edculum no menciona experiencia o conocimientos en herramientas clave como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager.",
+      "La experiencia laboral previa no est\u00e1 relacionada con marketing digital o gesti\u00f3n de campa\u00f1as SEM."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "1c65183f-6775-495c-8f5e-24ac3bb071de",
+    "reasons": [
+      "El curr\u00edculum muestra experiencia en planificaci\u00f3n financiera y reporting, no en performance SEM o marketing digital.",
+      "No se mencionan herramientas clave para el puesto como Google Ads, Meta Ads, Google Analytics, o Google Tag Manager.",
+      "El nivel de experiencia (10+ a\u00f1os como gerente/analista senior en finanzas) supera considerablemente el seniority junior/semisenior requerido y el \u00e1rea de especializaci\u00f3n es distinta."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "1ae9108b-4357-4ef8-ad3e-a6f6817936c1",
+    "reasons": [
+      "El curr\u00edculum no demuestra experiencia espec\u00edfica en SEM/publicidad digital.",
+      "No cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia en el campo relevante.",
+      "No se mencionan conocimientos o experiencia con herramientas clave como Google Ads, Google Analytics, GTM, Looker o Data Studio.",
+      "La experiencia laboral listada (Community Manager, Soporte IT) no se alinea con las tareas principales del puesto."
+    ],
+    "score": 28
+  },
+  {
+    "participant_id": "bba7d88a-72c3-48d8-8c82-a72bc0bbe59d",
+    "reasons": [
+      "El candidato no presenta experiencia relevante en gesti\u00f3n de campa\u00f1as SEM, publicidad digital o an\u00e1lisis de datos.",
+      "No cumple con el requisito de experiencia m\u00ednima de 2 a\u00f1os en funciones relacionadas con el puesto.",
+      "No demuestra conocimiento o manejo de las herramientas clave y excluyentes mencionadas en la descripci\u00f3n (Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager).",
+      "La formaci\u00f3n acad\u00e9mica (bachiller) no se alinea con los requisitos de t\u00edtulo universitario en \u00e1reas afines al marketing o sistemas.",
+      "La experiencia profesional detallada no es aplicable a las tareas principales del puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "18944b8c-d034-4a62-8464-c74e2c7eea09",
+    "reasons": [
+      "El curr\u00edculum no evidencia la experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM y publicidad digital requerida.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave solicitadas (Google Ads, Google Analytics, Data Studio/Looker, Google Tag Manager).",
+      "La experiencia laboral detallada se encuentra en \u00e1reas no relacionadas directamente con el marketing digital o el performance SEM.",
+      "Aunque el t\u00edtulo en Sistemas es relevante, la experiencia profesional no se alinea con los requisitos espec\u00edficos del puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "c1dacf77-d060-4654-96c6-3829abd0b80d",
+    "reasons": [
+      "Experiencia profesional no relacionada con las tareas y herramientas de un Analista de Performance SEM.",
+      "No se demuestra experiencia o conocimiento en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads), Google Analytics, Looker/Data Studio, o Google Tag Manager (requisitos excluyentes).",
+      "El perfil del candidato, siendo estudiante, no cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia relevante en publicidad digital.",
+      "Aunque el nivel de ingl\u00e9s es avanzado y certificado, la falta de experiencia y conocimientos t\u00e9cnicos espec\u00edficos de SEM es un impedimento clave para el puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "13b1c060-fe3d-4bc2-8382-21e5e0c15ed7",
+    "reasons": [
+      "La experiencia laboral es exclusivamente administrativa, sin relaci\u00f3n con el marketing digital o SEM.",
+      "No se menciona experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni an\u00e1lisis de datos con herramientas como Google Analytics, Looker o Data Studio.",
+      "No se listan conocimientos ni experiencia con Google Tag Manager u otras herramientas y t\u00e9cnicas requeridas para el puesto (investigaci\u00f3n de palabras clave, A/B testing, etc.).",
+      "El perfil y la experiencia no se alinean con los requisitos de seniority Junior/SemiSenior en performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "25e3ec04-75b3-4f10-a058-20b73d633065",
+    "reasons": [
+      "La experiencia laboral principal del candidato es en roles administrativos y no espec\u00edfica en Performance SEM o publicidad digital.",
+      "No se evidencia la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se mencionan ni demuestran conocimientos o experiencia con herramientas clave y excluyentes como Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "El perfil del candidato no se alinea con las tareas principales listadas en la descripci\u00f3n del puesto de Analista de Performance SEM.",
+      "Aunque tiene un curso de Marketing Digital, la experiencia profesional no refleja aplicaci\u00f3n en el \u00e1rea de SEM Performance.",
+      "El nivel de seniority de la experiencia administrativa no corresponde al requerido para un Analista de Performance SEM Junior/SemiSenior con experiencia en herramientas espec\u00edficas y campa\u00f1as.",
+      "Se menciona 'Secretaria ejecutiva biling\u00fce' en un rol anterior, indicando posible manejo de ingl\u00e9s, pero los requisitos t\u00e9cnicos excluyentes no se cumplen de ninguna manera en el CV.",
+      "Faltan certificaciones o menciones de dominio de plataformas de publicidad digital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "92ca6c5f-ec7f-480f-96f6-0126c2f11bb7",
+    "reasons": [
+      "El curr\u00edculum no muestra experiencia relevante en gesti\u00f3n de campa\u00f1as SEM, publicidad digital, Google Ads, Meta Ads, Google Analytics o Google Tag Manager, lo cual es un requisito excluyente con un m\u00ednimo de 2 a\u00f1os.",
+      "La formaci\u00f3n acad\u00e9mica es en Psicolog\u00eda, no en Marketing, Publicidad, Sistemas, Econom\u00eda o afines, que son las \u00e1reas de estudio preferidas para la posici\u00f3n.",
+      "Aunque la candidata es graduada de la Universidad Austral y tiene buen nivel de ingl\u00e9s, carece de la experiencia t\u00e9cnica y el conocimiento espec\u00edfico requeridos para un Analista de Performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c120e93d-8c48-4d41-8571-8b69b6f785cc",
+    "reasons": [
+      "El candidato es estudiante de tercer a\u00f1o sin experiencia relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No cumple el requisito m\u00ednimo de 2 a\u00f1os de experiencia en gesti\u00f3n de campa\u00f1as SEM en organizaciones medianas o grandes.",
+      "No menciona conocimientos o experiencia con las herramientas clave requeridas como Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager.",
+      "El perfil es m\u00e1s adecuado para una posici\u00f3n de nivel inicial o pasant\u00eda, no Junior/SemiSenior Analista de Performance SEM."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "fb91a72f-b6b2-4d40-9420-5ac479a5cd17",
+    "reasons": [
+      "La experiencia profesional descrita no es relevante para el puesto de Analista de Performance SEM.",
+      "El curr\u00edculum no menciona experiencia en gesti\u00f3n de campa\u00f1as SEM, Google Ads, Meta Ads, Google Analytics o Google Tag Manager.",
+      "El perfil parece enfocado en \u00e1reas de liderazgo, procesos de mejora y mantenimiento/reparaci\u00f3n, ajenas al marketing digital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "11439edb-3f42-4bd4-8555-21658bd67b28",
+    "reasons": [
+      "La experiencia profesional del candidato es en auditor\u00eda interna y desarrollo normativo, lo cual no se alinea con las tareas de un Analista de Performance SEM.",
+      "No se menciona experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni manejo de herramientas como Google Analytics, Data Studio/Looker o Google Tag Manager, que son requisitos excluyentes.",
+      "La formaci\u00f3n acad\u00e9mica en Derecho no coincide con los perfiles preferidos (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "Aunque el candidato tiene seniority, no es en la industria o \u00e1rea funcional requerida para este puesto espec\u00edfico."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "af34afa8-275c-4d7e-b8e7-b71ffcad8145",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni manejo de herramientas como Google Analytics, Google Tag Manager, Looker o Data Studio, las cuales son requisitos excluyentes.",
+      "La formaci\u00f3n acad\u00e9mica principal es en Comunicaci\u00f3n y Ciencias Sociales, lo cual no se alinea directamente con el perfil t\u00e9cnico y anal\u00edtico requerido para el puesto de Analista de Performance SEM.",
+      "Las habilidades tecnol\u00f3gicas listadas (SQL, JAVA, Drupal) no son las principales herramientas solicitadas en la descripci\u00f3n del puesto.",
+      "Aunque se menciona 'Idioma Ingl\u00e9s' en las competencias, no se especifica el nivel, lo cual podr\u00eda ser relevante para la posici\u00f3n."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "65e4ec2a-17ca-496c-8d80-5c3aa9419a4a",
+    "reasons": [
+      "No cuenta con la experiencia m\u00ednima requerida de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No menciona conocimientos ni experiencia en el manejo de herramientas excluyentes como Google Ads, Google Analytics, Google Tag Manager, Data Studio o Looker.",
+      "La formaci\u00f3n acad\u00e9mica (Psicolog\u00eda) no se alinea directamente con las \u00e1reas de estudio solicitadas (Marketing, Publicidad, Sistemas, Econom\u00eda)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "3a79f005-0048-4508-913e-c66c0cdb0ade",
+    "reasons": [
+      "El perfil no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM y publicidad digital, requisito excluyente con un m\u00ednimo de 2 a\u00f1os.",
+      "No se mencionan conocimientos o manejo de herramientas clave y excluyentes como Google Ads, Google Analytics, Google Tag Manager y Looker/Data Studio.",
+      "La experiencia laboral listada (emprendimiento personal y ventas en retail) no es directamente relevante para el puesto de Analista de Performance SEM.",
+      "El perfil corresponde a un estudiante con experiencia limitada, no cumpliendo con el seniority Junior/SemiSenior requerido."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "119505c1-9d79-4b87-9b2a-0b457b9c9881",
+    "reasons": [
+      "El candidato no cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia en gesti\u00f3n de campa\u00f1as SEM y publicidad digital en organizaciones.",
+      "La experiencia laboral actual es de trainee administrativo y no parece estar directamente relacionada con las tareas de an\u00e1lisis de performance SEM.",
+      "Aunque cuenta con un curso relevante en Marketing Digital (CoderHouse) y estudios afines en curso, carece de la experiencia profesional requerida con las herramientas SEM (Google Ads, Analytics, GTM) mencionadas como excluyentes."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "9d3d4616-47e8-4447-b6a6-5eccea7e21a1",
+    "reasons": [
+      "El curr\u00edculum no muestra experiencia en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No se menciona experiencia con las herramientas clave requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia laboral es exclusivamente de car\u00e1cter administrativo, no relacionada con el an\u00e1lisis de performance o marketing digital.",
+      "La formaci\u00f3n acad\u00e9mica (Lic. en Comunicaci\u00f3n Social incompleta) no se alinea directamente con los requisitos de graduado en Marketing, Publicidad o afines para esta posici\u00f3n.",
+      "No hay indicaci\u00f3n del nivel de manejo de ingl\u00e9s en el curr\u00edculum."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "fdc8e6bd-fa4a-499b-b6b9-6a5ce7f05507",
+    "reasons": [
+      "La experiencia principal se centra en estrategia digital general, social media y PR, no espec\u00edficamente en gesti\u00f3n y an\u00e1lisis de performance SEM (Google Ads, Meta Ads).",
+      "No se mencionan expl\u00edcitamente conocimientos o experiencia con herramientas clave y excluyentes para el puesto, como Google Ads, Google Analytics, Google Tag Manager o Data Studio/Looker.",
+      "Los t\u00edtulos de los puestos recientes (\"Head of Digital\", \"Head of Social Media\") sugieren un nivel de senioridad y responsabilidad estrat\u00e9gica que parece superior al de un Analista Junior/SemiSenior de Performance SEM."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "7a2a0dec-bce8-4ccc-9447-54de084f3b39",
+    "reasons": [
+      "No presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM, publicidad digital, ni manejo de herramientas requeridas como Google Ads, Google Analytics o Google Tag Manager.",
+      "La experiencia laboral se centra en roles de producci\u00f3n y atenci\u00f3n al cliente, no alineados con los requisitos del puesto de Analista de Performance SEM.",
+      "No se menciona experiencia relevante en an\u00e1lisis de datos o uso de plataformas como Looker/Data Studio.",
+      "No se especifica el nivel de manejo de ingl\u00e9s, aunque el puesto no lo marca como excluyente, es un criterio de evaluaci\u00f3n general."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "8e7d7ef6-580f-4c7b-b0a2-92589e4cbf8f",
+    "reasons": [
+      "La experiencia laboral del candidato se enfoca en desarrollo Full Stack y Front End, no en Performance SEM.",
+      "No se mencionan herramientas ni tareas clave para el puesto, como Google Ads, Meta Ads, Google Analytics, Google Tag Manager, investigaci\u00f3n de palabras clave o A/B testing para campa\u00f1as de marketing.",
+      "El perfil del candidato est\u00e1 desalineado con los requisitos espec\u00edficos del puesto de Analista de Performance SEM."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "84e3a780-2303-49d3-9048-9bc22df1437f",
+    "reasons": [
+      "El candidato no cuenta con experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, la cual es requerida con un m\u00ednimo de 2 a\u00f1os.",
+      "Faltan conocimientos y experiencia demostrable en herramientas clave y excluyentes como Google Ads, Google Analytics, Looker/Data Studio y Google Tag Manager.",
+      "El candidato es estudiante y a\u00fan no se ha graduado, mientras que el puesto requiere un graduado universitario.",
+      "La \u00fanica experiencia laboral mencionada es una pasant\u00eda en un \u00e1rea no relacionada (Carga y seguimiento de \u00d3rdenes de Compra/Facturas, SAP/Excel)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "34a2fcaf-d3e2-4ade-886a-214b1bc02b39",
+    "reasons": [
+      "La experiencia laboral detallada (Repositora, Cajera) no es relevante para el puesto de Analista de Performance SEM.",
+      "El curr\u00edculum no muestra experiencia en gesti\u00f3n de campa\u00f1as SEM, Google Ads, Meta Ads, Google Analytics, Google Tag Manager, ni otras herramientas de an\u00e1lisis digital requeridas.",
+      "La educaci\u00f3n actual (carrera de Derecho) no es af\u00edn a las \u00e1reas de estudio solicitadas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "No se cumplen los requisitos m\u00ednimos de 2 a\u00f1os de experiencia en gesti\u00f3n de campa\u00f1as SEM y publicidad digital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "98a59580-501d-44a6-8283-d732b6511b38",
+    "reasons": [
+      "El candidato no presenta experiencia profesional relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, lo cual es un requisito excluyente de al menos 2 a\u00f1os.",
+      "No demuestra conocimiento ni experiencia con las herramientas clave y excluyentes mencionadas en la descripci\u00f3n del puesto (Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager).",
+      "La experiencia laboral detallada no est\u00e1 relacionada con las responsabilidades y tareas del puesto de Analista de Performance SEM."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "2a4e53ca-e0e1-4c70-a658-3a25ae85dc2a",
+    "reasons": [
+      "El candidato no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, que es un requisito excluyente con un m\u00ednimo de 2 a\u00f1os.",
+      "La experiencia laboral detallada en el curr\u00edculum (Analista Contable, Administrativo) no es relevante para las tareas y responsabilidades del puesto de Analista de Performance SEM.",
+      "No se mencionan conocimientos o experiencia con las herramientas excluyentes para el puesto (Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "2d9b7983-3dc5-410d-83e6-d1a7785d788c",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave requeridas como Google Ads, Meta Ads, Google Analytics, Google Tag Manager, Looker/Data Studio en un contexto de marketing digital.",
+      "La experiencia laboral detallada se centra en roles administrativos, atenci\u00f3n al cliente y gesti\u00f3n general, no alineados con las tareas de un Analista de Performance SEM.",
+      "La formaci\u00f3n acad\u00e9mica (Licenciatura en Criminal\u00edstica) no corresponde a las \u00e1reas solicitadas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "No cumple con el requisito de experiencia m\u00ednima de 2 a\u00f1os en el \u00e1rea espec\u00edfica de SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "28739bb2-2748-49fb-ba55-d8ab7f6639ac",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se mencionan conocimientos o experiencia con herramientas clave como Google Analytics, Google Tag Manager, Looker o Data Studio, las cuales son excluyentes.",
+      "La experiencia laboral detallada se centra en \u00e1reas de Administraci\u00f3n, Contabilidad y Finanzas, no en marketing digital o an\u00e1lisis de performance SEM.",
+      "Aunque cuenta con un t\u00edtulo universitario, no es directamente en las \u00e1reas de Marketing, Publicidad o afines requeridas para el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "25ca7438-9852-4bd1-83b0-d2e0b9c9ffa1",
+    "reasons": [
+      "Fuerte experiencia en an\u00e1lisis de datos y manejo de herramientas de data science (R, Python, PowerBI, SQL).",
+      "Cumple con el requisito de nivel de ingl\u00e9s medio.",
+      "La experiencia laboral se centra en an\u00e1lisis de datos y estad\u00edsticas, no espec\u00edficamente en gesti\u00f3n directa de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se menciona experiencia expl\u00edcita con la gesti\u00f3n de Google Ads, Meta Ads, Google Analytics o Google Tag Manager en el contexto de publicidad digital.",
+      "El perfil se orienta m\u00e1s hacia la ciencia de datos y estad\u00edstica que al marketing de performance SEM."
+    ],
+    "score": 45
+  },
+  {
+    "participant_id": "52660c61-755d-4f42-86b7-93189940ec9f",
+    "reasons": [
+      "No experience listed in managing SEM campaigns (Google Ads, Meta Ads).",
+      "Lack of experience with exclusive required tools (Google Analytics, Google Tag Manager, Looker/Data Studio).",
+      "Does not meet the minimum requirement of 2 years of relevant SEM experience.",
+      "Current experience is unrelated to digital marketing or performance analysis.",
+      "Strong English level (C1) is a positive match for potential communication needs."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "815c6003-cc75-43f5-a405-29d37476faea",
+    "reasons": [
+      "El perfil del candidato est\u00e1 enfocado en administraci\u00f3n y finanzas/compras, no en marketing digital o performance SEM.",
+      "No se observa experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads), an\u00e1lisis de datos con Google Analytics, o manejo de Google Tag Manager, que son requisitos excluyentes.",
+      "Aunque la antig\u00fcedad laboral podr\u00eda ajustarse a un perfil Junior/SemiSenior, la experiencia espec\u00edfica es completamente irrelevante para el puesto solicitado.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave requeridas (Google Ads, Google Analytics, GTM, Looker/Data Studio)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "8bf14cf9-0404-458e-a176-c7bc40f7bb54",
+    "reasons": [
+      "El candidato es estudiante sin experiencia laboral formal en gesti\u00f3n de campa\u00f1as SEM, lo cual no cumple el requisito m\u00ednimo de 2 a\u00f1os de experiencia.",
+      "No se menciona experiencia ni conocimientos espec\u00edficos en Google Ads, Meta Ads, Google Analytics, Google Tag Manager o herramientas de reporte como Looker/Data Studio, que son requisitos excluyentes o s\u00f3lidos conocimientos requeridos para el puesto.",
+      "El curr\u00edculum no especifica el nivel de manejo del idioma ingl\u00e9s."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "0fb81775-a2c2-4ac4-978b-9b421ec3eddb",
+    "reasons": [
+      "La experiencia laboral no es relevante para la posici\u00f3n de Analista de Performance SEM, enfoc\u00e1ndose principalmente en roles administrativos, asistencia personal y coaching.",
+      "No se menciona experiencia ni conocimientos en las herramientas y tareas clave requeridas para el puesto, como Google Ads, Meta Ads, Google Analytics, Google Tag Manager, investigaci\u00f3n de palabras clave, A/B testing, o reportes de performance digital.",
+      "La formaci\u00f3n acad\u00e9mica no se alinea con las \u00e1reas de estudio requeridas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "No cumple con el requisito de al menos 2 a\u00f1os de experiencia en gesti\u00f3n de campa\u00f1as SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "9a3ccf8a-26b7-4e32-bf11-efaed7409f33",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia relevante en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni en el uso de herramientas como Google Analytics o Google Tag Manager, que son requisitos excluyentes para el puesto.",
+      "La experiencia laboral del candidato se centra principalmente en roles administrativos, de contabilidad y soporte, los cuales no se alinean con las tareas y responsabilidades de un Analista de Performance SEM.",
+      "Aunque se menciona el uso de ingl\u00e9s en llamadas, no hay detalles sobre el nivel o su aplicaci\u00f3n en un contexto de marketing digital, lo cual no permite evaluar si cumple con el requisito."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "a47f1c2e-2d9b-4a4d-9ff0-769dce3f2183",
+    "reasons": [
+      "El candidato no presenta experiencia relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, requisito clave con un m\u00ednimo de 2 a\u00f1os.",
+      "La formaci\u00f3n acad\u00e9mica actual y la experiencia laboral detallada no est\u00e1n alineadas con los requisitos del puesto (Marketing, Publicidad, Sistemas, Econom\u00eda, etc. y herramientas SEM espec\u00edficas).",
+      "El perfil del candidato es de un estudiante sin experiencia profesional en el \u00e1rea, lo que no se ajusta al seniority Junior/SemiSenior requerido."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "66ea3e4a-cd4b-4168-b742-56433852eb81",
+    "reasons": [
+      "El curr\u00edculum indica experiencia en Desarrollo Full Stack, no en Performance SEM o publicidad digital.",
+      "No se menciona experiencia o conocimiento en las herramientas clave requeridas (Google Ads, Meta Ads, Google Analytics, GTM, Looker/Data Studio).",
+      "La experiencia listada consiste en proyectos de muy corta duraci\u00f3n (d\u00edas/semanas), no cumpliendo con el requisito m\u00ednimo de 2 a\u00f1os de experiencia."
+    ],
+    "score": 8
+  },
+  {
+    "participant_id": "91929e48-fc29-4d5f-8a22-6dec52180a51",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, la cual es un requisito excluyente.",
+      "La experiencia laboral detallada es exclusivamente en roles de secretar\u00eda jur\u00eddica, sin relaci\u00f3n con las tareas de un Analista de Performance SEM.",
+      "No se mencionan conocimientos o manejo de las herramientas clave requeridas como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager.",
+      "La formaci\u00f3n acad\u00e9mica en Abogac\u00eda no se alinea directamente con las carreras solicitadas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "No se especifica el nivel de manejo del idioma ingl\u00e9s."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "54a4b74d-95b2-44eb-9ca2-5d3832802785",
+    "reasons": [
+      "No presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM, publicidad digital o an\u00e1lisis de performance, lo cual es un requisito excluyente con un m\u00ednimo de 2 a\u00f1os.",
+      "No menciona conocimientos o experiencia en el uso de herramientas fundamentales para el puesto, como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager, que son requisitos excluyentes.",
+      "La experiencia laboral detallada se centra en el \u00e1rea administrativa de salud, sin relaci\u00f3n con las tareas y responsabilidades de un Analista de Performance SEM.",
+      "La formaci\u00f3n acad\u00e9mica listada no corresponde a las \u00e1reas requeridas (Marketing, Publicidad, Sistemas, Econom\u00eda o afines)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "d6eb7faa-eb21-4221-84ea-b40aa8fe65df",
+    "reasons": [
+      "El candidato carece de la experiencia m\u00ednima requerida de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "La experiencia laboral del candidato se limita al sector hospitalario, no relevante para el puesto de Analista de Performance SEM.",
+      "El curr\u00edculum no menciona conocimientos o experiencia con las herramientas requeridas (Google Ads, Google Analytics, Google Tag Manager, Looker/Data Studio)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "76f7aec8-8bb8-4948-b9f5-9c708c77a99a",
+    "reasons": [
+      "La experiencia laboral es en desarrollo de software (Back-End, Analytics general), no directamente en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "El curr\u00edculum no menciona conocimientos ni experiencia con las herramientas excluyentes requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker/Data Studio.",
+      "Aunque cuenta con m\u00e1s de 2 a\u00f1os de experiencia profesional, esta no es en el \u00e1rea espec\u00edfica de performance marketing/SEM seg\u00fan los requisitos del puesto.",
+      "El candidato es estudiante, no graduado, aunque cursa una carrera af\u00edn."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "51e0e666-dbfe-4a63-a047-4123115c4f89",
+    "reasons": [
+      "La experiencia del candidato es en soporte t\u00e9cnico y consultor\u00eda de IT, no en gesti\u00f3n de campa\u00f1as SEM ni publicidad digital.",
+      "El perfil tiene un seniority mucho mayor al requerido para una posici\u00f3n Junior/SemiSenior.",
+      "No se mencionan conocimientos o experiencia con herramientas clave para el puesto como Google Ads, Google Analytics, Google Tag Manager, etc."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "dd24f3e6-95df-440b-bf56-a8c795a99259",
+    "reasons": [
+      "El perfil del candidato es de Arquitecta y Profesora, lo cual no se alinea con los requisitos de un Analista de Performance SEM.",
+      "No se presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM, publicidad digital o an\u00e1lisis de datos de marketing, que son requisitos excluyentes del puesto.",
+      "El curr\u00edculum no menciona conocimientos o experiencia con las herramientas clave como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "4e7f7370-1c9b-4533-aadf-cf5bab3d6103",
+    "reasons": [
+      "El candidato no presenta experiencia directa en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) seg\u00fan lo detallado en el CV.",
+      "Carece de experiencia demostrada con las herramientas clave requeridas como Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia laboral previa se enfoca en roles de ventas, atenci\u00f3n al cliente y gesti\u00f3n b\u00e1sica de redes sociales, lo cual no se alinea con el an\u00e1lisis de performance SEM.",
+      "Aunque el puesto es Junior/SemiSenior, los requisitos t\u00e9cnicos espec\u00edficos no se ven reflejados en la experiencia ni habilidades listadas."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "85b6e364-9403-46ad-a462-fecdc567ab2a",
+    "reasons": [
+      "El candidato tiene experiencia en desarrollo front-end y full-stack, no en marketing digital o gesti\u00f3n de campa\u00f1as SEM.",
+      "No se mencionan habilidades o conocimientos en Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio, que son excluyentes para el puesto.",
+      "La formaci\u00f3n acad\u00e9mica (Bachiller y cursos de programaci\u00f3n) no se alinea con los requisitos de la posici\u00f3n (Marketing, Publicidad, Sistemas, Econom\u00eda o afines)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "afe6c3ce-0595-4d0c-b9c7-a502021db2e2",
+    "reasons": [
+      "El perfil del candidato parece tener un nivel de seniority superior al requerido (Junior/SemiSenior) para el puesto de Analista de Performance SEM.",
+      "La experiencia laboral detallada no se centra en la gesti\u00f3n directa y t\u00e9cnica de campa\u00f1as SEM (Google Ads, Meta Ads) o el uso de herramientas espec\u00edficas como Google Tag Manager, que son requisitos excluyentes.",
+      "Aunque se menciona experiencia en an\u00e1lisis de datos (Power BI, DAX, SQL, m\u00e9tricas), no est\u00e1 espec\u00edficamente vinculada a la optimizaci\u00f3n de campa\u00f1as de marketing digital de performance.",
+      "El curr\u00edculum no especifica el nivel de manejo del idioma ingl\u00e9s, que puede ser relevante para trabajar con plataformas y recursos t\u00e9cnicos en SEM."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "1cb2b245-a58c-48aa-9a2a-177ff3e0c27e",
+    "reasons": [
+      "No presenta experiencia relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No menciona manejo o conocimiento de las herramientas clave requeridas (Google Ads, Google Analytics, Data Studio/Looker, Google Tag Manager).",
+      "La formaci\u00f3n acad\u00e9mica (Profesorado de Educaci\u00f3n Inicial) no es af\u00edn a las \u00e1reas requeridas (Marketing, Publicidad, Sistemas, Econom\u00eda).",
+      "La experiencia laboral listada es en \u00e1reas no relacionadas (ventas, comercial)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "bd8a798d-cb90-4219-9e8e-9bc16f6afeab",
+    "reasons": [
+      "El candidato es estudiante y no presenta la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM.",
+      "No se menciona conocimiento o experiencia con Google Ads, Meta Ads, Google Analytics, Data Studio/Looker o Google Tag Manager, herramientas excluyentes para el puesto.",
+      "El perfil de habilidades se orienta a desarrollo de software (backend/frontend), no a an\u00e1lisis de performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "db24c4d2-2653-4af8-ae0e-a8193322b6c3",
+    "reasons": [
+      "El candidato no presenta experiencia en gesti\u00f3n de campa\u00f1as SEM, publicidad digital o performance marketing, lo cual es un requisito excluyente.",
+      "Carece de experiencia o conocimientos en las herramientas clave mencionadas en la descripci\u00f3n del puesto, como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "Toda la experiencia laboral detallada est\u00e1 centrada en roles de contabilidad y finanzas, que no se alinean con las responsabilidades del puesto de Analista de Performance SEM."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "f209a1c6-8e74-481d-ba4d-6770f5e42432",
+    "reasons": [
+      "El candidato no presenta la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM.",
+      "La experiencia laboral detallada como 'Repositor' no es relevante para el puesto de Analista de Performance SEM.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave especificadas en la descripci\u00f3n del puesto (Google Ads, Google Analytics, GTM, Looker/Data Studio).",
+      "La formaci\u00f3n acad\u00e9mica indicada ('Secundario completo') no se alinea con el requisito de ser graduado en carreras afines (Marketing, Publicidad, Sistemas, Econom\u00eda, etc.).",
+      "Las \u00e1reas de inter\u00e9s laboral listadas no corresponden con las responsabilidades del puesto ofrecido."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "806961b0-cf06-4723-b3dc-9c24701e56f2",
+    "reasons": [
+      "La experiencia del candidato est\u00e1 fuertemente orientada al dise\u00f1o digital y desarrollo web, no a la gesti\u00f3n de campa\u00f1as SEM y an\u00e1lisis de performance.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave y excluyentes del puesto (Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager).",
+      "Aunque cumple con el nivel de seniority general por a\u00f1os de experiencia, esta experiencia no es directamente relevante para el rol de Analista de Performance SEM."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "20937d71-698d-4ba5-b280-78ae7bd2c8f4",
+    "reasons": [
+      "El curr\u00edculum no muestra experiencia directa en gesti\u00f3n de campa\u00f1as SEM, Google Ads, Meta Ads o herramientas de an\u00e1lisis como Google Analytics y Tag Manager, que son requisitos excluyentes.",
+      "La experiencia laboral se centra en asistencia docente en \u00e1reas de ingenier\u00eda y programaci\u00f3n, no relevante para el puesto de analista de performance SEM.",
+      "Aunque el nivel de ingl\u00e9s es adecuado y la seniority junior/semisenior podr\u00eda encajar, la falta de experiencia espec\u00edfica en marketing digital y SEM es un impedimento significativo para este rol."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "ac79126c-000e-48aa-a04e-9f2edccbadf9",
+    "reasons": [
+      "El candidato no presenta experiencia en marketing digital o SEM, lo cual es fundamental para la posici\u00f3n.",
+      "La experiencia profesional del candidato se enfoca completamente en \u00e1reas de contabilidad, finanzas y auditor\u00eda.",
+      "No se mencionan conocimientos o manejo de las herramientas requeridas como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager.",
+      "Aunque el candidato tiene un nivel de seniority en su campo (Contabilidad/Finanzas), no posee la experiencia Junior/SemiSenior espec\u00edfica en Performance SEM que busca la posici\u00f3n."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "cadf8fe2-891e-47cc-8ad9-c6ae7af61856",
+    "reasons": [
+      "La formaci\u00f3n acad\u00e9mica (Bachiller t\u00e9cnico) no se alinea con los requisitos de grado en Marketing, Publicidad, Sistemas, Econom\u00eda o afines.",
+      "La experiencia profesional listada es en roles t\u00e9cnicos, log\u00edsticos y de mantenimiento, no relacionados con la gesti\u00f3n de campa\u00f1as SEM, an\u00e1lisis de datos o marketing digital.",
+      "El curr\u00edculum no menciona experiencia ni conocimientos en las herramientas excluyentes (Google Ads, Google Analytics, Google Tag Manager).",
+      "No cumple con el requisito de experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "ed223f45-dd8d-42cb-a5cf-552cdeef52a5",
+    "reasons": [
+      "El perfil del candidato est\u00e1 enfocado en dise\u00f1o gr\u00e1fico y docencia, \u00e1reas no directamente relacionadas con el puesto de Analista de Performance SEM.",
+      "No se menciona experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni en el manejo de herramientas clave como Google Analytics, Google Tag Manager o Looker/Data Studio, que son requisitos excluyentes.",
+      "Las habilidades listadas (Photoshop, Corel Draw, etc.) no corresponden a las requeridas para el an\u00e1lisis y la gesti\u00f3n de performance digital.",
+      "La experiencia laboral detallada no demuestra el seniority m\u00ednimo de 2 a\u00f1os requerido en gesti\u00f3n de campa\u00f1as SEM."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "d8435ed4-5548-4dc6-80ee-22a003b532c6",
+    "reasons": [
+      "El candidato no posee experiencia previa en gesti\u00f3n de campa\u00f1as SEM ni publicidad digital, lo cual es un requisito excluyente de 2 a\u00f1os.",
+      "No demuestra conocimiento ni experiencia en el manejo de herramientas clave como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager.",
+      "La experiencia laboral detallada es en soporte IT y asistencia acad\u00e9mica, no relacionada con las tareas del puesto de Analista SEM.",
+      "Si bien cursa una carrera af\u00edn (Ingenier\u00eda Inform\u00e1tica) y posee buen nivel de ingl\u00e9s (B2), no cumple con los requisitos t\u00e9cnicos y de experiencia espec\u00edficos del rol."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "bb05aa6b-a066-4f4a-86ff-91aff83e5370",
+    "reasons": [
+      "La experiencia laboral no incluye gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No se menciona experiencia con herramientas clave como Google Ads, Meta Ads, Google Analytics o Google Tag Manager.",
+      "La formaci\u00f3n acad\u00e9mica no corresponde a las \u00e1reas requeridas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "El perfil de experiencia es administrativo y no relacionado con el an\u00e1lisis de performance o marketing digital."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "9250b08d-18a4-4a2b-80cb-5d434bc2e576",
+    "reasons": [
+      "El candidato es estudiante y a\u00fan no posee un t\u00edtulo universitario, el cual es un requisito del puesto.",
+      "No cuenta con la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM y publicidad digital.",
+      "Carece de experiencia y conocimientos espec\u00edficos en las herramientas excluyentes para el puesto (Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager).",
+      "La experiencia laboral presentada (ayudante de c\u00e1tedra, instructor de tenis) no es relevante para el rol de Analista de Performance SEM.",
+      "Aunque posee habilidades generales de an\u00e1lisis de datos y un buen nivel de ingl\u00e9s, los requisitos t\u00e9cnicos espec\u00edficos y la experiencia en SEM no se cumplen."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "e1d647fe-8b70-4fb6-b2ae-2447f7791841",
+    "reasons": [
+      "El candidato es un estudiante universitario, lo que indica un perfil muy junior que podr\u00eda no cumplir con la expectativa m\u00ednima de experiencia (2 a\u00f1os) incluso para la categor\u00eda junior del puesto.",
+      "No presenta experiencia laboral directa o relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No menciona conocimientos espec\u00edficos o experiencia con las herramientas clave requeridas como Google Ads, Google Analytics, Google Tag Manager o Looker/Data Studio.",
+      "Su \u00fanica experiencia laboral listada es de corta duraci\u00f3n y en un \u00e1rea no relacionada (programaci\u00f3n).",
+      "Puntos positivos: Educaci\u00f3n en Ingenier\u00eda Industrial (campo af\u00edn) e ingl\u00e9s avanzado, que excede el requisito b\u00e1sico."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "02d3c3da-cfbd-48c8-8b71-b73675901d46",
+    "reasons": [
+      "La experiencia laboral es principalmente como Analista Comercial y no demuestra experiencia directa en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) o el uso de herramientas espec\u00edficas requeridas (Google Analytics, Google Tag Manager, Looker/Data Studio).",
+      "El tiempo total de experiencia profesional es inferior a los 2 a\u00f1os requeridos en el puesto para la gesti\u00f3n de campa\u00f1as SEM.",
+      "Aunque tiene conocimientos de an\u00e1lisis de datos (Power BI), no se detalla experiencia con herramientas de anal\u00edtica web como Google Analytics, fundamental para el rol.",
+      "Actualmente es estudiante, lo cual podr\u00eda impactar en la disponibilidad full-time o el nivel de seniority buscado (aunque cumple con el requisito de ser graduada o af\u00edn en el futuro)."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "Josefina Piedrabuena",
+    "reasons": [
+      "La experiencia laboral no incluye gesti\u00f3n de campa\u00f1as SEM, publicidad digital, ni manejo de las herramientas clave (Google Ads, Google Analytics, GTM, Data Studio/Looker) requeridas por el puesto.",
+      "Aunque tiene un curso de Community Manager, su perfil profesional se centra en \u00e1reas administrativas, comerciales y de gesti\u00f3n, no en performance marketing.",
+      "No cumple con el requisito educativo de ser graduada en Marketing, Publicidad, Sistemas, Econom\u00eda, o afines.",
+      "El nivel de ingl\u00e9s b\u00e1sico es muy limitado y se menciona la necesidad de un curso futuro, lo cual no satisface el requisito inmediato."
+    ],
+    "score": 8
+  },
+  {
+    "participant_id": "0079aa58-3310-4add-9e7d-f1f2418732c4",
+    "reasons": [
+      "El curr\u00edculum no presenta informaci\u00f3n sobre experiencia laboral en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No se mencionan conocimientos o experiencia con herramientas clave como Google Ads, Meta Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "No hay indicaci\u00f3n de formaci\u00f3n acad\u00e9mica universitaria o terciaria af\u00edn al puesto (Marketing, Publicidad, Sistemas, Econom\u00eda, etc.), solo educaci\u00f3n secundaria.",
+      "El curr\u00edculum no detalla habilidades en an\u00e1lisis de datos, investigaci\u00f3n de palabras clave, A/B testing o reporting, que son tareas principales del rol.",
+      "No se especifica el nivel de conocimiento de ingl\u00e9s."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c7a4c94e-3b38-4a73-8d8c-038580a939ad",
+    "reasons": [
+      "El candidato no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "No cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia en SEM.",
+      "No se mencionan conocimientos o experiencia con las herramientas requeridas (Google Ads, Google Analytics, Google Tag Manager, Looker/Data Studio).",
+      "La experiencia profesional presentada no es relevante para la posici\u00f3n de Analista de Performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "ceef65b6-4b8b-428f-8ad2-56d7ed59e30c",
+    "reasons": [
+      "El candidato no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM ni publicidad digital.",
+      "No se mencionan conocimientos o experiencia con herramientas clave como Google Ads, Google Analytics, Google Tag Manager, Looker/Data Studio, que son requisitos excluyentes.",
+      "La experiencia laboral detallada se centra en roles administrativos, contables, de ventas y log\u00edstica, no relacionados con el an\u00e1lisis de performance o marketing digital.",
+      "No cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia espec\u00edfica en SEM/publicidad digital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "f8c0acbb-de0d-4c61-a0c8-2a2b2e06c2e0",
+    "reasons": [
+      "No cuenta con la experiencia m\u00ednima de 2 a\u00f1os requerida en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "La experiencia laboral mencionada es de pasante administrativo, no relevante para las tareas del puesto de Analista de Performance SEM.",
+      "No se mencionan conocimientos ni experiencia con las herramientas exclusivas requeridas (Google Ads, Google Analytics, Looker/Data Studio, Google Tag Manager)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "d669e694-810e-463c-b568-3d10bb8f8252",
+    "reasons": [
+      "El perfil se enfoca fuertemente en desarrollo de software, con lenguajes y herramientas de programaci\u00f3n (Python, Java, React, SQL, Docker, etc.) y proyectos de desarrollo web y aplicaciones.",
+      "No presenta experiencia ni conocimientos en gesti\u00f3n de campa\u00f1as SEM, publicidad digital (Google Ads, Meta Ads), o herramientas clave como Google Analytics, Google Tag Manager, Looker o Data Studio, que son requisitos excluyentes.",
+      "La experiencia laboral listada en Bluesphere SA es administrativa (registros contables, impuestos, atenci\u00f3n al cliente) y no relevante para el puesto de Analista de Performance SEM."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "6db26ef7-1fd0-4173-8472-736cce7c80b2",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda en Inform\u00e1tica y no presenta experiencia laboral relevante, especialmente los 2 a\u00f1os m\u00ednimos requeridos en gesti\u00f3n de campa\u00f1as SEM/publicidad digital.",
+      "El curr\u00edculum se enfoca en habilidades y proyectos de desarrollo de software, sin demostrar experiencia o conocimiento espec\u00edfico y s\u00f3lido en las herramientas excluyentes del puesto como Google Ads, Google Analytics, Looker/Data Studio y Google Tag Manager.",
+      "Aunque menciona un curso de 'marketing digital', no detalla habilidades o experiencia pr\u00e1ctica en las tareas clave del puesto (gesti\u00f3n y optimizaci\u00f3n de campa\u00f1as SEM, an\u00e1lisis de datos web, etc.)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "ddb449e0-89a5-4b57-92e1-8190f6de01d8",
+    "reasons": [
+      "No evidencia experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) seg\u00fan lo requerido.",
+      "No demuestra conocimientos o experiencia en Google Analytics, Google Tag Manager, Looker o Data Studio, herramientas excluyentes para la posici\u00f3n.",
+      "La trayectoria laboral se centra en \u00e1reas como calidad, ingenier\u00eda y compras, sin relaci\u00f3n directa con el marketing digital de performance."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "02ebb761-a03a-406e-8488-8bde0a2c4870",
+    "reasons": [
+      "La candidata tiene m\u00e1s de 15 a\u00f1os de experiencia, lo cual excede el seniority Junior/SemiSenior solicitado.",
+      "El curr\u00edculum no detalla experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads), que es una tarea principal del puesto.",
+      "No se menciona experiencia en el manejo de herramientas clave y excluyentes como Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia laboral se centra m\u00e1s en comunicaci\u00f3n, engagement y coordinaci\u00f3n de marketing general, sin el foco especializado en performance SEM requerido."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "c8993bcc-0c02-4ae1-bfd3-d5e34c053d5f",
+    "reasons": [
+      "No posee experiencia previa demostrable en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, lo cual es un requisito fundamental (m\u00ednimo 2 a\u00f1os).",
+      "El curr\u00edculum no menciona experiencia o conocimiento en las herramientas espec\u00edficas requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia laboral detallada se enfoca en el \u00e1rea pedag\u00f3gica y educativa, no relacionada con el perfil de Analista de Performance SEM.",
+      "La formaci\u00f3n acad\u00e9mica se orienta hacia la educaci\u00f3n, no alineada con las carreras sugeridas para el puesto (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "f0191075-7155-4225-89d7-b3dead7a533d",
+    "reasons": [
+      "El curr\u00edculum no muestra experiencia expl\u00edcita en la gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se evidencia experiencia en el manejo de Google Analytics o Google Tag Manager, herramientas excluyentes para el puesto.",
+      "Aunque se menciona Looker Studio, no se especifica su uso en el contexto de an\u00e1lisis de performance SEM.",
+      "La experiencia principal del candidato parece estar enfocada en desarrollo de software y an\u00e1lisis de datos general, no en marketing digital SEM.",
+      "No cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "30c09326-8ce5-4bd8-a7aa-05e412f3d407",
+    "reasons": [
+      "El curr\u00edculum no presenta experiencia previa en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "La experiencia laboral descrita se centra en roles de producci\u00f3n, operaci\u00f3n e instrucci\u00f3n, no relacionados con marketing digital.",
+      "La formaci\u00f3n acad\u00e9mica (Ciencias Sociales, Psicolog\u00eda incompleta, Instructor Deportivo) no se alinea con los requisitos de Marketing, Publicidad, Sistemas o Econom\u00eda.",
+      "No se mencionan conocimientos ni experiencia en herramientas clave requeridas como Google Ads, Google Analytics, Looker/Data Studio o Google Tag Manager."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "da8dfead-7f2b-42bf-8b7c-24f41bd54d7d",
+    "reasons": [
+      "Falta de experiencia m\u00ednima requerida (2+ a\u00f1os) en gesti\u00f3n de campa\u00f1as SEM y publicidad digital.",
+      "La experiencia laboral presentada (desarrollo web, QA Testing) no es relevante para el puesto de Analista de Performance SEM.",
+      "No se mencionan conocimientos ni experiencia en herramientas clave como Google Ads, Meta Ads, Google Analytics, Google Tag Manager, Looker/Data Studio, ni SEO/SEM, que son excluyentes.",
+      "El perfil de experiencia parece ser m\u00e1s junior de lo solicitado para la posici\u00f3n (Junior/SemiSenior).",
+      "No se especifica nivel de conocimiento de ingl\u00e9s, que es un requisito b\u00e1sico."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "9902bb70-fea1-48e7-9ecf-52b40cfd127e",
+    "reasons": [
+      "El candidato no presenta experiencia laboral demostrable en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, que es un requisito clave.",
+      "El curr\u00edculum no especifica conocimiento o experiencia pr\u00e1ctica con las herramientas requeridas como Google Ads, Google Analytics, Data Studio/Looker o Google Tag Manager.",
+      "El perfil educativo y la experiencia laboral listada se centran en Ingenier\u00eda de Software y programaci\u00f3n, no en Marketing Digital o an\u00e1lisis de performance.",
+      "No cumple con el requisito m\u00ednimo de 2 a\u00f1os de experiencia en el \u00e1rea de SEM.",
+      "Aunque el nivel de ingl\u00e9s es avanzado, no compensa la falta de experiencia y conocimientos t\u00e9cnicos espec\u00edficos para el puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "80ac8369-0b04-4936-948f-dc69bf11d0a5",
+    "reasons": [
+      "La experiencia laboral listada (supermercado, poller\u00eda, carnicer\u00eda) no es relevante para el puesto de Analista de Performance SEM.",
+      "No se menciona experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM o publicidad digital.",
+      "La formaci\u00f3n acad\u00e9mica en Seguridad e Higiene y Mec\u00e1nica Automotriz no se alinea con los requisitos de Marketing, Publicidad, Sistemas, Econom\u00eda, o afines.",
+      "El CV no especifica conocimientos en Google Ads, Google Analytics, Looker/Data Studio, o Google Tag Manager, que son requisitos excluyentes.",
+      "El objetivo profesional declarado no coincide con las responsabilidades del puesto de Analista SEM.",
+      "No se menciona conocimiento o manejo b\u00e1sico de ingl\u00e9s."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "02bd0e79-630b-4c0a-afd9-ee658906b389",
+    "reasons": [
+      "La candidata no cuenta con experiencia previa en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, lo cual es un requisito excluyente de 2 a\u00f1os.",
+      "El perfil de experiencia se centra completamente en operaciones de turismo y hoteler\u00eda, no en marketing digital o performance.",
+      "No demuestra conocimientos o experiencia en herramientas clave como Google Ads, Meta Ads, Google Analytics, Looker/Data Studio, o Google Tag Manager, los cuales son requisitos excluyentes o s\u00f3lidos conocimientos necesarios."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "f34f2515-ee07-444e-8856-2158a1c2bf31",
+    "reasons": [
+      "El candidato no presenta experiencia laboral relevante en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, lo cual es un requisito excluyente (m\u00ednimo 2 a\u00f1os).",
+      "El curr\u00edculum no menciona experiencia con las herramientas clave requeridas para el puesto (Google Ads, Google Analytics, Google Tag Manager, Looker/Data Studio).",
+      "El perfil del candidato, siendo estudiante con experiencia laboral en \u00e1reas no relacionadas (actividades recreacionales, entrenador matem\u00e1tico), no se alinea con el seniority Junior/SemiSenior buscado, que requiere experiencia previa espec\u00edfica en SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "4b8edc73-5da3-4068-b3b3-11aa8a8c59d4",
+    "reasons": [
+      "La experiencia laboral del candidato es en control de calidad y producci\u00f3n en la industria automotriz, no relacionada con gesti\u00f3n de campa\u00f1as SEM o marketing digital.",
+      "No se mencionan conocimientos ni experiencia con las herramientas clave requeridas (Google Ads, Google Analytics, Google Tag Manager, Data Studio/Looker).",
+      "El nivel educativo (primario y secundario completo) no cumple el requisito de grado universitario en carreras afines.",
+      "El perfil no se ajusta al seniority ni a las habilidades t\u00e9cnicas espec\u00edficas del puesto de Analista de Performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "73283dcd-58c3-4bee-bc35-7a911eadae77",
+    "reasons": [
+      "La experiencia del candidato (m\u00e1s de 25 a\u00f1os) sugiere un seniority superior al solicitado (Junior/SemiSenior).",
+      "El curr\u00edculum no menciona expl\u00edcitamente experiencia en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) ni experiencia en herramientas clave como Google Analytics, Looker/Data Studio, o Google Tag Manager, las cuales son requisitos excluyentes.",
+      "El perfil del candidato parece estar m\u00e1s orientado a la comunicaci\u00f3n general, producci\u00f3n y docencia que al an\u00e1lisis y performance digital especializado en SEM."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "8b735687-67f4-489a-a9c1-43e98cbef38e",
+    "reasons": [
+      "Falta de experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "Ausencia de conocimientos y experiencia demostrada en Google Analytics, Google Tag Manager (requisitos excluyentes).",
+      "La experiencia laboral se centra en el sector financiero, no en marketing digital o performance.",
+      "El nivel de experiencia profesional general (>2 a\u00f1os) y el ingl\u00e9s son adecuados, pero no compensan la falta de experiencia espec\u00edfica."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "0689b9af-d91d-4323-a31d-29a25f1f0f0f",
+    "reasons": [
+      "El curr\u00edculum no demuestra la experiencia m\u00ednima de 2 a\u00f1os requerida espec\u00edficamente en gesti\u00f3n de campa\u00f1as SEM y publicidad digital.",
+      "No se mencionan s\u00f3lidos conocimientos o experiencia pr\u00e1ctica con las herramientas exclusivas requeridas como Google Ads, Google Analytics, Looker/Data Studio, ni Google Tag Manager.",
+      "La experiencia laboral predominante es de tipo administrativa, con un rol freelance en marketing que es breve (1 a\u00f1o) y describe tareas de manera general, sin detallar responsabilidades espec\u00edficas en SEM.",
+      "La formaci\u00f3n acad\u00e9mica y los cursos listados no est\u00e1n directamente relacionados con marketing digital o SEM.",
+      "Aunque se menciona ingl\u00e9s b\u00e1sico, la falta de experiencia y conocimiento en las herramientas clave es un impedimento significativo."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "7b8a5e2f-467e-413f-af80-c8e4db6eae31",
+    "reasons": [
+      "La candidata no presenta experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, lo cual es un requisito excluyente.",
+      "No se mencionan conocimientos o experiencia con las herramientas clave requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia profesional detallada es predominantemente administrativa y de soporte, no relacionada con el an\u00e1lisis y performance en SEM.",
+      "La formaci\u00f3n acad\u00e9mica no es en un \u00e1rea af\u00edn (Marketing, Publicidad, Sistemas, Econom\u00eda) seg\u00fan los requisitos del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "097604f8-cdf8-4602-8ae7-592b3a8f96bf",
+    "reasons": [
+      "No presenta experiencia demostrada en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads).",
+      "No se mencionan conocimientos o experiencia con herramientas clave como Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "La experiencia laboral descrita es en roles de venta y administraci\u00f3n minorista, no en marketing digital o SEM.",
+      "La formaci\u00f3n acad\u00e9mica no se alinea directamente con las \u00e1reas requeridas (Marketing, Publicidad, Sistemas, Econom\u00eda, o afines).",
+      "Aunque el perfil indica inter\u00e9s en el mundo digital, carece de la experiencia espec\u00edfica de 2+ a\u00f1os en SEM solicitada para el puesto Junior/SemiSenior."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "4cc352d8-ac2a-4ed6-ab89-f9d229c55612",
+    "reasons": [
+      "El curr\u00edculum no demuestra experiencia espec\u00edfica en gesti\u00f3n de campa\u00f1as SEM o publicidad digital, que es un requisito excluyente.",
+      "Faltan conocimientos y menciones de herramientas clave requeridas como Google Ads, Google Analytics, Google Tag Manager, Looker o Data Studio.",
+      "El perfil del candidato est\u00e1 fuertemente orientado al desarrollo de software (Frontend, Mobile) y UX/UI, que no se alinea con las tareas y requisitos del puesto de Analista de Performance SEM."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7adf6c46-1c45-473c-804e-7971c8aa351b",
+    "reasons": [
+      "El perfil del candidato se centra en UX/UI Design, que no es la especialidad requerida (Performance SEM).",
+      "Carece de la experiencia y habilidades espec\u00edficas en gesti\u00f3n de campa\u00f1as SEM (Google Ads, Meta Ads) y herramientas de an\u00e1lisis como Google Analytics, Google Tag Manager, Looker o Data Studio, que son excluyentes.",
+      "No se menciona ni se evidencia la experiencia m\u00ednima de 2 a\u00f1os en gesti\u00f3n de campa\u00f1as SEM requerida para el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "ab3223e4-d485-420e-ae7f-6f7b5785156b",
+    "reasons": [
+      "Experiencia limitada y no espec\u00edfica en la gesti\u00f3n y optimizaci\u00f3n de campa\u00f1as SEM con las herramientas requeridas.",
+      "Ausencia de menci\u00f3n de experiencia o conocimiento en herramientas excluyentes como Google Ads, Google Analytics, Google Tag Manager y Looker/Data Studio.",
+      "La experiencia en campa\u00f1as digitales (Meta Ads, LinkedIn) se centra m\u00e1s en la generaci\u00f3n de leads en un contexto de ventas y su duraci\u00f3n es inferior a los 2 a\u00f1os m\u00ednimos solicitados para SEM.",
+      "El perfil se alinea m\u00e1s con roles de Desarrollo de Ventas/Generaci\u00f3n de Leads que con An\u00e1lisis de Performance SEM puro.",
+      "Cumple satisfactoriamente el requisito de idioma ingl\u00e9s (nivel avanzado)."
+    ],
+    "score": 25
   }
 ]
