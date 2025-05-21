@@ -70,6 +70,9 @@ Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción de
 - Experiencia en la industria relevante
 - Manejo básico de inglés
 
+La idea es que armes un analisis contextual y semantico de cada cv, luego creando un perfil a cada candidato para poder contrastar esos perfiles
+con la descripción del puesto, asi teniendo base para poder poner una evaluación a cada candidato.
+
 Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
 
 {{
