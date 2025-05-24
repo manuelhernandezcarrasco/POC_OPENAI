@@ -2,3 +2,5 @@
 job_description.pdf
 cvs/*
 !cvs/
+frontend/node_modules
+backend/.venv

@@ -1,0 +1,268 @@
+.analysis-results {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 2rem 0;
+  overflow: hidden;
+}
+
+.results-header {
+  padding: 2rem;
+  background: #f8f9fa;
+  border-bottom: 1px solid #eee;
+}
+
+.results-header h2 {
+  margin: 0 0 1.5rem 0;
+  color: #2c3e50;
+  font-size: 1.8rem;
+}
+
+.results-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.summary-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.summary-card h3 {
+  margin: 0 0 0.5rem 0;
+  color: #7f8c8d;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.summary-card p {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.results-content {
+  padding: 2rem;
+}
+
+.candidates-list {
+  margin-bottom: 2rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th, td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+th.sortable:hover {
+  background-color: #e9ecef;
+}
+
+tr:hover {
+  background-color: #f8f9fa;
+}
+
+tr.selected {
+  background-color: #e3f2fd;
+}
+
+.score-bar {
+  background-color: #f0f0f0;
+  height: 24px;
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  width: 150px;
+}
+
+.score-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.score-bar span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.view-details-btn {
+  background: none;
+  border: 1px solid #3498db;
+  color: #3498db;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+}
+
+.view-details-btn:hover {
+  background: #3498db;
+  color: white;
+}
+
+.view-details-btn.active {
+  background: #3498db;
+  color: white;
+}
+
+.candidate-details {
+  padding-top: 1rem;
+}
+
+.candidate-details h3 {
+  margin: 0 0 1.5rem 0;
+  color: #2c3e50;
+  font-size: 1.25rem;
+}
+
+.reason-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 1.25rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.reason-number {
+  background: #3498db;
+  color: white;
+  width: 28px;
+  height: 28px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.reason-item p {
+  margin: 0;
+  color: #2c3e50;
+  line-height: 1.6;
+}
+
+.candidate-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.candidate-name {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 1rem;
+}
+
+.candidate-id {
+  font-size: 0.75rem;
+  color: #7f8c8d;
+}
+
+@media (max-width: 768px) {
+  .results-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .candidates-list {
+    overflow-x: auto;
+  }
+
+  table {
+    min-width: 600px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .details-section {
+    padding: 1.5rem;
+  }
+
+  .reason-item {
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.details-header h2 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1.5rem;
+}
+
+.close-details-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #7f8c8d;
+  cursor: pointer;
+  padding: 0.5rem;
+  line-height: 1;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.close-details-btn:hover {
+  background: #f8f9fa;
+  color: #2c3e50;
+} 
