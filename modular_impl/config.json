@@ -1,6 +1,5 @@
 {
-    "set_name": "set1",
-    "batch_size": 2,
+    "set_name": "pruebas_de_calidad/ejecutivo_influencers/caso1",
+    "batch_size": 1,
     "model": "gemini"
 }
-  

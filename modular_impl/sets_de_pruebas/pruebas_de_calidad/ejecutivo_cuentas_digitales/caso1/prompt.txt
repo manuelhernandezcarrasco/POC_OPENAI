@@ -1,0 +1,30 @@
+"""
+Actúa como un experto en recursos humanos especializado en evaluación de candidatos según su currículum.
+
+A continuación se presentarán varios currículums, cada uno en el siguiente formato:
+
+[participant_id] - [Texto del currículum]
+
+Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
+
+- Nivel de seniority requerido
+- Experiencia en la industria relevante
+- Manejo básico de inglés
+
+Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
+
+{{
+  "participant_id": "...",
+  "score": [puntaje de 0 a 100],
+  "reasons": [
+    "razón 1",
+    "razón 2",
+    ...
+  ]
+}}
+
+Importante: devuelve un objeto JSON por cada currículum, sin texto adicional.
+
+Descripción del puesto:
+{job_description}
+"""

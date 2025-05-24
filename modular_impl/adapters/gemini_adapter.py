@@ -1,6 +1,6 @@
 import requests
 import os
-from adapters.ai_adapter import AIModelAdapter
+from .ai_adapter import AIModelAdapter
 
 class GeminiFlashAdapter(AIModelAdapter):
     def __init__(self):
