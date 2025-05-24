@@ -9,7 +9,7 @@ import google.generativeai as genai
 import base64
 import json
 from io import BytesIO
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 from docx import Document
 
@@ -145,9 +145,18 @@ def analyze():
         return jsonify({'error': 'Missing job_description or cvs[] files'}), 400
 
     os.makedirs('tmp', exist_ok=True)
+    
+    # Save all files first before processing
     job_desc_path = os.path.join('tmp', job_desc_file.filename)
     job_desc_file.save(job_desc_path)
     job_description = extract_text_from_pdf(job_desc_path)
+
+    # Save all CV files first
+    cv_paths = []
+    for cv_file in cvs_files:
+        cv_path = os.path.join('tmp', cv_file.filename)
+        cv_file.save(cv_path)
+        cv_paths.append(cv_path)
 
     prompt_base = f"""
 Actúa como un experto en recursos humanos especializado en evaluación de candidatos según su currículum.
@@ -184,15 +193,34 @@ Descripción del puesto:
 """
     base_tokens = count_tokens(prompt_base)
     results = []
-    for cv_file in cvs_files:
-        cv_path = os.path.join('tmp', cv_file.filename)
-        cv_file.save(cv_path)
-        result = process_cv(cv_path, prompt_base, base_tokens)
-        if result:
-            results.extend(result)
-        os.remove(cv_path)
-    os.remove(job_desc_path)
-    return jsonify(results)
+    total_cvs = len(cv_paths)
+    
+    def generate():
+        try:
+            for i, cv_path in enumerate(cv_paths, 1):
+                # Send progress update
+                progress = (i / total_cvs) * 100
+                yield f"data: {json.dumps({'progress': progress, 'current': i, 'total': total_cvs})}\n\n"
+                
+                result = process_cv(cv_path, prompt_base, base_tokens)
+                if result:
+                    results.extend(result)
+                
+            # Send final results
+            yield f"data: {json.dumps({'progress': 100, 'results': results})}\n\n"
+        finally:
+            # Cleanup all files
+            for cv_path in cv_paths:
+                try:
+                    os.remove(cv_path)
+                except:
+                    pass
+            try:
+                os.remove(job_desc_path)
+            except:
+                pass
+
+    return Response(generate(), mimetype='text/event-stream')
 
 
 def batched(lst, n):

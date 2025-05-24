@@ -1,8 +1,11 @@
 import { useState } from 'react'
+import './CVUploader.css'
 
 const CVUploader = ({ onResults, onError, onLoading }) => {
   const [jobDescription, setJobDescription] = useState(null)
   const [cvs, setCvs] = useState([])
+  const [progress, setProgress] = useState(0)
+  const [processingStatus, setProcessingStatus] = useState('')
 
   const handleJobDescriptionChange = (e) => {
     const file = e.target.files[0]
@@ -48,6 +51,9 @@ const CVUploader = ({ onResults, onError, onLoading }) => {
 
     try {
       onLoading(true)
+      setProgress(0)
+      setProcessingStatus('Starting analysis...')
+
       const response = await fetch('http://localhost:5000/analyze', {
         method: 'POST',
         body: formData,
@@ -57,10 +63,37 @@ const CVUploader = ({ onResults, onError, onLoading }) => {
         throw new Error(`HTTP error! status: ${response.status}`)
       }
 
-      const data = await response.json()
-      onResults(data)
+      const reader = response.body.getReader()
+      const decoder = new TextDecoder()
+
+      while (true) {
+        const { value, done } = await reader.read()
+        if (done) break
+
+        const chunk = decoder.decode(value)
+        const lines = chunk.split('\n')
+        
+        for (const line of lines) {
+          if (line.startsWith('data: ')) {
+            const data = JSON.parse(line.slice(6))
+            
+            if (data.progress !== undefined) {
+              setProgress(data.progress)
+              setProcessingStatus(`Processing CV ${data.current} of ${data.total}...`)
+            }
+            
+            if (data.results) {
+              onResults(data.results)
+              setProcessingStatus('Analysis complete!')
+            }
+          }
+        }
+      }
     } catch (error) {
       onError(error.message)
+      setProcessingStatus('')
+    } finally {
+      onLoading(false)
     }
   }
 
@@ -109,6 +142,18 @@ const CVUploader = ({ onResults, onError, onLoading }) => {
       <button type="submit" className="submit-button">
         Analyze CVs
       </button>
+
+      {processingStatus && (
+        <div className="progress-container">
+          <div className="progress-bar">
+            <div 
+              className="progress-fill"
+              style={{ width: `${progress}%` }}
+            />
+          </div>
+          <p className="progress-status">{processingStatus}</p>
+        </div>
+      )}
     </form>
   )
 }
