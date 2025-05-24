@@ -1,0 +1,6 @@
+{
+    "set_name": "set1",
+    "batch_size": 2,
+    "model": "gemini"
+}
+  
