@@ -101,5 +101,217 @@
       "Falta información sobre el trato con clientes y habilidades de trabajo en equipo."
     ],
     "score": 20
+  },
+  {
+    "participant_id": "f9183077-640b-4aef-b23c-56e0b38864d3",
+    "reasons": [
+      "No tiene experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente.",
+      "Su experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona nivel avanzado de inglés, no se evidencia en el contexto laboral."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "aec60b58-e2c2-4f8d-83ad-7342be59d77a",
+    "reasons": [
+      "Carece de experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente según la descripción del puesto.",
+      "Su experiencia laboral se centra en roles administrativos y de ventas, no relacionados con marketing de influencers.",
+      "No se menciona experiencia en la industria de creadores de contenido.",
+      "Si bien menciona manejo de inglés, no especifica el nivel de dominio."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e06e6992-d6aa-4447-912b-653a75048265",
+    "reasons": [
+      "No tiene experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente según la descripción del puesto.",
+      "Su experiencia laboral se centra en secretariado, ventas y gestión de agendas, sin relación directa con marketing de influencers.",
+      "Si bien menciona manejo de algunos programas, no se evidencia experiencia en el análisis de perfiles de creadores de contenido, gestión de campañas de influencers o manejo de briefs.",
+      "Aunque indica nivel avanzado de inglés, no se detalla la experiencia utilizando el idioma en un contexto profesional relacionado con el puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "5d9d6637-1f7f-44bf-aead-a891d21dc13a",
+    "reasons": [
+      "No tiene experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente.",
+      "Su experiencia laboral no se relaciona con marketing de influencers.",
+      "Si bien menciona manejo de inglés, no especifica el nivel.",
+      "No menciona experiencia en el manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "135566ee-0dbe-4150-b9d9-2e877914375f",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para el puesto.",
+      "Si bien menciona manejo de inglés, no especifica el nivel de dominio.",
+      "La experiencia laboral detallada no se relaciona con marketing de influencers o áreas afines.",
+      "No hay evidencia de experiencia en la gestión de campañas de influencers, análisis de perfiles de creadores de contenido, o manejo de briefs."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "25e61e16-621e-4ec1-b479-13de3d7e173b",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital (requerido: más de 2 años).",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "Si bien menciona manejo de inglés avanzado, no se especifica el uso en contextos profesionales relacionados al puesto.",
+      "No se menciona experiencia en el manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "5287709e-8b99-448d-818b-785f9284fc7a",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital (requiere más de 2 años).",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "Si bien menciona manejo de algunos programas, no se especifica el manejo de G Suite.",
+      "No se menciona explícitamente el trabajo en equipo o el trato con clientes en sus experiencias laborales."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "3b302e8a-b6ae-45e2-87b8-cb5857818dff",
+    "reasons": [
+      "Carece de experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente de la descripción del puesto.",
+      "Su experiencia laboral se centra en secretariado, ventas y gestión de agendas, sin relación directa con marketing de influencers.",
+      "Si bien menciona el manejo de algunas herramientas, no se evidencia la experiencia en la gestión de campañas de influencers o análisis de perfiles.",
+      "Aunque indica nivel avanzado de inglés, no se especifica si cumple con los requisitos de la descripción del puesto en este aspecto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "b528d8e1-6194-4d44-8b12-89736aa4eb1a",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital (requisito excluyente).",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona nivel avanzado de inglés, no se especifica si es oral y escrito.",
+      "No se evidencia experiencia en trato con clientes en el ámbito de marketing de influencers."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "1ee7ab24-ca1d-4b75-b3d4-a42abb3ba5ec",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital.",
+      "La experiencia en ventas y generación de leads no se relaciona directamente con las responsabilidades del puesto.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona nivel avanzado de inglés, no se especifica si cumple con los requisitos del puesto en ese idioma."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "0f343cce-e11a-409e-9b26-865582e9aaa2",
+    "reasons": [
+      "El currículum no demuestra la experiencia requerida (más de 2 años) en agencias, consultoras de PR, comunicación o Digital. La experiencia principal es en roles de Sales Develop Representative y Administrativo.",
+      "No se menciona ni se demuestra conocimiento de la industria de creadores de contenido.",
+      "Las responsabilidades de los puestos anteriores (generación de leads, gestión administrativa, appointment setting) no se alinean directamente con las tareas de un Ejecutivo/a de Marketing de Influencers descritas en la oferta (soporte a campañas, briefs, análisis de perfiles, gestión de contratos).",
+      "Aunque menciona dominio del inglés, no se explicita el manejo de GSuite como se requiere."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "020dd667-36d0-4bc4-97bc-e7d16d973fc9",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de 'Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital'. La experiencia detallada es principalmente administrativa ('Secretario Personal', 'Secretario Administrativo') o en roles de desarrollo de ventas/captación de leads ('Sales Develop Representative', 'Appointment Setter'), que no se alinean con el tipo de industria o enfoque buscado (PR, comunicación, digital, influencer marketing).",
+      "No se menciona experiencia específica en marketing de influencers o trabajo con creadores de contenido, lo cual es fundamental para el puesto de 'Ejecutivo/a Sr de Marketing de Influencers'.",
+      "Si bien el candidato menciona manejo de herramientas digitales y experiencia con inglés (nivel avanzado, cumpliendo el requisito), su perfil de experiencia y conocimiento no se ajustan a las responsabilidades ni al foco del puesto ofrecido."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "d40de0bf-bedf-4415-857f-e5d152bcb94b",
+    "reasons": [
+      "No cumple con el requisito excluyente de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital.",
+      "La experiencia laboral del candidato se centra en roles de ventas (Sales Develop Representative, Appointment Setter) y administración médica, no alineados con la industria de comunicaciones/marketing.",
+      "No se menciona conocimiento o experiencia específica en la industria de creadores de contenido, un requisito clave del puesto.",
+      "Las responsabilidades descritas en el CV no incluyen tareas relacionadas directamente con campañas de marketing de influencers, briefs, análisis de perfiles o gestión de contenido para plataformas.",
+      "Sí cumple con el requisito de nivel de inglés avanzado.",
+      "Tiene experiencia en trato con clientes, aunque en un contexto diferente al requerido."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "df2ea6f8-9f04-4740-b6e6-63a04495fedb",
+    "reasons": [
+      "El candidato no cumple con el requisito de más de 2 años de experiencia en agencias o consultoras de PR, Comunicación o Digital.",
+      "La experiencia laboral principal detallada en el currículum no se alinea con las funciones de marketing, comunicación o la industria de influencers.",
+      "No se menciona conocimiento o experiencia previa específica en la industria de creadores de contenido o marketing de influencers, un requisito clave para el puesto.",
+      "Aunque tiene experiencia en trato con personas/clientes y nivel de inglés, carece de la experiencia directa y el conocimiento específico requerido para el rol de Ejecutivo/a Sr de Marketing de Influencers."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "6525b8a6-afb5-44ff-af3e-5500d691c227",
+    "reasons": [
+      "No cumple con el requisito de tener más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital. Su experiencia principal es en Ventas (Sales Development Representative) y Administración, que no se alinea con el tipo de experiencia buscada.",
+      "No demuestra conocimiento de la industria de creadores de contenido, un requisito clave para el puesto.",
+      "Su experiencia laboral no incluye las responsabilidades específicas del rol, como soporte en campañas de influencers, armado de briefs, análisis de perfiles de creadores de contenido o gestión de documentación y contratos en este contexto.",
+      "No se menciona explícitamente el manejo de GSuite.",
+      "Cumple con el requisito de nivel avanzado de inglés, que es excluyente.",
+      "Cumple con el requisito de modalidad híbrida en CABA, ya que reside en Belgrano, CABA.",
+      "La experiencia general del candidato no pertenece a la industria correcta (agencias de comunicación, PR, digital) según lo descrito en el perfil buscado."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "ae669254-2071-495d-9ca2-e79a3a28ca8a",
+    "reasons": [
+      "El candidato no cuenta con los más de 2 años de experiencia requeridos en agencias, consultoras de PR, comunicación o Digital. Su experiencia se centra en roles de ventas/lead generation y administración en otras industrias.",
+      "No demuestra conocimiento o experiencia previa en la industria de creadores de contenido o marketing de influencers, que es el foco principal del puesto.",
+      "Las responsabilidades descritas en el currículum (ventas/lead generation, administración) no se alinean con las tareas clave del puesto de Ejecutivo/a Sr de Marketing de Influencers (soporte en campañas, análisis de perfiles, gestión de documentación, etc.).",
+      "Si bien cumple con el requisito de idioma inglés avanzado y ubicación, carece de la experiencia profesional y sectorial fundamental para el puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "338dff69-af33-4958-95b8-314d5f0f275c",
+    "reasons": [
+      "La experiencia laboral (~3 años) no es en agencias, consultoras de PR, comunicación o Digital, sino en ventas (Sales Dev, Appointment Setter) y roles administrativos (Secretario Personal/Administrativo), lo cual no cumple con el requisito de experiencia específica en el tipo de industria buscada.",
+      "El CV no demuestra conocimiento ni experiencia directa en marketing de influencers o en la industria de creadores de contenido, un requisito clave del puesto.",
+      "Las responsabilidades descritas en los puestos anteriores (generación de leads, gestión de agenda, tareas administrativas) no se alinean con las tareas de un Ejecutivo/a de Marketing de Influencers (soporte en campañas de creadores, armado de briefs, análisis de perfiles, gestión de contratos, revisión de contenido).",
+      "No se menciona manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.).",
+      "Aunque cumple con el nivel de inglés y parece tener experiencia en trato con clientes, los requisitos centrales y la experiencia específica solicitada para el puesto no se cumplen según el currículum."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "1996fda0-ce41-47fe-bed2-eaa66b1a5b27",
+    "reasons": [
+      "La experiencia laboral descrita (Sales Develop Representative, Secretario Personal, Secretario Administrativo, Appointment Setter) no se alinea directamente con las industrias requeridas (agencias, consultoras de PR, comunicación o Digital).",
+      "Aunque el candidato tiene experiencia laboral, la duración y el tipo de roles no cumplen con el requisito de 'Más de 2 años de experiencia' *en las industrias especificadas*.",
+      "La experiencia y la edad del candidato (21 años) no sugieren el nivel de seniority ('Sr') que implica la descripción del puesto.",
+      "No se menciona específicamente conocimiento de la industria de creadores de contenido.",
+      "No se confirma explícitamente el manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.).",
+      "No se menciona específicamente ser detallista u ordenado como cualidad.",
+      "El nivel avanzado de inglés es un punto positivo, pero no compensa los gaps significativos en la experiencia de industria y seniority."
+    ],
+    "score": 30
+  },
+  {
+    "participant_id": "b1797e56-bfd7-480f-a522-9bac2c14cf70",
+    "reasons": [
+      "El currículum no demuestra experiencia en las industrias requeridas (agencias, consultoras de PR, comunicación o Digital).",
+      "La experiencia laboral se centra principalmente en desarrollo de ventas (Sales Development), generación de leads y soporte administrativo, lo cual no se alinea directamente con las responsabilidades o el tipo de experiencia buscada en Marketing de Influencers.",
+      "Aunque el candidato tiene experiencia laboral, no se evidencia el requisito de más de 2 años de experiencia específicamente en las áreas o industrias mencionadas en la descripción del puesto.",
+      "No se menciona el manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.).",
+      "No se menciona conocimiento o experiencia en la industria de creadores de contenido."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "5dee4ebc-f457-40b7-b8ab-ff592f30d074",
+    "reasons": [
+      "No cumple con el requisito de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital, ya que la experiencia se centra en roles de ventas, administrativo y asistencia.",
+      "La experiencia laboral detallada en el CV no se alinea con las industrias requeridas (agencias, consultoras de PR, comunicación o Digital), lo cual es un requisito para pertenecer a la industria correcta.",
+      "No se menciona experiencia específica o conocimiento de la industria de creadores de contenido e influencers, un requisito clave del puesto.",
+      "Las responsabilidades listadas en el CV (búsqueda de leads, ventas, administración médica) no coinciden con las responsabilidades clave del puesto de Marketing de Influencers (soporte en campañas de creadores, análisis de perfiles, revisión de guiones, etc.).",
+      "No se menciona manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.), una herramienta requerida.",
+      "Aunque cumple con el nivel de inglés requerido, no cumple con la mayoría de los demás requisitos excluyentes o fundamentales para el rol."
+    ],
+    "score": 10
   }
 ]

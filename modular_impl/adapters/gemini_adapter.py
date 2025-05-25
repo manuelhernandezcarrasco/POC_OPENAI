@@ -5,8 +5,7 @@ from .ai_adapter import AIModelAdapter
 class GeminiFlashAdapter(AIModelAdapter):
     def __init__(self):
         self.api_key = os.getenv("GEMINI_API_KEY")
-        self.api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
-
+        self.api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent"
     def send_request(self, prompt: str, jd_text: str, cvs_texts: list[str]) -> dict:
         content = prompt + "\n\nJob Description:\n" + jd_text + "\n\n"
         for i, cv in enumerate(cvs_texts):

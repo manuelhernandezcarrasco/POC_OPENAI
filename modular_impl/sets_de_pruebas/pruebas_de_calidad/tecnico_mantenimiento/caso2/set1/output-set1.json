@@ -1,0 +1,96 @@
+[
+  {
+    "participant_id": "ac160e10-4a7d-4a8d-869f-87a37c6f89c8",
+    "reasons": [
+      "El currículum no presenta experiencia en el sector tecnológico ni habilidades relevantes para el puesto de Technical Support Manager de Google Workspace.",
+      "La formación académica y la experiencia laboral descrita no se ajustan a los requisitos del puesto.",
+      "No se menciona ningún tipo de experiencia en soporte técnico, help desk, atención al cliente o áreas relacionadas con tecnología."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "e5ad5b49-edb9-403a-97f1-0cb0b0547dc3",
+    "reasons": [
+      "El currículum no muestra experiencia en tecnología, soporte técnico o áreas relacionadas con la descripción del puesto.",
+      "La formación académica y la experiencia laboral descrita son en áreas de artes escénicas, sin relación con la industria tecnológica.",
+      "No se mencionan habilidades relevantes para el puesto, como la administración de Google Workspace o conocimientos en sistemas."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "9f012e9d-5cd4-48aa-aabc-1e2d1259f2e7",
+    "reasons": [
+      "El currículum no muestra experiencia en el área de tecnología o soporte técnico.",
+      "La formación académica y la experiencia laboral descrita no se relacionan con los requisitos del puesto.",
+      "No se menciona ningún conocimiento de Google Workspace u otras herramientas de colaboración.",
+      "Falta de experiencia en atención al cliente o soporte técnico."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "3b87d3a1-bffb-4abd-b07e-7166767a96df",
+    "reasons": [
+      "El currículum no muestra experiencia en el sector tecnológico ni habilidades relevantes para el puesto de Technical Support Manager.",
+      "La formación y experiencia del candidato son en áreas completamente diferentes a las requeridas (cine, teatro, danza).",
+      "No se mencionan habilidades de soporte técnico, resolución de problemas, o conocimientos de Google Workspace.",
+      "El perfil del candidato no se ajusta a los requisitos del puesto, careciendo de la experiencia en soporte técnico o informática necesaria."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "2dc1f13d-ea2c-49a1-88f8-f6f18cd852f4",
+    "reasons": [
+      "El currículum no presenta ninguna experiencia o formación relacionada con tecnología, soporte técnico o Google Workspace. La experiencia en cine y artes escénicas no es relevante para el puesto.",
+      "No se menciona ninguna habilidad técnica relevante para el puesto, como conocimientos de sistemas operativos, redes o software de colaboración.",
+      "El currículum no indica dominio del inglés a un nivel adecuado para la comprensión de documentos técnicos y videos de entrenamiento."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "4df1169d-f8ea-4be3-8198-58091ad5320e",
+    "reasons": [
+      "El currículum no muestra experiencia en tecnología, soporte técnico o atención al cliente.",
+      "La formación académica y la experiencia laboral están enfocadas en el área de cine y teatro, sin relación con la descripción del puesto.",
+      "No se menciona ningún conocimiento o experiencia con Google Workspace o herramientas similares.",
+      "El nivel de inglés requerido para el puesto no se puede determinar con la información proporcionada."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2bdd4e9c-d8c2-4445-ac9c-cca65c877324",
+    "reasons": [
+      "El currículum no muestra experiencia en tecnología, soporte técnico o atención al cliente.",
+      "La formación académica y experiencia laboral no se relaciona con los requisitos del puesto.",
+      "No se menciona ningún conocimiento de Google Workspace o herramientas similares.",
+      "Las habilidades listadas no son relevantes para la posición solicitada."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "d57f76b3-963f-4c3a-b287-19f913c710e7",
+    "reasons": [
+      "El currículum no muestra experiencia en tecnología, soporte técnico o áreas relacionadas con la descripción del puesto.",
+      "La formación académica y la experiencia laboral descrita son completamente ajenas al sector tecnológico y a las funciones requeridas para el puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "20456dae-365f-4255-88dd-e65ecf31e782",
+    "reasons": [
+      "El currículum no muestra experiencia en el área de tecnología o soporte técnico.",
+      "La formación académica y la experiencia laboral descrita no se relacionan con los requisitos del puesto.",
+      "No se menciona ningún conocimiento de Google Workspace o herramientas de colaboración.",
+      "Falta de experiencia en atención al cliente o resolución de problemas técnicos."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "4b1e9b84-c783-48eb-8d79-62e4cd924ef5",
+    "reasons": [
+      "El currículum no muestra experiencia en el sector de tecnología o soporte técnico.",
+      "La formación académica y experiencia laboral descrita no se relaciona con los requisitos del puesto.",
+      "No se menciona ninguna habilidad relevante para el puesto, como la administración de Google Workspace o la resolución de problemas técnicos."
+    ],
+    "score": 10
+  }
+]

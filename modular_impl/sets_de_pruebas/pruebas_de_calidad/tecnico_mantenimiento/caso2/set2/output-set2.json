@@ -1,0 +1,98 @@
+[
+  {
+    "participant_id": "e6579599-9588-4035-9eea-37a6ebd65d82",
+    "reasons": [
+      "La experiencia laboral de la candidata no se alinea con los requisitos del puesto.  Su experiencia en finanzas y economía no es relevante para un rol de soporte técnico en Google Workspace.",
+      "No menciona experiencia en soporte técnico, help desk, atención al cliente o áreas similares en la industria tecnológica.",
+      "Si bien su inglés es avanzado, la descripción del puesto requiere la capacidad de comprender documentos y videos técnicos en inglés, algo que no se evidencia en el CV.",
+      "No hay indicios de conocimientos o experiencia con Google Workspace o plataformas de colaboración."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "f5a08500-a955-470c-a386-573c2d45f0d8",
+    "reasons": [
+      "La experiencia laboral de Martina Toledo no se alinea con los requisitos del puesto. Su experiencia en áreas financieras (cuentas a pagar, análisis de datos) no se relaciona con soporte técnico, help desk o atención al cliente en el sector tecnológico.",
+      "Si bien menciona un buen nivel de inglés, no se especifica su experiencia en la lectura de documentos técnicos o comprensión de videos en inglés, lo cual es un requisito fundamental.",
+      "No se evidencia experiencia en soporte técnico, atención al cliente en tecnología o uso de plataformas colaborativas como Google Workspace."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "8ef45211-5fa8-41a5-9ec4-41a9ed042819",
+    "reasons": [
+      "La experiencia laboral de la candidata no se relaciona con el soporte técnico, la migración a Google Workspace, ni la capacitación de usuarios.",
+      "El perfil profesional se centra en economía y finanzas, muy alejado de las habilidades requeridas para el puesto.",
+      "Si bien domina el inglés, su experiencia no se alinea con las necesidades técnicas del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "c1403ab2-8370-444a-bf32-31ea50ce2f54",
+    "reasons": [
+      "La experiencia de Martina Toledo se centra en finanzas y administración, no en tecnología o soporte técnico.",
+      "Su experiencia no se relaciona con las áreas de soporte técnico, help desk o atención al cliente en empresas de tecnología.",
+      "Si bien tiene buen nivel de inglés, no se menciona experiencia con documentos técnicos o videos en inglés relacionados con tecnología.",
+      "No muestra experiencia en la administración de plataformas colaborativas como Google Workspace."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "ee4372ff-76bf-43b1-ac51-0be3f034f073",
+    "reasons": [
+      "La experiencia laboral de Martina Toledo no se alinea con los requerimientos del puesto. Su experiencia se centra en el área de finanzas y economía, mientras que la posición requiere experiencia en soporte técnico, microinformática, help desk o atención al cliente en empresas de tecnología.",
+      "No hay mención a habilidades de soporte técnico o resolución de problemas tecnológicos. ",
+      "Si bien su nivel de inglés es avanzado, no se especifica si posee experiencia en la lectura de documentos técnicos o comprensión de videos en inglés, que son requisitos del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a7ce2a18-c57d-45cf-b080-5a4f0a27c7cd",
+    "reasons": [
+      "La experiencia laboral de Martina no se alinea con los requisitos del puesto. Su experiencia en finanzas y economía no se relaciona con el soporte técnico de Google Workspace.",
+      "No se menciona experiencia en soporte técnico, help desk o áreas similares en la industria tecnológica.",
+      "Si bien cuenta con buen nivel de inglés, no se especifica su experiencia en la lectura de documentos técnicos o comprensión de videos en inglés, un requisito explicitado en la descripción del puesto.",
+      "Aunque posee habilidades en Excel y otras herramientas, no hay indicios de experiencia en plataformas colaborativas como Google Workspace o en la administración de sistemas."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "ae60d1a5-6df2-47bb-9223-167656264013",
+    "reasons": [
+      "La experiencia de Martina se centra en el área de economía y finanzas, no en tecnología o soporte técnico.",
+      "No se menciona experiencia en soporte técnico, help desk, atención al cliente o áreas relacionadas.",
+      "Si bien su nivel de inglés es avanzado, la descripción del puesto requiere la comprensión de documentos y videos técnicos en inglés, lo cual no está explícitamente demostrado en su CV.",
+      "No posee experiencia en Google Workspace o plataformas de colaboración similares."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "103d32d6-be7b-4b83-a43f-e011e42be5aa",
+    "reasons": [
+      "La experiencia de Martina se centra en el área de economía y finanzas, no en tecnología o soporte técnico.",
+      "No se menciona experiencia en soporte técnico, help desk, atención al cliente o áreas relacionadas.",
+      "Si bien su inglés es avanzado, la descripción del puesto requiere comprensión de documentos y videos técnicos en inglés, lo cual no queda explícito en su CV.",
+      "Su experiencia no se relaciona con Google Workspace o plataformas de colaboración."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "df56a744-8c6b-4bf5-a906-2f7a73b9c929",
+    "reasons": [
+      "La experiencia laboral de Martina Toledo no se alinea con los requisitos del puesto. Su experiencia se centra en áreas económicas y administrativas, sin mostrar habilidades o experiencia en soporte técnico, atención al cliente en tecnología o  Google Workspace.",
+      "Aunque su nivel de inglés es avanzado,  la descripción del puesto requiere la comprensión de documentos técnicos y videos en inglés,  que no se evidencia en su currículum.",
+      "No hay mención a ninguna experiencia en soporte técnico, help desk, microinformática o áreas similares en el sector tecnológico."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e86e71de-aaab-405f-85ed-aa2cff94a1f4",
+    "reasons": [
+      "La experiencia de Martina se centra en el área de economía y finanzas, sin relación con el soporte técnico o la administración de sistemas.",
+      "No se menciona experiencia en soporte técnico, help desk, atención al cliente o áreas similares en empresas de tecnología.",
+      "Si bien maneja Excel avanzado, no se evidencia experiencia en la administración de plataformas colaborativas como Google Workspace.",
+      "Aunque su nivel de inglés es avanzado, la descripción del puesto requiere comprensión de documentación y videos técnicos en inglés, lo cual no queda explícito en su currículum."
+    ],
+    "score": 20
+  }
+]

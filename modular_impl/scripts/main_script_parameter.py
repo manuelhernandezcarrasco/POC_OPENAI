@@ -26,7 +26,7 @@ def run_batch_on_set(set_path: str, prompt_path: str, model="gemini", iterations
 
     jd_text = extract_text(jd_path)
     cv_files = [os.path.join(cvs_dir, f) for f in os.listdir(cvs_dir)
-                if f.lower().endswith((".pdf", ".jpg", ".jpeg", ".png"))]
+                if f.lower().endswith((".pdf", ".jpg", ".jpeg", ".png", ".docx"))]
     cv_files.sort()
 
     if len(cv_files) == 0:

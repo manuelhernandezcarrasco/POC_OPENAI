@@ -1,117 +1,248 @@
 [
   {
-    "participant_id": "7532964a-e91d-4bfc-b605-de200db3c27c",
+    "participant_id": "7049f2d8-4c29-40cb-b5b0-605b7bf928ad",
     "reasons": [
-      "Posee más de 2 años de experiencia en agencias de comunicación.",
+      "Amplia experiencia en marketing y comunicación en diversas agencias, mostrando versatilidad y adaptación a diferentes industrias.",
+      "Experiencia en relacionamiento con influencers, clientes y periodistas, alineado con las responsabilidades del puesto.",
+      "Habilidades en gestión de proyectos, análisis de resultados y reporting.",
+      "Formación académica en publicidad y cursos de especialización en marketing digital relevantes.",
+      "Aunque no se especifica el nivel de inglés, su experiencia internacional sugiere un nivel adecuado. Se recomienda confirmarlo."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "7a02a1b4-e5bf-4655-87ec-92112c9a5f13",
+    "reasons": [
+      "Tiene más de 2 años de experiencia en agencias y consultoras, trabajando con influencers y clientes.",
+      "Demuestra experiencia en gestión de campañas, análisis de perfiles,  gestión de documentación y reporte de resultados.",
+      "Su experiencia en comunicación y marketing digital es relevante para el puesto.",
+      "La información sobre el manejo de GSuite no está explícita en el CV, pero su experiencia sugiere que probablemente lo maneja.",
+      "El nivel de inglés no está especificado."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "ee9dbfb8-0a44-4ba5-8d8e-45ff5a93fa94",
+    "reasons": [
+      "Posee más de 2 años de experiencia en agencias y consultoras, trabajando con influencers y clientes.",
+      "Demuestra experiencia en gestión de relaciones públicas, marketing digital y comunicación con influencers.",
+      "Su experiencia en planificación de contenido, análisis de resultados y reporte se alinea con las responsabilidades del puesto.",
+      "Su formación académica y las certificaciones en marketing digital y Google Ads son relevantes.",
+      "La falta de mención explícita al manejo de GSuite podría ser un punto a aclarar."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "a3e721c0-7819-4579-b299-d52907190449",
+    "reasons": [
+      "Amplia experiencia en marketing y comunicación, incluyendo el trato con clientes e influencers.",
+      "Ha trabajado en agencias y cuenta con experiencia en gestión de redes sociales, planificación de contenido, análisis de competencia y reportes de resultados.",
+      "Demuestra conocimiento de la industria a través de sus experiencias previas, aunque no se especifica si es en el sector de creadores de contenido.",
+      "La experiencia en gestión de influencers no es tan específica como se requiere para el puesto (ej: no menciona experiencia en la gestión de campañas de influencers internacionales).",
+      "No se menciona explícitamente el manejo de GSuite, aunque su experiencia sugiere familiaridad con herramientas digitales."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "1865d6e2-3aab-4912-ad89-243840c138c1",
+    "reasons": [
+      "Posee más de 2 años de experiencia en agencias y consultoras de comunicación.",
+      "Demuestra experiencia en el manejo de influencers y relaciones públicas, incluyendo el trato directo con clientes.",
+      "Su experiencia en marketing digital, redes sociales y gestión de contenido es relevante para el puesto.",
+      "La experiencia en gestión de equipos también es un punto a favor.",
+      "Si bien no se menciona explícitamente el manejo de G Suite, su experiencia en el rubro sugiere un conocimiento probable del mismo.",
+      "La falta de mención expresa sobre el nivel de inglés y la falta de enfoque específico en Marketing de Influencers como área principal, restan puntaje."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "f1cea43e-4b5c-4f34-b273-17489f060470",
+    "reasons": [
+      "Posee más de 2 años de experiencia en agencias de comunicación y marketing.",
+      "Demuestra experiencia en relacionamiento con influencers y clientes.",
+      "Cuenta con experiencia en gestión de notas de prensa, armado de presskits y análisis de resultados.",
+      "Su experiencia en planificación y ejecución de estrategias de marketing es relevante.",
+      "Tiene experiencia en gestión de redes sociales y creación de contenido.",
+      "Carece de información sobre su nivel de inglés, un requisito excluyente del puesto."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "d4f40696-2114-4454-b145-36ef62aaa15d",
+    "reasons": [
+      "Posee más de 2 años de experiencia en agencias de publicidad y comunicación, cumpliendo con el requisito mínimo.",
       "Demuestra experiencia en el trato con clientes e influencers.",
-      "Tiene experiencia en la gestión de notas, gacetillas de prensa y presskits.",
-      "Su experiencia en marketing digital y redes sociales es relevante.",
-      "La falta de mención explícita al dominio de Gsuite y el nivel de inglés necesita ser aclarado."
+      "Su experiencia en gestión de notas de prensa, realización de reportes y análisis de resultados es relevante para el puesto.",
+      "La experiencia en planificación de contenido en redes sociales y estrategias de comunicación también son puntos a favor.",
+      "Si bien no se menciona explícitamente el manejo de GSuite, su experiencia en marketing digital sugiere un buen manejo de herramientas informáticas.",
+      "No se especifica el nivel de inglés en el currículum, por lo que este aspecto es incierto.",
+      "La descripción no menciona la necesidad de experiencia en campañas internacionales, por lo que la experiencia en productoras y managers de artistas, aunque relacionada con la industria, no es determinante."
     ],
     "score": 75
   },
   {
-    "participant_id": "3975a168-613d-4e71-a71e-2d4b0819b3b3",
+    "participant_id": "f68c1305-340f-4580-9892-10fd8b2fd21b",
     "reasons": [
-      "Amplia experiencia en marketing y comunicación en diferentes agencias, demostrando versatilidad y adaptación a diversas industrias.",
-      "Sólido historial de trabajo con influencers,  coordinando acciones, gestionando relaciones y realizando análisis de resultados.",
-      "Experiencia en gestión de clientes, briefs,  y reportes,  claves para el puesto.",
-      "Habilidades demostradas en la planificación y ejecución de estrategias de marketing digital.",
-      "Certificaciones en Google Ads y Analytics son un plus, aunque no se especifica el nivel de inglés."
+      "Amplia experiencia en marketing y comunicación en diferentes roles, mostrando versatilidad y adaptación a diversas industrias.",
+      "Experiencia en relacionamiento con influencers, aunque no se especifica la profundidad de esta gestión.",
+      "Manejo de herramientas digitales y plataformas publicitarias, aunque no se menciona explícitamente GSuite.",
+      "Falta especificar el nivel de inglés en el currículum.",
+      "La experiencia en agencias y consultoras se observa, pero no se detalla el tiempo exacto en cada una, dificultando la evaluación precisa del cumplimiento del requisito de 'Más de 2 años de experiencia'."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "e62ecb25-3dc1-4e87-b3e3-f390051f1220",
+    "reasons": [
+      "Tiene más de 2 años de experiencia en agencias y consultoras, cumpliendo con el requisito mínimo.",
+      "Demuestra experiencia en el manejo de influencers y en el relacionamiento con clientes y periodistas.",
+      "Su experiencia en la gestión de notas, gacetillas y presskits se alinea con las responsabilidades del puesto.",
+      "Aunque se menciona experiencia en marketing digital, no se especifica el manejo de Gsuite.",
+      "Falta información explícita sobre su nivel de inglés."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "84825933-99a0-4652-95c2-8d50b8886c48",
+    "reasons": [
+      "Amplia experiencia en marketing y comunicación en diferentes agencias, mostrando versatilidad y adaptación a diversos sectores.",
+      "Experiencia en relacionamiento con influencers y clientes, alineado con las responsabilidades del puesto.",
+      "Sólido conocimiento de herramientas digitales y plataformas de marketing.",
+      "Formación académica en publicidad y cursos complementarios en marketing digital.",
+      "La experiencia en gestión de equipos puede ser un plus, aunque no es un requisito explícito."
     ],
     "score": 85
   },
   {
-    "participant_id": "a91b31b6-686f-4e97-809d-85e88109ab9d",
+    "participant_id": "b39bc16a-e8ee-4ae0-a90d-d7c25cfa746c",
     "reasons": [
-      "Posee más de 2 años de experiencia en agencias y consultoras, cumpliendo con el requisito de experiencia.",
-      "Su experiencia incluye trabajo con influencers y clientes, así como gestión de contenido y campañas.",
-      "Demuestra habilidades en planificación estratégica y análisis de resultados.",
-      "Cuenta con formación y certificaciones en marketing digital que son relevantes para el puesto.",
-      "La experiencia no se enfoca exclusivamente en marketing de influencers, lo que podría ser una desventaja."
+      "Cumple con el requisito de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital (cuenta con aproximadamente 4.5 años).",
+      "Posee experiencia relevante en agencias y empresas de medios/adtech en roles relacionados con marketing, PR y redes sociales.",
+      "Menciona explícitamente el relacionamiento directo con influencers en roles anteriores (Marketing Analyst y PR Account Assistant).",
+      "Tiene experiencia demostrada en el trato y relacionamiento con clientes.",
+      "La experiencia en industrias como consumo, medios y entretenimiento (clientes de Ninch, Entravision, MTS Agency) se alinea con el enfoque de la consultora.",
+      "No menciona poseer el nivel intermedio/avanzado de inglés, requisito que la descripción del puesto marca como excluyente.",
+      "No se detalla experiencia específica en el manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.).",
+      "No se mencionan explícitamente habilidades como ser detallista y ordenado/a.",
+      "Las responsabilidades listadas no cubren explícitamente todas las tareas específicas del puesto, como el briefing detallado de influencers, la gestión de documentación y contratos, o la revisión de guiones y control de contenidos."
+    ],
+    "score": 55
+  },
+  {
+    "participant_id": "d536fa1d-37be-43be-9f4b-48cf740c9a0f",
+    "reasons": [
+      "Cumple con el requisito de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital (cuenta con más de 4 años de experiencia relevante).",
+      "Tiene experiencia en la industria de Marketing de Influencers y relación con creadores de contenido, mencionada en varios roles.",
+      "Cuenta con experiencia demostrada en trato con clientes.",
+      "La experiencia en diferentes roles y empresas cubre industrias relevantes para Mazalán (Entretenimiento, Digital, Consumo).",
+      "No menciona explícitamente el manejo de herramientas de GSuite en el currículum proporcionado.",
+      "No especifica explícitamente experiencia en responsabilidades clave del puesto como el análisis de perfiles de creadores de contenido, la gestión de contratos relacionados con influencers o la revisión de contenido/guiones de influencers.",
+      "No indica su nivel de inglés, siendo este un requisito excluyente según la descripción del puesto. Este es un factor importante que impacta la adecuación según la descripción proporcionada."
+    ],
+    "score": 60
+  },
+  {
+    "participant_id": "1acf759c-e40a-431a-b438-21ff82281189",
+    "reasons": [
+      "Cumple con el requisito de más de 2 años de experiencia en agencias de PR, comunicación o Digital (~4.5 años de experiencia en roles relevantes).",
+      "Tiene experiencia directa en relacionamiento con influencers/creadores de contenido (mencionado en roles en Entravision y Ninch).",
+      "Demuestra experiencia sólida en manejo y asesoramiento de clientes.",
+      "Ha trabajado en industrias relevantes para los clientes de la agencia (Consumo, Digital/Tech, Entretenimiento) dentro del entorno de agencia.",
+      "Cuenta con formación universitaria y certificaciones relevantes en Marketing Digital y Publicidad.",
+      "El nivel de inglés no se menciona en el currículum, siendo un requisito excluyente para el puesto.",
+      "El manejo de GSuite no se menciona explícitamente en el currículum.",
+      "La experiencia específica en gestión de documentación/contratos y revisión de contenido no es explícita, aunque la experiencia general en coordinación y relacionamiento sugiere capacidad."
+    ],
+    "score": 60
+  },
+  {
+    "participant_id": "89b6bfaf-9e3c-4c59-9141-8dc59776a31f",
+    "reasons": [
+      "El candidato cuenta con más de 4 años de experiencia en agencias y empresas de marketing, comunicación y digital, superando el requisito de 'Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital'.",
+      "Ha tenido 'Relacionamiento directo con influencers' en dos de sus roles, demostrando experiencia relevante con creadores de contenido.",
+      "La experiencia incluye trato con clientes, gestión de proyectos y coordinación, alineándose con 'Trato con clientes' y aspectos de las responsabilidades del rol.",
+      "El candidato pertenece a la industria correcta (marketing, comunicación, digital).",
+      "El currículum no menciona explícitamente el nivel de inglés (intermedio/avanzado), que es un requisito excluyente en la descripción del puesto.",
+      "Algunos requisitos como el manejo de GSuite, ser detallista/ordenado y el trabajo en equipo no se mencionan explícitamente como habilidades en el texto del CV.",
+      "Las descripciones de los roles no detallan explícitamente la participación en el armado de briefs para influencers, análisis de perfiles de creadores de contenido, gestión de documentación/contratos o revisión de guiones/control de contenidos, aunque la experiencia general es relevante."
     ],
     "score": 75
   },
   {
-    "participant_id": "b1b47fa6-fd47-42a6-9c64-12df337786af",
+    "participant_id": "03abd341-128d-4df5-a6f2-d5fab5df307c",
     "reasons": [
-      "Amplia experiencia en marketing y comunicación en diferentes agencias y roles.",
-      "Demuestra un historial de trabajo con influencers y clientes.",
-      "Posee habilidades en gestión de proyectos, análisis de datos y reporte de resultados.",
-      "Cuenta con certificaciones en Google Ads y Google Analytics, lo que demuestra conocimiento en marketing digital.",
-      "La experiencia en la industria de entretenimiento (Teatro Vorterix, etc.) podría ser fácilmente adaptable a la industria de tecnología, consumo o negocios.",
-      "Falta especificar el nivel de inglés en el currículum, aunque su experiencia en agencias internacionales sugiere un nivel adecuado."
+      "Cumple con el requisito de más de 2 años de experiencia en agencias de PR, comunicación o digital (3 años y 8 meses de experiencia relevante).",
+      "Demuestra experiencia directa y explícita en relacionamiento y trabajo con influencers, managers y creadores de contenido en múltiples roles.",
+      "Tiene experiencia sólida en trato y asesoramiento con clientes.",
+      "La experiencia laboral se enmarca en empresas y roles relevantes para la industria (Marketing, PR, Digital).",
+      "Posee formación académica relevante (Licenciada en Publicidad).",
+      "No se menciona el nivel de inglés en el currículum, siendo este un requisito excluyente para el puesto.",
+      "Si bien tiene experiencia relevante, el currículum no detalla específicamente la experiencia en responsabilidades clave como el análisis profundo de perfiles de creadores, el armado de briefs detallados para influencers, la gestión de documentación/contratos o la revisión de contenidos/guiones de influencers, que son aspectos centrales del rol."
     ],
-    "score": 85
+    "score": 55
   },
   {
-    "participant_id": "534a582f-e733-4aea-9f52-8c115cd92c57",
+    "participant_id": "626db61f-df3e-4213-95e3-82051c059554",
     "reasons": [
-      "Posee más de 2 años de experiencia en agencias y consultoras, trabajando con clientes, influencers y periodistas, lo cual se alinea con el puesto.",
-      "Su experiencia en gestión de notas, presskits y relaciones públicas es relevante para las responsabilidades del rol.",
-      "Demuestra experiencia en análisis de resultados y reportes, aunque no se especifica si es en el ámbito de marketing de influencers.",
-      "El manejo de redes sociales y la planificación de contenido se ajustan al perfil requerido.",
-      "La falta de mención explícita de experiencia en marketing de influencers podría ser un punto a mejorar. Se recomienda indagar en la entrevista sobre su experiencia en este campo específico.",
-      "Si bien no se menciona directamente el manejo de GSuite, su experiencia en varias agencias sugiere un conocimiento probable del paquete."
+      "Cumple con el requisito de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital.",
+      "Posee experiencia directa en relacionamiento con clientes e influencers, lo cual se alinea con las responsabilidades del rol.",
+      "Ha trabajado en roles que implican estrategia de comunicación, coordinación y análisis/reportes, habilidades relevantes para el puesto.",
+      "La experiencia en industrias como entretenimiento, digital y consumo es relevante para el ámbito de la consultora.",
+      "No menciona manejo de GSuite.",
+      "No menciona ser detallista u ordenado/a como cualidad explícita.",
+      "No se detalla experiencia específica en revisión de guiones o control de contenidos de influencers.",
+      "No se especifica el nivel de inglés, el cual es un requisito excluyente para el puesto."
     ],
-    "score": 75
+    "score": 65
   },
   {
-    "participant_id": "6170f6f5-4426-4dcc-a0dd-c694ea2548cd",
+    "participant_id": "b33a0b31-aa11-4282-8579-6a038f95bd46",
     "reasons": [
-      "Amplia experiencia en marketing y comunicación, incluyendo trabajo con influencers en roles anteriores.",
-      "Demuestra habilidades en gestión de relaciones con clientes, manejo de redes sociales y planificación de contenido.",
-      "Posee certificaciones relevantes en marketing digital y Google Ads.",
-      "La experiencia en agencias y consultoras se alinea con el requisito del puesto.",
-      "No se especifica explícitamente el nivel de inglés, aunque la trayectoria sugiere un buen manejo del idioma."
+      "Cumple con el requisito de más de 2 años de experiencia en agencias/consultoras de PR, comunicación o Digital.",
+      "Demuestra experiencia en el trato con clientes.",
+      "Posee experiencia directa en el relacionamiento con influencers y la industria de creadores de contenido.",
+      "La experiencia se desarrolla en la industria de la comunicación/marketing, acorde al puesto.",
+      "La ubicación indicada (Nuñez, Buenos Aires) coincide con la modalidad híbrida en CABA.",
+      "El nivel de inglés intermedio/avanzado, un requisito excluyente, NO está mencionado en el currículum.",
+      "El manejo de GSuite, el trabajo en equipo y ser detallista/ordenado, aunque requisitos, NO están mencionados.",
+      "No se detalla experiencia explícita en la gestión de documentación/contratos o revisión de guiones/contenido, que son responsabilidades del rol."
     ],
-    "score": 85
+    "score": 65
   },
   {
-    "participant_id": "9db424cc-4729-40d3-8c21-a642142d8a2b",
+    "participant_id": "b6035015-d025-4d55-a236-80a2dfaab3b0",
     "reasons": [
-      "Amplia experiencia en marketing y comunicación, incluyendo relaciones con influencers y clientes.",
-      "Experiencia en agencias y consultoras, cumpliendo con el requisito de la descripción.",
-      "Habilidades demostradas en gestión de proyectos, análisis de datos y elaboración de reportes.",
-      "Formación académica en Publicidad y múltiples certificaciones en marketing digital.",
-      "Falta especificar el nivel de inglés, requisito excluyente según la descripción."
+      "El candidato cuenta con más de 4 años de experiencia en agencias de PR, comunicación y digital, superando el requisito mínimo de 2 años.",
+      "La experiencia incluye roles y empresas relevantes dentro de la industria de agencias y consultoras.",
+      "Se demuestra experiencia sólida en trato con clientes y, fundamentalmente, en relacionamiento directo con influencers, lo cual es un pilar del puesto.",
+      "La experiencia previa abarca sectores como consumo, tecnología y entretenimiento, que son foco para la empresa.",
+      "No se menciona explícitamente el manejo de GSuite, lo cual es un requisito listado.",
+      "Aunque se mencionan responsabilidades relevantes como gestión de comunicación, redes sociales, eventos y relacionamiento, el currículum no detalla la experiencia específica en tareas como armado de briefs para influencers, análisis de perfiles con metodologías específicas, gestión de documentación/contratos o revisión detallada de contenidos, que son responsabilidades clave del rol.",
+      "El requisito de nivel intermedio/avanzado de inglés es excluyente y no se proporciona ninguna información sobre el nivel de inglés del candidato en el currículum, lo cual es una omisión crítica para un requisito excluyente y reduce considerablemente la adecuación basada únicamente en este documento."
     ],
-    "score": 85
+    "score": 45
   },
   {
-    "participant_id": "dc69c0fd-039b-428c-b854-570e8b19af6e",
+    "participant_id": "9dab88fd-b1be-4ae6-abfa-a7a15efac6e7",
     "reasons": [
-      "Tiene más de 2 años de experiencia en agencias y consultoras, cumpliendo con el requisito de experiencia.",
-      "Su experiencia incluye el trato con clientes, influencers y periodistas, mostrando habilidades relevantes para el puesto.",
-      "Demuestra experiencia en gestión de campañas, análisis de resultados y creación de contenido.",
-      "La experiencia en marketing digital y redes sociales es un punto a favor.",
-      "La falta de mención explícita sobre el nivel de inglés y el manejo de G Suite son aspectos a aclarar."
+      "El candidato cumple con el requisito de más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital, acumulando más de 4 años de experiencia relevante.",
+      "La experiencia laboral incluye \"Trato con clientes\" y \"Relacionamiento directo con influencers\", alineado con las responsabilidades del puesto y el conocimiento requerido de la industria de creadores de contenido.",
+      "El perfil profesional y la experiencia previa se enmarcan dentro de la industria relevante (agencias de comunicación, digital y PR).",
+      "El currículum no especifica el nivel de inglés del candidato, siendo este un requisito excluyente (nivel intermedio/avanzado) para el puesto.",
+      "No se menciona explícitamente el manejo de GSuite ni otras habilidades como ser detallista o la gestión específica de documentación y contratos, aunque pueden ser implícitas en la experiencia general."
     ],
-    "score": 75
+    "score": 65
   },
   {
-    "participant_id": "d5120991-205a-449e-a2eb-52dcc8870ddd",
+    "participant_id": "f4351753-5bcb-41ef-bac5-6acbe30df7f6",
     "reasons": [
-      "Posee más de 2 años de experiencia en agencias y consultoras de comunicación, cumpliendo con el requisito mínimo.",
-      "Demuestra experiencia en el trato con clientes, influencers y periodistas.",
-      "Su experiencia incluye gestión de notas, presskits y análisis de resultados, habilidades relevantes para el puesto.",
-      "La experiencia en planificación de contenido en redes sociales y estrategias de comunicación son puntos a favor.",
-      "Si bien no se menciona explícitamente el manejo de Gsuite, su experiencia en diversas plataformas digitales sugiere un buen manejo de herramientas similares.",
-      "Falta información sobre el nivel de inglés, un requisito excluyente del puesto."
+      "Cuenta con más de 3 años de experiencia en agencias y consultoras de PR, comunicación y digital, cumpliendo el requisito de 'más de 2 años'.",
+      "Tiene experiencia demostrada en el trato con clientes ('Relacionamiento directo con el cliente', 'Contacto diario y asesoramiento a clientes').",
+      "Posee experiencia en el relacionamiento con influencers y conocimiento de la industria ('Relacionamiento directo con influencers y vendedores', 'Relacionamiento directo con el cliente, influencers y periodistas'), alineado con las responsabilidades del puesto.",
+      "No se menciona explícitamente el manejo de GSuite, aunque es común en este tipo de roles y puede asumirse.",
+      "No se indica el nivel de inglés, que es un requisito 'excluyente' para el puesto.",
+      "Si bien tiene experiencia con influencers, el currículum no detalla específicamente tareas como el análisis de perfiles, gestión de contratos o revisión de contenido, que son responsabilidades del rol."
     ],
-    "score": 75
-  },
-  {
-    "participant_id": "9026363d-2a0d-4654-863d-eacd378b7744",
-    "reasons": [
-      "Posee más de dos años de experiencia en agencias de publicidad y comunicación, lo que cumple con el requisito del puesto.",
-      "Demuestra experiencia en el manejo de influencers y el relacionamiento con clientes.",
-      "Su experiencia en gestión de notas de prensa, armado de press kits y análisis de resultados es relevante para las responsabilidades del puesto.",
-      "Tiene experiencia en la planificación y ejecución de estrategias de marketing digital.",
-      "La experiencia en planificación de contenido en redes sociales es un punto a favor.",
-      "No se menciona explícitamente el manejo de GSuite, aunque la experiencia en agencias sugiere un manejo básico.",
-      "Si bien no se especifica un nivel de inglés en el CV, es un punto a aclarar en la entrevista."
-    ],
-    "score": 75
+    "score": 25
   }
 ]

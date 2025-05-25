@@ -1,136 +1,270 @@
 [
   {
-    "participant_id": "022a9046-ebe9-4707-89bb-daec891b0870",
+    "participant_id": "f664ce81-1abc-47c9-abb5-768fca413844",
     "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces este requisito, mostrando experiencia en varias agencias y roles relacionados.",
-      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: El CV no menciona explícitamente el manejo de GSuite, pero la experiencia en roles similares sugiere un conocimiento probable.",
-      "Trabajo en equipo: El CV destaca el trabajo en equipo en múltiples roles.",
-      "Trato con clientes: La experiencia en varias agencias y roles implica un trato directo con clientes.",
-      "Ser detallista y ordenado/a: Se infiere por la descripción detallada de sus responsabilidades en cada rol.",
-      "Conocimiento de la industria de creadores de contenido: Muestra experiencia en marketing de influencers en varios roles.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones en inglés (C2) demuestran un nivel avanzado."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "09836622-4663-45f8-a0f3-adba73184155",
-    "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces, con experiencia en MAC Cosmetics, Saenz Global, HighScale Ai y Rappi.",
-      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se menciona explícitamente, pero su experiencia sugiere un buen manejo de herramientas digitales.",
-      "Trabajo en equipo: Se menciona en varias experiencias laborales.",
-      "Trato con clientes: Se desprende de su experiencia en varias empresas.",
-      "Ser detallista y ordenado/a: Se infiere de su experiencia en gestión de campañas y marketing.",
-      "Conocimiento de la industria de creadores de contenido: Su experiencia en influencer marketing en varias empresas demuestra este conocimiento.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de Cambridge (PET, FCE & CAE) indican un nivel avanzado.",
-      "Experiencia en campañas de influencers y gestión de relaciones con ellos: Su experiencia en Saenz Global y HighScale Ai es altamente relevante."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "b3078353-da41-4cbd-929d-55e08f6ff3dd",
-    "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces este requisito, mostrando una trayectoria sólida en marketing digital y de influencers en diferentes empresas.",
-      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se menciona explícitamente, pero su experiencia en otras herramientas de marketing digital y análisis de datos sugiere un buen manejo de herramientas similares.",
-      "Trabajo en equipo: Se evidencia en las descripciones de sus roles en varias empresas.",
-      "Trato con clientes: Su experiencia en roles como Marketing Analyst e Influencer Coordinator implica interacción directa con clientes o influencers, lo cual sugiere capacidad para el trato con clientes.",
-      "Ser detallista y ordenado/a: Si bien no se menciona explícitamente, la gestión de campañas de marketing y el manejo de múltiples herramientas sugieren un perfil organizado y detallista.",
-      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers, incluyendo la búsqueda, selección y gestión de los mismos.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de inglés (C2) demuestran un nivel avanzado.",
-      "Experiencia en campañas de creadores de contenido de distintos países: Su experiencia en Saenz Global y Rappi incluye trabajo en Argentina, Uruguay y Colombia, lo que demuestra experiencia en campañas internacionales."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "480abe9c-c4ac-4a75-b5d7-c0048257ea43",
-    "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o digital: Cumple con la experiencia en agencias y consultoras, con roles relacionados al marketing de influencers.",
-      "Manejo de GSuite: No se especifica explícitamente en el currículum, pero la experiencia en diferentes empresas sugiere un uso probable.",
-      "Trabajo en equipo: Se evidencia en varias descripciones de sus roles.",
-      "Trato con clientes: Se deduce de sus responsabilidades en varias posiciones.",
-      "Ser detallista y ordenado/a: No se puede verificar directamente, pero el manejo de múltiples proyectos sugiere organización.",
-      "Conocimiento de la industria de creadores de contenido:  Experiencia significativa en marketing de influencers en varias empresas.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de Cambridge (PET, FCE & CAE) indican un nivel avanzado."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "998cea0c-8711-4902-8fc4-c2325532547e",
-    "reasons": [
-      "Experiencia relevante en marketing de influencers en roles como Influencer Marketing Ownership en Saenz Global e Influencer Coordinator en HighScale Ai.",
-      "Demuestra habilidades en investigación, selección y gestión de influencers.",
-      "Posee experiencia en el desarrollo de estrategias de PR y campañas 360°.",
-      "Manejo avanzado de diversas plataformas de redes sociales y herramientas de marketing.",
-      "Experiencia en gestión de comunidades online y atención al cliente.",
-      "Nivel de inglés avanzado (C2), cumpliendo con el requisito excluyente.",
-      "La experiencia como pasante podría no ser tan relevante, pero aporta habilidades adicionales."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "4ad80db0-57b2-413b-af07-bdec816a064f",
-    "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o digital: Cumple con creces, posee experiencia en MAC Cosmetics, TheFigCo, Saenz Global, HighScale Ai y Rappi.",
-      "Manejo de GSuite: No se menciona explícitamente, pero su experiencia en diversas empresas y manejo de herramientas digitales sugiere un buen dominio.",
-      "Trabajo en equipo: Se evidencia en sus descripciones de trabajo.",
-      "Trato con clientes: Se infiere a través de su experiencia en atención al cliente y gestión de relaciones con influencers.",
-      "Ser detallista y ordenado/a: No se puede verificar explícitamente, pero la gestión de campañas y estrategias sugiere organización.",
-      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Cuenta con certificaciones de Cambridge (C2), cumpliendo con este requisito.",
-      "Posee experiencia en Influencer Marketing y en áreas relacionadas a la descripción del puesto."
-    ],
-    "score": 85
-  },
-  {
-    "participant_id": "d42fa28b-a4a5-40f3-8278-a0116f082420",
-    "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces, con experiencia en MAC Cosmetics, Saenz Global, HighScale AI y Rappi.",
-      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: El currículum no especifica explícitamente el manejo de G Suite, pero la experiencia en varias empresas sugiere un manejo adecuado de herramientas similares.",
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con la experiencia en agencias y consultoras, aunque parte de su experiencia es como interna.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se menciona explícitamente el manejo de GSuite, pero su experiencia con otras plataformas sugiere un buen manejo de herramientas digitales.",
       "Trabajo en equipo: Su experiencia en varias empresas y roles indica capacidad para trabajar en equipo.",
-      "Trato con clientes: Su experiencia en roles de Marketing y atención al cliente demuestra capacidad de trato con clientes.",
-      "Ser detallista y ordenado/a:  La descripción de sus funciones sugiere un perfil detallista y organizado.",
-      "Conocimiento de la industria de creadores de contenido:  Posee amplia experiencia en marketing de influencers, lo cual demuestra un conocimiento profundo de la industria.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones en inglés (PET, FCE & CAE) indican un nivel avanzado.",
-      "Experiencia en roles relevantes como Influencer Marketing Ownership, Influencer Coordinator, y tareas relacionadas con la gestión de influencers."
+      "Trato con clientes: Su experiencia en roles de marketing y atención al cliente sugiere capacidad de trato con clientes.",
+      "Ser detallista y ordenado/a: La descripción de sus funciones en distintos roles indica atención al detalle y organización.",
+      "Conocimiento de la industria de creadores de contenido: Posee amplia experiencia en marketing de influencers, gestión de relaciones con influencers y creación de estrategias para campañas.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de inglés (C2) demuestran un nivel avanzado."
     ],
     "score": 85
   },
   {
-    "participant_id": "090dda24-921e-4064-b737-5d802e64aeda",
+    "participant_id": "cbe0a77d-c70c-4fc6-931b-14ccf5fb13c7",
     "reasons": [
-      "Más de dos años de experiencia en agencias y consultoras (cumple con el requisito).",
-      "Experiencia en marketing de influencers en roles como Influencer Marketing Ownership, Influencer Coordinator y gestión de campañas en redes sociales.",
-      "Manejo de múltiples plataformas de redes sociales y herramientas de marketing.",
-      "Habilidades en creación de contenido, análisis de perfiles de creadores de contenido y estrategia de relaciones públicas.",
-      "Nivel de inglés avanzado (C2).",
-      "La experiencia en MAC Cosmetics Argentina, Saenz Global, HighScale AI y Rappi Argentina Y Uruguay muestra una progresión en roles relacionados con la descripción del puesto.",
-      "Falta especificar el manejo de GSuite, aunque se infiere por el tipo de tareas realizadas."
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con la experiencia en agencias y consultoras, aunque no todos los roles fueron de más de 2 años.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se menciona explícitamente el manejo de G Suite, pero su experiencia con otras plataformas de gestión de proyectos y análisis de datos sugiere capacidad de adaptación.",
+      "Trabajo en equipo: Se evidencia en sus diferentes roles y responsabilidades.",
+      "Trato con clientes: Su experiencia en diferentes roles indica interacción con clientes o stakeholders.",
+      "Ser detallista y ordenado/a: No se puede verificar explícitamente, pero su experiencia en roles que requieren precisión y organización sugieren esta cualidad.",
+      "Conocimiento de la industria de creadores de contenido:  Posee amplia experiencia en marketing de influencers y gestión de relaciones con creadores de contenido.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones en inglés (C2) demuestran un nivel avanzado.",
+      "Brindar soporte en campañas de creadores de contenido de distintos países: Su experiencia en campañas internacionales es una ventaja.",
+      "Participar en el armado de briefs para influencers y transmitir la información correctamente: Su experiencia en desarrollo de estrategias de PR y marketing de influencers indica que puede participar en este proceso."
     ],
     "score": 85
   },
   {
-    "participant_id": "cfb711b0-f9b2-4636-92bd-2c86af161808",
+    "participant_id": "d48c574c-651b-4c88-8101-93e43c064d51",
     "reasons": [
-      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o digital: Cumple con la experiencia en agencias y consultoras, aunque la suma de sus experiencias en roles similares no llega a los dos años en un mismo puesto.",
-      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se menciona explícitamente, pero su experiencia sugiere un manejo adecuado.",
-      "Trabajo en equipo: Se evidencia en la descripción de sus experiencias.",
-      "Trato con clientes: Se evidencia en la descripción de sus experiencias.",
-      "Ser detallista y ordenado/a: Se infiere de la descripción de sus responsabilidades en cada puesto.",
-      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers y manejo de campañas con creadores de contenido.",
-      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones C2 avalan un nivel avanzado de inglés.",
-      "Experiencia en roles relacionados con las responsabilidades del puesto: Su experiencia en marketing de influencers, gestión de campañas y relaciones con creadores de contenido es muy relevante."
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces, mostrando una trayectoria variada en marketing digital y PR.",
+      "Manejo de GSuite: No se especifica explícitamente, pero su experiencia en varias empresas sugiere un uso probable.",
+      "Trabajo en equipo:  Se infiere de su participación en equipos de marketing y PR.",
+      "Trato con clientes: Se infiere de sus roles en diferentes empresas y gestión de campañas.",
+      "Ser detallista y ordenado/a: Se infiere de su experiencia en gestión de campañas y estrategias de marketing.",
+      "Conocimiento de la industria de creadores de contenido:  Sí, cuenta con experiencia específica en influencer marketing.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Cumple con el requisito, certificando su nivel de inglés.",
+      "Su experiencia en influencer marketing, aunque corta, es muy pertinente y demuestra habilidades relevantes para el puesto."
     ],
     "score": 85
   },
   {
-    "participant_id": "d22a1b0a-e7e6-4036-98c4-b2aa1bfc00ab",
+    "participant_id": "e5b71a66-a230-4cc7-a116-57446a295ff0",
     "reasons": [
-      "Experiencia relevante en marketing de influencers en roles como Influencer Marketing Ownership en Saenz Global e Influencer Coordinator en HighScale Ai.",
-      "Demuestra habilidades en investigación, selección y gestión de influencers, así como en la creación de estrategias de contenido y ejecución de campañas.",
-      "Su experiencia en agencias y empresas de comunicación (MAC Cosmetics, TheFigCo, Rappi) demuestra su conocimiento de la industria.",
-      "Manejo avanzado de inglés (C2) según lo declarado en su CV.",
-      "Amplio conocimiento de herramientas digitales de marketing y gestión de proyectos.",
-      "Posible falta de experiencia de dos años en agencias, consultoras de PR o comunicación digital, como se especifica en los requisitos (si bien su experiencia es muy relevante)."
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple ampliamente con la experiencia en varias agencias y roles relacionados con marketing de influencers y PR.",
+      "Manejo de GSuite: No se especifica explícitamente, pero su experiencia en roles profesionales sugiere un manejo adecuado.",
+      "Trabajo en equipo: Demostrado en sus roles y responsabilidades en diferentes empresas.",
+      "Trato con clientes: Su experiencia en roles de atención al cliente y gestión de relaciones con influencers indica capacidad para tratar con clientes.",
+      "Ser detallista y ordenado/a: Se infiere de su experiencia en gestión de campañas y proyectos.",
+      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers, gestión de relaciones con KOLs y análisis de perfiles de creadores de contenido.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de inglés C2 demuestran un nivel avanzado."
     ],
     "score": 85
+  },
+  {
+    "participant_id": "f0a42fa3-208e-44b6-bb3e-36829621fb36",
+    "reasons": [
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con la experiencia en varias agencias y roles relacionados.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se especifica explícitamente, pero su experiencia y habilidades digitales sugieren un buen manejo.",
+      "Trabajo en equipo: Se evidencia en su experiencia en roles colaborativos.",
+      "Trato con clientes: Se evidencia en sus roles en MAC Cosmetics, TheFigCo, Saenz Global y HighScale Ai.",
+      "Ser detallista y ordenado/a: Se infiere de su experiencia en gestión de campañas y marketing.",
+      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers en diferentes roles.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones de Cambridge (PET, FCE & CAE) demuestran un nivel avanzado.",
+      "Algunos puntos fuertes adicionales son su experiencia con varias plataformas de marketing digital y sus habilidades en análisis de datos."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "d33253f2-dd4e-446c-ac19-9dfbe33f2d73",
+    "reasons": [
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces, posee experiencia en varias agencias y roles relacionados.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se especifica explícitamente, pero su experiencia en marketing digital sugiere un manejo adecuado.",
+      "Trabajo en equipo:  Se menciona en varias experiencias laborales.",
+      "Trato con clientes:  Se infiere de sus roles en varias compañías.",
+      "Ser detallista y ordenado/a: No se especifica explícitamente, pero su experiencia sugiere organización.",
+      "Conocimiento de la industria de creadores de contenido:  Posee experiencia directa en marketing de influencers.",
+      "Excluyente: nivel intermedio/avanzado de inglés:  Cumple con el requisito, certificaciones Cambridge."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "51c189dc-538f-46d9-89b1-0d275be1a7d1",
+    "reasons": [
+      "Experiencia relevante en marketing de influencers en diferentes empresas (Saenz Global, HighScale Ai).",
+      "Demuestra habilidades en investigación, selección y gestión de influencers.",
+      "Habilidades en desarrollo de estrategias de PR y campañas de marketing.",
+      "Dominio de herramientas digitales relevantes para el puesto (HubSpot, Meta Business Suite).",
+      "Nivel de inglés avanzado (C2), según lo indicado en el currículum.",
+      "Falta especificar experiencia en agencias o consultoras de PR o comunicación digital, aunque la experiencia en Saenz Global podría considerarse similar.",
+      "Si bien maneja varias herramientas, no menciona expresamente GSuite."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "3048623a-819f-4d93-ac70-6b717976b998",
+    "reasons": [
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con la experiencia en agencias y consultoras, trabajando en MAC Cosmetics, Saenz Global, HighScale Ai y Rappi.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: El CV no especifica explícitamente el manejo de G Suite, pero su experiencia con otras plataformas digitales sugiere un conocimiento similar.",
+      "Trabajo en equipo: Su experiencia en diferentes roles implica trabajo colaborativo.",
+      "Trato con clientes: La experiencia en MAC Cosmetics, Saenz Global y Rappi demuestra trato directo con clientes o gestión de relaciones.",
+      "Ser detallista y ordenado/a:  La gestión de campañas de marketing y PR sugiere estas cualidades.",
+      "Conocimiento de la industria de creadores de contenido: Su experiencia en influencer marketing en Saenz Global y HighScale Ai demuestra un conocimiento profundo de esta industria.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones C2 en inglés (PET, FCE & CAE) demuestran un nivel avanzado.",
+      "Experiencia en influencer marketing:  Su rol en Saenz Global y HighScale Ai se alinea directamente con las responsabilidades del puesto.  En HighScale Ai, por ejemplo, gestiona la investigación, el acercamiento, la relación y la ejecución de campañas con influencers. Su experiencia en Rappi también incluye aspectos de relaciones públicas y estrategia de marca, habilidades transferibles."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "7df6696b-eb7b-43a1-81e6-1d9f2c2d0780",
+    "reasons": [
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con creces, posee experiencia en varias agencias y roles relacionados.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: No se especifica explícitamente, pero su experiencia con otras plataformas de gestión de proyectos y análisis de datos sugiere un buen manejo de herramientas similares.",
+      "Trabajo en equipo:  Su experiencia en varias empresas y roles indica trabajo en equipo.",
+      "Trato con clientes: Experiencia en roles con interacción directa con clientes en varias posiciones.",
+      "Ser detallista y ordenado/a: No se puede evaluar directamente desde el CV.",
+      "Conocimiento de la industria de creadores de contenido: Amplia experiencia en marketing de influencers, lo cual demuestra un profundo conocimiento de la industria.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Cuenta con certificaciones que demuestran un nivel avanzado de inglés (C2)."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "51fab24b-44a2-4a88-8d6a-23e1698af015",
+    "reasons": [
+      "Más de 2 años de experiencia en agencias, consultoras de PR, comunicación o Digital: Cumple con la experiencia en diferentes agencias y roles relacionados con marketing de influencers y comunicación.",
+      "Manejo de GSuite: Drive, Gmail, Sheet, Docs, etc: El currículum no especifica explícitamente el manejo de G Suite, pero la experiencia en diferentes roles implica probablemente su uso.",
+      "Trabajo en equipo: Se evidencia a través de las diferentes descripciones de sus roles.",
+      "Trato con clientes:  Se infiere de sus experiencias en roles como Marketing Analyst y Influencer Coordinator.",
+      "Ser detallista y ordenado/a: Aunque no se especifica directamente, la gestión de campañas y la creación de estrategias implican estas características.",
+      "Conocimiento de la industria de creadores de contenido:  Demostrado ampliamente a través de sus experiencias en roles relacionados con influencer marketing.",
+      "Excluyente: nivel intermedio/avanzado de inglés: Certificaciones en inglés (C2) que demuestran un nivel avanzado."
+    ],
+    "score": 85
+  },
+  {
+    "participant_id": "4a36197d-3c3a-408f-88ee-7e8177776cfb",
+    "reasons": [
+      "El candidato cumple con el requisito excluyente de nivel de inglés avanzado (C2 certificado).",
+      "Posee más de 2 años de experiencia relevante en marketing digital y roles de influencers, incluyendo 'Influencer marketing ownership' en un entorno que parece ser una consultora (Saenz Global) y como 'Influencer Coordinator' (HighScale AI).",
+      "Demuestra experiencia directa en responsabilidades clave del puesto como investigación de perfiles, gestión de relaciones con KOLs (Key Opinion Leaders), desarrollo de briefs y ejecución de campañas de influencers.",
+      "La experiencia incluye trabajo con alcance regional (Argentina, Uruguay, Colombia), alineándose con el soporte a campañas en distintos países.",
+      "Maneja diversas herramientas de gestión de redes sociales y proyectos, lo que sugiere capacidad de organización y conocimiento del ecosistema digital necesario para el rol."
+    ],
+    "score": 92
+  },
+  {
+    "participant_id": "971428e3-0713-4d5a-aeb0-bf35deac40c6",
+    "reasons": [
+      "Cumple con el requisito de más de 2 años de experiencia en roles relacionados con marketing, digital y comunicación, en empresas relevantes para la industria.",
+      "Posee experiencia demostrada y explícita en marketing de influencers y conocimiento de la industria de creadores de contenido, como se evidencia en varios roles (ej. 'Infuencer marketing ownership', 'Influencer Coordinator', 'Influencer Research and Outreach').",
+      "Su nivel de inglés es C2 (certificado), superando el requisito excluyente de intermedio/avanzado.",
+      "Las responsabilidades listadas en su CV se alinean significativamente con las requeridas para el puesto (ej. 'desarrollo de briefs creativos', 'investigación y contacto con influencers', 'coordinación de logística de campañas MKT', experiencia multi-país en PR).",
+      "Ha trabajado en tipos de organizaciones relevantes, incluyendo agencias/consultoras ('Saenz Global') y empresas del sector consumo y digital ('MAC Cosmetics', 'Rappi', 'TheFigCo').",
+      "El manejo de GSuite y algunas soft skills (trabajo en equipo, detalle, trato con clientes) no están explícitamente mencionadas en el CV, aunque son comunes en los roles descritos."
+    ],
+    "score": 90
+  },
+  {
+    "participant_id": "3d06baa6-7fb3-47d8-b31f-d3aefe561296",
+    "reasons": [
+      "Más de 2 años de experiencia relevante en marketing, comunicación y marketing de influencers, superando el requisito mínimo.",
+      "Nivel de inglés avanzado (C2 certificado), cumpliendo el requisito excluyente.",
+      "Experiencia directa y explícita en marketing de influencers (ownership, coordinación) y conocimiento de la industria de creadores de contenido.",
+      "Experiencia demostrada en varias responsabilidades clave del puesto (análisis de perfiles, creación de briefs, ejecución de campañas, soporte en distintos países).",
+      "Manejo de herramientas de gestión de proyectos y redes sociales que sugieren capacidad organizativa y habilidades para el puesto.",
+      "Experiencia en sectores relevantes para la consultora (consumo, tecnología, comunicaciones)."
+    ],
+    "score": 100
+  },
+  {
+    "participant_id": "c46e923c-5a66-42b4-a843-bc9b22eca451",
+    "reasons": [
+      "Cumple y supera el requisito de más de 2 años de experiencia en roles de marketing, comunicación y digital, con historial en diversas empresas relevantes del sector.",
+      "Posee experiencia específica y demostrada en marketing de influencers, incluyendo responsabilidades directas como 'Infuencer marketing ownership' y un rol de 'Influencer Coordinator'.",
+      "Su experiencia abarca responsabilidades clave del puesto, como la investigación y gestión de relaciones con creadores de contenido (KOLs), estrategia de contenido para campañas y ejecución de logística de campañas.",
+      "Supera ampliamente el requisito de nivel de inglés, contando con certificación C2.",
+      "La educación en Comunicación Global y el manejo de diversas herramientas de marketing y redes sociales complementan favorablemente el perfil."
+    ],
+    "score": 95
+  },
+  {
+    "participant_id": "3531696d-734e-4522-bb81-2b79c32339f9",
+    "reasons": [
+      "Cumple y supera el requisito de más de 2 años de experiencia en áreas relevantes (comunicación digital, marketing con foco en influencers, soporte en PR), sumando más de 3 años y medio de experiencia en roles relacionados.",
+      "Cuenta con experiencia directa y reciente en Marketing de Influencers ('Influencer marketing ownership' e 'Influencer Coordinator'), incluyendo responsabilidades clave del puesto como investigación de perfiles, desarrollo de briefs y coordinación de campañas.",
+      "Posee experiencia en gestión de campañas y soporte en múltiples países (Argentina, Uruguay, Colombia), alineado con la descripción del puesto que menciona campañas en distintos países.",
+      "Demuestra un nivel de inglés avanzado/proficiente (C2 certificado), cumpliendo el requisito excluyente.",
+      "Sus roles anteriores y habilidades listadas se alinean bien con las responsabilidades generales de marketing digital, comunicación y gestión de redes sociales, y experiencia en trato con KOLs (Key Opinion Leaders)."
+    ],
+    "score": 92
+  },
+  {
+    "participant_id": "3fb0242a-4643-411f-a96c-170b7399564d",
+    "reasons": [
+      "Cumple con el requisito de más de 2 años de experiencia en agencias o consultorías relevantes (TheFigCo, Saenz Global, HighScale Ai).",
+      "Posee nivel de inglés C2, superando el requisito intermedio/avanzado excluyente.",
+      "Demuestra amplia experiencia específica en Marketing de Influencers y manejo de creadores de contenido (Saenz Global, HighScale Ai).",
+      "Tiene experiencia directa en la investigación, alcance y manejo de relaciones con KOLs/creadores.",
+      "Ha participado en la colaboración para el desarrollo de briefs creativos para influencers.",
+      "La experiencia en roles como Marketing Analyst e Influencer Coordinator cubre las responsabilidades de soporte en campañas y análisis de perfiles.",
+      "La experiencia en diversos roles y empresas implica manejo de clientes/stakeholders y trabajo en equipo.",
+      "Aunque no se mencionan explícitamente todas las habilidades (GSuite, detallista, documentación), la naturaleza de sus roles sugiere familiaridad con estas tareas."
+    ],
+    "score": 95
+  },
+  {
+    "participant_id": "74ebdb36-286c-46da-b060-2cbf30a8ab06",
+    "reasons": [
+      "Cumple el requisito de tener más de 2 años de experiencia en roles relacionados con marketing, PR y digital (sumando la experiencia en TheFigCo, Saenz Global y HighScale AI).",
+      "Posee experiencia directa y relevante en Marketing de Influencers (Saenz Global, HighScale AI), incluyendo investigación, relacionamiento con KOLs, estrategia y coordinación de campañas, alineado con las responsabilidades del puesto.",
+      "Cumple con el requisito excluyente de nivel de inglés (C2 certificado).",
+      "Ha participado en la estrategia y ejecución de PR, lo cual es relevante para el contexto del puesto.",
+      "Demuestra experiencia en el manejo de relaciones con clientes/socios (KOLs), cumpliendo con el requisito de trato con clientes.",
+      "Experiencia en la creación de briefs para influencers (HighScale AI), alineado con las responsabilidades.",
+      "Experiencia en análisis de perfiles de creadores (HighScale AI), alineado con las responsabilidades.",
+      "No se menciona explícitamente el manejo de GSuite.",
+      "La experiencia en gestión de documentación y contratos no está detallada en el currículum.",
+      "No se menciona explícitamente la revisión de guiones, aunque sí la estrategia y gestión de contenido.",
+      "Las habilidades de ser detallista y ordenado/a no están mencionadas explícitamente."
+    ],
+    "score": 88
+  },
+  {
+    "participant_id": "5f09c43c-e653-4a2f-b229-7efd58577175",
+    "reasons": [
+      "Más de 2 años de experiencia en roles relacionados con marketing digital, relaciones públicas y marketing de influencers en agencias o consultoras, cumpliendo con el requisito de antigüedad.",
+      "Alto nivel de inglés certificado (C2 por Cambridge), cumpliendo de manera sobresaliente el requisito excluyente de nivel intermedio/avanzado.",
+      "Experiencia directa y específica en la industria de creadores de contenido y marketing de influencers (roles como Influencer Coordinator y Marketing Analyst con foco en influencers).",
+      "Las responsabilidades listadas (análisis de perfiles, gestión de relaciones con KOLs, ejecución de campañas, briefs, revisión de contenido) coinciden directamente con las tareas del puesto ofrecido.",
+      "Manejo demostrado de herramientas y plataformas relevantes para marketing digital y redes sociales.",
+      "Experiencia mencionada en trabajo en equipo y trato/soporte a terceros (clientes, KOLs).",
+      "El currículum no menciona explícitamente el manejo de GSuite ni la característica de ser detallista/ordenado, pero los puntos fuertes cubren ampliamente los requisitos principales."
+    ],
+    "score": 93
+  },
+  {
+    "participant_id": "3d352ef4-eeea-40f7-99a4-3ddbd1f55d1c",
+    "reasons": [
+      "El candidato cumple con el requisito excluyente del nivel de inglés (C2).",
+      "Cuenta con experiencia relevante en marketing de influencers, incluyendo ownership de campañas, investigación, contacto y gestión de relaciones con creadores de contenido.",
+      "Posee más de 2 años de experiencia en áreas como marketing digital, comunicación y PR, lo cual se alinea con el requisito de experiencia en agencias, consultoras de PR, comunicación o Digital (considerando la naturaleza de las empresas listadas).",
+      "Tiene experiencia en tareas clave mencionadas en las responsabilidades del puesto, como soporte en campañas, análisis de perfiles y gestión de documentación/logística.",
+      "Demuestra conocimiento de la industria de creadores de contenido.",
+      "Su experiencia incluye soporte regional (Argentina, Uruguay, Colombia), lo cual es un plus dada la operación de la empresa en Latinoamérica.",
+      "No se menciona explícitamente el manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.).",
+      "No se menciona explícitamente la cualidad de ser detallista y ordenado/a.",
+      "Si bien tiene experiencia en trato con clientes/stakeholders (relación con KOLs, Customer Support), la descripción del puesto busca un perfil Sr con consultoría estratégica, lo cual podría requerir una evaluación adicional.",
+      "Los títulos de los puestos anteriores (Intern, Assistant, Analyst, Coordinator) no reflejan claramente un nivel de 'Ejecutivo/a Sr', aunque la duración y responsabilidades pueden sugerir una progresión."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "db0498e8-fa43-4337-85cb-3606e8ad4567",
+    "reasons": [
+      "Cumple el requisito de más de 2 años de experiencia en roles de marketing digital y agencia/consultoría.",
+      "Demuestra experiencia directa y conocimiento de la industria de creadores de contenido a través de roles específicos en Marketing de Influencers.",
+      "Posee un nivel de inglés avanzado (C2 certificado), cumpliendo con el requisito excluyente.",
+      "La experiencia incluye responsabilidades clave mencionadas en la descripción del puesto, como soporte en campañas, creación de briefs y análisis de perfiles de influencers.",
+      "La trayectoria en empresas y agencias/consultoras con enfoque en sectores relevantes (consumo, tecnología) se alinea con el perfil buscado.",
+      "Muestra habilidades relevantes en marketing digital y gestión de redes sociales.",
+      "El manejo de documentación/contratos y la revisión detallada de guiones/contenido no están tan explícitamente detallados en el currículum.",
+      "Las habilidades de ser detallista, organizado y el uso específico de GSuite no se mencionan directamente.",
+      "Aunque hay interacción con clientes/influencers, la experiencia específica en 'trato con clientes' como consultor estratégico externo no es el foco principal de la descripción de roles.",
+      "En general, es un perfil muy fuerte que se ajusta bien a la mayoría de los requisitos principales del puesto."
+    ],
+    "score": 90
   }
 ]

@@ -1,0 +1,101 @@
+[
+  {
+    "participant_id": "eff338a4-5723-4b2a-a532-73037e8e9352",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se alinea con los requisitos del puesto, que se centra en soporte técnico de Google Workspace, migraciones y capacitaciones.",
+      "Si bien menciona conocimientos de JavaScript, React y Node.js, estas habilidades no son directamente relevantes para el rol descrito.",
+      "No hay evidencia de experiencia en soporte técnico, help desk o atención al cliente.",
+      "Falta experiencia con Google Workspace."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "54584569-4f9d-4049-b575-d79d14eccd70",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se relaciona con el soporte técnico, atención al cliente o migración a Google Workspace.",
+      "Aunque menciona inglés C1, no se especifica si tiene experiencia leyendo documentación técnica en inglés, requisito clave para el puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "76d06837-f1fb-4937-98f1-335f57ca3480",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se alinea con los requerimientos del puesto, que necesitan experiencia en soporte técnico, help desk o atención al cliente.",
+      "Aunque menciona inglés, no se especifica si cumple con el nivel requerido para la comprensión de documentos técnicos y videos en inglés.",
+      "No se menciona experiencia con Google Workspace o plataformas de colaboración."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "fa0ca777-79c0-40c0-a512-e426d5fa4fb3",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se relaciona con soporte técnico, Google Workspace o migración de plataformas.",
+      "Si bien menciona inglés C1, no se especifica si incluye la comprensión de documentos técnicos en el ámbito de Google Workspace.",
+      "Falta experiencia en atención al cliente y resolución de problemas en un entorno de soporte técnico."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e43b90d5-ce72-4e53-a644-df2c8842f35e",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se relaciona con el soporte técnico, atención al cliente o Google Workspace.",
+      "Si bien menciona inglés nivel C1, no se especifica su experiencia en la lectura de documentos técnicos en inglés, un requisito clave del puesto.",
+      "No se menciona experiencia en la migración de plataformas de colaboración, ni en la creación de reportes de utilización de herramientas colaborativas."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a8321a56-15b4-4d62-95e4-7a0312e38db3",
+    "reasons": [
+      "El currículum se enfoca en desarrollo full-stack, sin experiencia en soporte técnico, atención al cliente o Google Workspace.",
+      "La experiencia laboral no es relevante para el puesto. Si bien se menciona el uso de JavaScript, React y Node.js, no se relaciona con las tareas de soporte y administración de Google Workspace.",
+      "No se menciona experiencia en la resolución de problemas técnicos, atención a usuarios o capacitación."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e1bcb866-cf00-4b75-af33-b29eec257071",
+    "reasons": [
+      "El candidato es un desarrollador full-stack, no un técnico de soporte.",
+      "Su experiencia no se alinea con la descripción del puesto, que requiere experiencia en soporte técnico, help desk o atención al cliente.",
+      "Si bien menciona conocimientos de JavaScript, React y Node.js, estas habilidades no son directamente relevantes para el puesto de Technical Support Manager enfocado en Google Workspace.",
+      "Falta experiencia demostrable en atención al cliente o soporte técnico en el ámbito de la tecnología."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "ed3f29d4-e1b9-4cfa-bdd9-d216eff6ccbd",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un técnico de soporte.",
+      "Su experiencia no se relaciona con el soporte técnico, atención al cliente o Google Workspace.",
+      "Si bien menciona inglés nivel C1, no se especifica si comprende documentación técnica o videos en inglés, lo cual es un requisito.",
+      "No hay experiencia en la industria de la tecnología en roles como soporte técnico, help desk o microinformática."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "8ae5b93b-6b8a-4757-888a-e6b91b809291",
+    "reasons": [
+      "El candidato es un desarrollador full stack, no un especialista en soporte técnico de Google Workspace.",
+      "Su experiencia se centra en el desarrollo web, no en soporte técnico, atención al cliente o capacitación.",
+      "Si bien menciona inglés nivel C1, no se especifica su experiencia con documentación técnica en inglés, ni comprensión de videos en este idioma, requisito fundamental para la certificación Google Workspace.",
+      "No hay evidencia de experiencia en la industria de tecnología de soporte, microinformática, help desk o atención al cliente."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "f97a6f6f-4cba-4457-818c-529bbc93ce3f",
+    "reasons": [
+      "El currículum se centra en desarrollo full-stack, lo cual no se alinea con la descripción del puesto de Technical Support Manager para Google Workspace.",
+      "No se menciona experiencia en soporte técnico, atención al cliente o administración de sistemas.",
+      "Si bien posee conocimiento de JavaScript, React y Node.js, estas habilidades no son las primarias requeridas para el puesto.",
+      "Falta experiencia demostrable en Google Workspace o plataformas de colaboración similares."
+    ],
+    "score": 20
+  }
+]

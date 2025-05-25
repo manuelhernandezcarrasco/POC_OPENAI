@@ -20,7 +20,7 @@ def run_batch_on_set(set_path: str, prompt_path: str, model="gemini", iterations
 
     jd_text = extract_text(jd_path)
     cv_files = [os.path.join(cvs_dir, f) for f in os.listdir(cvs_dir)
-                if f.lower().endswith((".pdf", ".jpg", ".jpeg", ".png"))]
+                if f.lower().endswith((".pdf", ".jpg", ".jpeg", ".png", ".docx"))]
     cv_files.sort()
 
     if len(cv_files) == 0:
@@ -59,8 +59,20 @@ def run_batch_on_set(set_path: str, prompt_path: str, model="gemini", iterations
             print(json.dumps(response, indent=2, ensure_ascii=False))
             print("Detalles:", e)
 
+    # Leer resultados existentes si el archivo ya existe
+    if os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            try:
+                existing_results = json.load(f)
+            except Exception:
+                existing_results = []
+    else:
+        existing_results = []
+
+    all_results = existing_results + results
+
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
+        json.dump(all_results, f, indent=2, ensure_ascii=False)
     print(f"✅ Resultados guardados en {output_path}\n")
 
     if model.lower().startswith("gemini"):
