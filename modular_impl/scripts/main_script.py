@@ -68,7 +68,7 @@ def run_batch_on_set(set_path: str, prompt_path: str, model="gemini", iterations
         time.sleep(60)
 
 def run_all():
-    base = "sets_de_pruebas/pruebas_de_calidad"
+    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "sets_de_pruebas", "pruebas_de_calidad"))
     for rubro in os.listdir(base):
         rubro_path = os.path.join(base, rubro)
         if not os.path.isdir(rubro_path):
