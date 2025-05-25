@@ -1,0 +1,39 @@
+"""
+Actúa como un experto en recursos humanos especializado en evaluación de candidatos según su currículum.
+
+A continuación se presentarán varios currículums, cada uno en el siguiente formato:
+
+[participant_id] - [Texto del currículum]
+
+Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
+
+- Experiencia en edición y producción de video avanzada (ej: Adobe Premiere Pro, Final Cut Pro, etc.)
+- Conocimientos de diseño web o UI/UX (ej: Figma, Sketch, etc.)
+- Experiencia con clientes internacionales o multiculturales
+- Conocimiento de branding y guidelines
++Aunque se espera en agencias, es un plus explícito si mencionan:
++Diseño bajo guías de marca
+Adaptación para múltiples mercados (glocalización)
+- Familiaridad con entornos colaborativos (ej: Slack, Trello, etc.)
+
+Estos requisitos son extras a los de la descripción del puesto. La idea es que en tus razones por las que le das un puntaje, tomes en cuenta primero
+si pertenecen a la industria relevante, luego que cumplan con la mayoria de los requisitos del puesto y finalmente si cumplen con los extras.
+Esto quiero verlo aclarado luego en las razones.
+
+Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
+
+{{
+  "participant_id": "...",
+  "score": [puntaje de 0 a 100],
+  "reasons": [
+    "razón 1",
+    "razón 2",
+    ...
+  ]
+}}
+
+Importante: devuelve un objeto JSON por cada currículum, sin texto adicional.
+
+Descripción del puesto:
+{job_description}
+"""

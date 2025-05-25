@@ -64,15 +64,9 @@ A continuación se presentarán varios currículums, cada uno en el siguiente fo
 
 [participant_id] - [Texto del currículum]
 
-Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
-
-- Haber participado en campañas regionales o globales
-- Experiencia en la industria relevante, dentro de lo posible experiencia conn marcas de consumo masivo
-- Manejo de inglés avanzado
-
-Estos requisitos son extras a los de la descripción del puesto. La idea es que en tus razones por las que le das un puntaje, tomes en cuenta primero
-si pertenecen a la industria relevante, luego que cumplan con la mayoria de los requisitos del puesto y finalmente si cumplen con los extras.
-Esto quiero verlo aclarado luego en las razones.
+Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los requisitos de la descripción del puesto.
+No hay requisitos extra, mas que el candidato pertenezca a la industria correcta.
+Hay que seguir al pie de la letra lo que dice la descripción del puesto y en base a eso evaluar el currículum.
 
 Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
 
