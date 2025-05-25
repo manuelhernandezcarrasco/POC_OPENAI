@@ -11,3 +11,9 @@ cvs/*
 # No ignorar los output-json ni los prompt.txt (los queremos subir)
 !**/output-*.json
 !**/prompt.txt
+# Archivos de sistema/mac
+.DS_Store
+
+# Archivos de compilación de Python
+__pycache__/
+*.pyc
