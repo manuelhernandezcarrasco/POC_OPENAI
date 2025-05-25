@@ -2,3 +2,4 @@
 job_description.pdf
 cvs/*
 !cvs/
+classified_files.json
