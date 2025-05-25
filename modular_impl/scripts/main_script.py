@@ -4,7 +4,7 @@ import time
 import uuid
 from dotenv import load_dotenv
 from modular_impl.adapters.gemini_adapter import GeminiFlashAdapter
-from modular_impl.file_utils import extract_text
+from modular_impl.scripts.file_utils import extract_text
 
 load_dotenv()
 

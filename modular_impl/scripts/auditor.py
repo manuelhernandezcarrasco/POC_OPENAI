@@ -30,7 +30,7 @@ def check_caso_structure(caso_path):
                 print(f"✅ {set_path}: {len(cv_files)} CV(s)")
 
 def run_auditor():
-    base_dir = "sets_de_pruebas/pruebas_de_calidad"
+    base_dir = "../sets_de_pruebas/pruebas_de_calidad"
     for rubro in os.listdir(base_dir):
         rubro_path = os.path.join(base_dir, rubro)
         if not os.path.isdir(rubro_path):
