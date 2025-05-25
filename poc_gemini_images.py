@@ -57,7 +57,7 @@ def count_tokens(text):
 
 job_description = extract_text_from_pdf(job_description_file)
 
-prompt_base = f"""
+prompt_base = """
 Actúa como un experto en recursos humanos especializado en evaluación de candidatos según su currículum.
 
 A continuación se presentarán varios currículums, cada uno en el siguiente formato:
@@ -66,9 +66,13 @@ A continuación se presentarán varios currículums, cada uno en el siguiente fo
 
 Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
 
-- Nivel de seniority requerido
-- Experiencia en la industria relevante
-- Manejo básico de inglés
+- Haber participado en campañas regionales o globales
+- Experiencia en la industria relevante, dentro de lo posible experiencia conn marcas de consumo masivo
+- Manejo de inglés avanzado
+
+Estos requisitos son extras a los de la descripción del puesto. La idea es que en tus razones por las que le das un puntaje, tomes en cuenta primero
+si pertenecen a la industria relevante, luego que cumplan con la mayoria de los requisitos del puesto y finalmente si cumplen con los extras.
+Esto quiero verlo aclarado luego en las razones.
 
 Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
 

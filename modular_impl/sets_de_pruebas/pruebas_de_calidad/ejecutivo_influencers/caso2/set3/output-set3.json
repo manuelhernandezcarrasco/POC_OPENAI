@@ -1,0 +1,105 @@
+[
+  {
+    "participant_id": "b0ee6ef3-562f-4907-8b0d-e950aca4838f",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente de la descripción del puesto.",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien se indica manejo de inglés, no se especifica el nivel de dominio."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "94150075-6722-43a7-b39c-9aea7a13fd12",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital. La experiencia laboral detallada no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "La experiencia en el trato con clientes es mínima y no se relaciona con la industria de marketing de influencers.",
+      "Si bien menciona el uso de programas como Trello, ClickUp, Dripify y Apollo.io, no se evidencia un manejo experto ni se relaciona con las tareas del puesto.",
+      "No se especifica un nivel intermedio/avanzado de inglés, aunque sí menciona el idioma en algunas tareas."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "5a03605b-2358-4e2c-b7fb-cec39b5aaee7",
+    "reasons": [
+      "El currículum no refleja experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente del puesto.",
+      "La experiencia laboral del candidato se centra en roles administrativos y de ventas, sin relación directa con marketing de influencers.",
+      "No se menciona experiencia en gestión de campañas de influencers o análisis de perfiles de creadores de contenido.",
+      "Si bien menciona el uso de algunas herramientas, no se evidencia un dominio de G Suite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "8751a7f4-ce02-4748-9c7f-4196f98df2a2",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para el puesto.",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona el idioma inglés, no especifica el nivel de dominio."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a7d7bf54-bdcc-4e2a-8a47-084dfaf1d909",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para la posición.",
+      "La experiencia laboral descrita no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona el inglés, no especifica el nivel de dominio."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "758a835f-cb40-4e40-a148-d73b4b038790",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente de la descripción del puesto.",
+      "La experiencia laboral mostrada no se relaciona con marketing de influencers.",
+      "Si bien menciona manejo de algunas herramientas, no se evidencia el manejo de GSuite.",
+      "No se especifica el nivel de inglés, requisito excluyente de la descripción del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "d7d3be48-eadc-4f46-ad5a-093a99da31b2",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital (requisito excluyente).",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona manejo de GSuite.",
+      "Si bien menciona inglés, no especifica el nivel de dominio.",
+      "No se evidencia experiencia en trato con clientes en el ámbito requerido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "c4d5953e-722f-49fd-84a9-9d4c434ea02a",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para el puesto.",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No menciona manejo de GSuite.",
+      "Si bien el currículum indica nivel avanzado de inglés, falta información sobre su experiencia en trato con clientes y trabajo en equipo en un contexto laboral relevante para la posición."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "fa4b439e-d0ae-4ff9-8310-e99fa7a2836b",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicación o digital (requisito excluyente).",
+      "La experiencia laboral no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Si bien menciona el inglés, no especifica el nivel de dominio."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a1f22c25-738b-4dab-8957-3e839590b3c5",
+    "reasons": [
+      "El currículum no muestra experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para el puesto.",
+      "La experiencia laboral mostrada no se relaciona con marketing de influencers.",
+      "No se menciona el manejo de GSuite.",
+      "Aunque menciona inglés, no especifica el nivel de dominio.",
+      "Falta información sobre el trato con clientes y habilidades de trabajo en equipo."
+    ],
+    "score": 20
+  }
+]

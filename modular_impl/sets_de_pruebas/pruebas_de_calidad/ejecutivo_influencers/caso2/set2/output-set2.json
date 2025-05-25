@@ -1,0 +1,81 @@
+[
+  {
+    "participant_id": "ac3a184f-4783-4583-8543-c3af135938ae",
+    "reasons": [
+      "El currículum no muestra experiencia en marketing de influencers, ni en agencias de PR, comunicación o digital.  No se ajusta a los requerimientos del puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "c1f0f062-b367-4006-9d7e-dcd1fb119981",
+    "reasons": [
+      "El currículum no se relaciona con la descripción del puesto. El candidato es un desarrollador de software, no un experto en marketing de influencers."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "425d6edb-dd92-41f6-8995-153694db2296",
+    "reasons": [
+      "El currículum no se ajusta a la descripción del puesto. El candidato es un desarrollador de software y la posición requiere experiencia en marketing de influencers y consultoría."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "675545c2-d589-4760-9988-e28844835e62",
+    "reasons": [
+      "El candidato no tiene experiencia en marketing de influencers ni en agencias de comunicación o consultoría.",
+      "Su experiencia laboral se centra en desarrollo de software, lo cual no se relaciona con el puesto.",
+      "Aunque menciona inglés, no se especifica el nivel, que es un requisito excluyente del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "ab3950c8-6ed0-4a29-96db-461b28af4d6e",
+    "reasons": [
+      "El currículum no se ajusta a la descripción del puesto. El candidato posee experiencia en desarrollo de software y no en marketing de influencers o áreas afines como PR o comunicación.",
+      "No se menciona experiencia en agencias, consultoras o manejo de clientes.",
+      "No se evidencia conocimiento de la industria de creadores de contenido.",
+      "Aunque se mencionan varios lenguajes de programación y herramientas, ninguna es relevante para el puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "ba201680-87ca-4059-beab-2db0aa7134dd",
+    "reasons": [
+      "El currículum no se ajusta a la descripción del puesto. El candidato tiene experiencia en desarrollo de software, no en marketing de influencers o consultoría de comunicación."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "10cfce9c-e1ba-48a7-b2a9-f56df34a99dd",
+    "reasons": [
+      "El currículum no se relaciona con la descripción del puesto.  El candidato es un desarrollador de software, mientras que la vacante requiere un ejecutivo de marketing de influencers con experiencia en agencias de comunicación o consultoría."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "9ed605a7-6660-49b6-bc08-963796115bf1",
+    "reasons": [
+      "El currículum no se ajusta a la descripción del puesto. El candidato tiene experiencia en desarrollo de software, no en marketing de influencers o comunicación.",
+      "No posee experiencia en agencias, consultoras de PR, comunicación o digital, ni en el trato con clientes.",
+      "No se menciona experiencia en el manejo de GSuite."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "604c71ce-60cc-4f9b-82c2-df4dbfad6423",
+    "reasons": [
+      "El currículum no se corresponde con el puesto solicitado. El candidato es un desarrollador de software, sin experiencia en marketing de influencers o en áreas relacionadas."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "a761c354-5b6a-4412-bfb7-1143e583b790",
+    "reasons": [
+      "El currículum no muestra experiencia en marketing de influencers, ni en agencias de PR o comunicación.",
+      "La experiencia laboral se centra en desarrollo de software, que no es relevante para el puesto.",
+      "No se menciona experiencia en la gestión de clientes o trabajo en equipo en el contexto requerido."
+    ],
+    "score": 10
+  }
+]

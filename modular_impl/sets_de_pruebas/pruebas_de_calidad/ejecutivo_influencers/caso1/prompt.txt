@@ -5,11 +5,9 @@ A continuación se presentarán varios currículums, cada uno en el siguiente fo
 
 [participant_id] - [Texto del currículum]
 
-Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
-
-- Nivel de seniority requerido
-- Experiencia en la industria relevante
-- Manejo básico de inglés
+Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los requisitos de la descripción del puesto.
+No hay requisitos extra, mas que el candidato pertenezca a la industria correcta.
+Hay que seguir al pie de la letra lo que dice la descripción del puesto y en base a eso evaluar el currículum.
 
 Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
 

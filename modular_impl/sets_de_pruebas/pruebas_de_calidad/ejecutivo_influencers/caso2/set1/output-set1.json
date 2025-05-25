@@ -1,0 +1,104 @@
+[
+  {
+    "participant_id": "a10b8472-2e52-4f7e-a078-1c9ae0cea22c",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing, relaciones públicas, comunicación o digital.",
+      "Aunque menciona manejo del paquete Office, no se especifica el manejo de GSuite.",
+      "No tiene experiencia en la industria de creadores de contenido.",
+      "Si bien su nivel de inglés es avanzado, la descripción del puesto requiere un nivel intermedio/avanzado, lo que puede ser considerado insuficiente."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "41137ca5-a064-4fc8-b1d2-16f4e0467543",
+    "reasons": [
+      "El candidato es estudiante de ingeniería industrial, sin experiencia en marketing, PR, comunicación o digital.",
+      "No menciona experiencia con manejo de influencers o creadores de contenido.",
+      "Si bien menciona inglés avanzado, no se especifica el nivel, que debe ser intermedio/avanzado según la descripción.",
+      "La experiencia laboral no se relaciona con la descripción del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2ec100b3-9fc4-4fa3-bdca-ed2f0906aed0",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en Marketing de Influencers ni en agencias de comunicación.",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de GSuite.",
+      "No menciona experiencia en el trato con clientes.",
+      "No se evidencia experiencia en el análisis de perfiles de creadores de contenido.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con la descripción del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "176f7638-be06-4eb4-9057-bc1982a6cd96",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing de influencers, ni en agencias de PR o comunicación digital.",
+      "Si bien menciona inglés avanzado (C1), no se evidencia experiencia en el trato con clientes o gestión de campañas de creadores de contenido.",
+      "Su experiencia laboral se centra en mantenimiento y docencia, áreas que no se relacionan con el puesto requerido.",
+      "No se menciona el manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2861f8b3-e5f5-4d46-9409-bedde06d59f1",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing, publicidad, relaciones públicas o comunicación.",
+      "Carece de experiencia en agencias o consultoras del sector.",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de GSuite.",
+      "No demuestra experiencia en la industria de creadores de contenido.",
+      "Aunque indica inglés avanzado (nivel C1), la descripción del puesto solicita nivel intermedio/avanzado."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "28366eb4-3245-429f-8493-505c7d02c083",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing, ni en agencias, consultoras de PR o comunicación digital.",
+      "Si bien menciona inglés avanzado (C1), no se especifica experiencia en el manejo de Gsuite.",
+      "No tiene experiencia en el área de marketing de influencers ni en el trato con clientes.",
+      "Su experiencia laboral se centra en mantenimiento y clases particulares, sin relación con el puesto."
+    ],
+    "score": 30
+  },
+  {
+    "participant_id": "4e6021a2-fe6c-421f-a6a8-0cc26ee21847",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing, PR, comunicación o digital.",
+      "Si bien menciona inglés avanzado (C1), no se evidencia experiencia en la industria de creadores de contenido.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con el puesto.",
+      "No menciona experiencia con GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "467b8197-fe85-4340-ba13-7186b805f0a9",
+    "reasons": [
+      "No cuenta con experiencia en agencias, consultoras de PR, comunicación o digital, requisito excluyente para el puesto.",
+      "Su experiencia laboral no se relaciona con marketing de influencers o áreas afines.",
+      "Si bien menciona inglés avanzado, no se especifica si es nivel C1, como exige la descripción del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "98efe2c4-4071-424e-9578-681862e2be46",
+    "reasons": [
+      "El candidato es estudiante de ingeniería industrial, sin experiencia en marketing, comunicación o publicidad.",
+      "No se menciona experiencia en agencias, consultoras de PR o marketing digital.",
+      "Si bien menciona inglés avanzado (C1), no se evidencia experiencia en el manejo de GSuite.",
+      "La experiencia laboral no se relaciona con la descripción del puesto.",
+      "No hay evidencia de conocimiento de la industria de creadores de contenido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "cdc2f2fa-ec17-4cdc-8bb3-9ba46210b1e1",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería Industrial, no tiene experiencia en marketing, comunicación, ni relaciones públicas.",
+      "La experiencia laboral en Danone no se relaciona con la descripción del puesto.",
+      "Si bien menciona inglés avanzado (C1), no se evidencia experiencia en agencias, consultoras de PR o comunicación digital, requisito excluyente de la posición.",
+      "No se menciona experiencia en manejo de GSuite o conocimiento de la industria de creadores de contenido."
+    ],
+    "score": 20
+  }
+]

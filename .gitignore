@@ -2,3 +2,12 @@
 job_description.pdf
 cvs/*
 !cvs/
+# Ignorar todos los cvs de todos los sets de todos los casos
+**/cvs/**
+
+# Ignorar todos los job_description.pdf
+**/job_description.pdf
+
+# No ignorar los output-json ni los prompt.txt (los queremos subir)
+!**/output-*.json
+!**/prompt.txt
