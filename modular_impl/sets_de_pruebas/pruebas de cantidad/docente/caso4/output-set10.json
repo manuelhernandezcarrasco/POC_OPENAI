@@ -1,0 +1,96 @@
+[
+  {
+    "participant_id": "6bbb5127-fc95-4db0-9425-cc9608308020",
+    "score": 0,
+    "reasons": [
+      "El currículum proporcionado es ilegible o corrupto, lo que impide realizar una evaluación de la adecuación del candidato a la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "5c608a19-ee93-433f-afc4-a7a92bdad19d",
+    "score": 0,
+    "reasons": [
+      "El archivo del currículum es ilegible o corrupto, lo que impide cualquier evaluación de la adecuación del candidato a los requisitos del puesto.",
+      "No se puede verificar la experiencia, educación, habilidades o conocimientos del candidato debido a la falta de acceso al contenido del currículum."
+    ]
+  },
+  {
+    "participant_id": "f51ffd04-6cec-431d-aad9-11e6b3ddf805",
+    "score": 15,
+    "reasons": [
+      "El currículum no demuestra experiencia directa y continuada como 'maestro' impartiendo clases en un aula, como solicita la descripción del puesto.",
+      "La experiencia listada se centra en roles de asesoría pedagógica, consultoría en evaluación educativa, asistencia de docencia/investigación y administración académica, no en la enseñanza directa a estudiantes.",
+      "La formación académica principal indicada (Maestría en Administración y Políticas Públicas) no cumple explícitamente el requisito de un Grado en Magisterio o en temas especializados con certificado en educación.",
+      "No se proporciona información en el currículum sobre requisitos clave como el conocimiento de RCP, la familiaridad con mejores prácticas de enseñanza específicas, o los atributos personales mencionados (creativo, enérgico, disciplinado, valores morales)."
+    ]
+  },
+  {
+    "participant_id": "625ba899-5004-4a6d-8600-486402dab381",
+    "score": 75,
+    "reasons": [
+      "Cumple con el requisito de formación académica (Licenciatura y Profesorado) y cuenta con posgrados relevantes en educación.",
+      "Posee experiencia demostrable como maestro (enseñanza de inglés en niveles primario y secundario), aunque su experiencia más reciente (desde 2010) es en roles de dirección y gestión educativa.",
+      "Demuestra profundo conocimiento de prácticas educativas y gestión pedagógica a través de sus roles de liderazgo, coordinación y enseñanza universitaria.",
+      "Las habilidades de comunicación, interpersonales, organización, compromiso, creatividad y desarrollo profesional continuo se infieren fuertemente de su trayectoria y los cursos listados.",
+      "La mayor parte de su experiencia reciente se centra en la gestión y dirección de centros educativos, lo cual difiere del enfoque principal de un puesto de 'Maestro' de aula descrito.",
+      "No menciona poseer conocimiento de RCP."
+    ]
+  },
+  {
+    "participant_id": "6b53fd61-2b6d-4508-b00d-42598994a265",
+    "score": 25,
+    "reasons": [
+      "El currículum no menciona el conocimiento de RCP (Reanimación Cardiopulmonar), lo cual es un requisito explícito en la descripción del puesto.",
+      "La experiencia docente que se presenta es principalmente a nivel universitario y de posgrado, con poca o nula evidencia de experiencia como 'maestro' en el contexto de enseñanza primaria o secundaria, que es lo que suele implicar el puesto descrito.",
+      "Aunque la candidata tiene un título de Profesora y Licenciatura/Doctorado en Filosofía, no se evidencia conocimiento profundo de las mejores prácticas de enseñanza y directrices educativas legales *específicas para el nivel escolar* al que apunta la descripción del puesto.",
+      "El currículum no proporciona evidencia directa de habilidades clave para el puesto como la capacidad de llegar a los estudiantes, crear confianza mutua, ser creativo y enérgico en el aula con alumnos más jóvenes, o entender el comportamiento y la psicología de los alumnos en un contexto escolar típico.",
+      "Si bien la trayectoria académica sugiere organización y compromiso, faltan elementos que demuestren explícitamente la adecuación a todos los requisitos blandos y de contexto del puesto de 'maestro'."
+    ]
+  },
+  {
+    "participant_id": "839a78dc-ac36-4257-b7e8-6def4b966c12",
+    "score": 85,
+    "reasons": [
+      "El candidato posee extensa experiencia docente demostrable en niveles secundario y superior, cumpliendo un requisito clave.",
+      "Cuenta con una formación académica sólida y muy relevante para el puesto (Profesor en Filosofía, Licenciatura en Gestión Educativa, múltiples postgrados en educación), que satisface el requisito de Grado y certificado.",
+      "La experiencia en roles de gestión educativa y equipos técnicos ministeriales sugiere un profundo conocimiento de prácticas y directrices educativas.",
+      "Su amplia participación en actividades pastorales y de acompañamiento de jóvenes indica fuertes valores morales y excelentes dotes interpersonales, así como la capacidad de llegar a los estudiantes.",
+      "El currículum no menciona si el candidato posee conocimiento o certificación en RCP, que es un requisito específico del puesto.",
+      "Aunque su experiencia docente es clara, el CV no detalla explícitamente el uso de medios audiovisuales o el fomento específico del aprendizaje interactivo."
+    ]
+  },
+  {
+    "participant_id": "9e8390fa-35c3-4028-9dc8-bea77488a204",
+    "score": 58,
+    "reasons": [
+      "La experiencia demostrable como 'maestra' se limita a docencia universitaria y trabajo terapéutico con niños y jóvenes, lo cual no se alinea completamente con la experiencia requerida en un entorno escolar general.",
+      "El requisito de Grado en Magisterio o un tema especializado con certificado en educación no se cumple directamente; la candidata tiene un grado en Terapia Ocupacional y un certificado para Educación Superior, lo que no encaja perfectamente.",
+      "Posee experiencia relevante trabajando con niños y adolescentes, así como habilidades en evaluación, seguimiento y colaboración con familias, que son transferibles al puesto.",
+      "No se menciona explícitamente el conocimiento de RCP, uno de los requisitos del puesto.",
+      "El currículum no especifica directamente rasgos de personalidad como creatividad, energía o disciplina, aunque se pueden inferir compromiso y organización por la trayectoria."
+    ]
+  },
+  {
+    "participant_id": "a35ed879-2067-4e25-812b-b9690c492f91",
+    "score": 40,
+    "reasons": [
+      "Posee amplia experiencia en el ámbito educativo institucional (20 años), pero principalmente en roles de apoyo, orientación, psicología y gestión/liderazgo, no como maestro de aula impartiendo lecciones curriculares.",
+      "La experiencia detallada no demuestra claramente la asunción de responsabilidades clave de un maestro, como impartir un plan de enseñanza educativo completo, crear contenido educativo general para asignaturas o evaluar el progreso académico de los estudiantes en un rol principal.",
+      "La formación académica principal es en Psicología, con un profesorado de enseñanza media y superior en Psicología, lo cual no se alinea directamente con el requisito de Grado en Magisterio o un certificado de educación para un rol de maestro general.",
+      "Falta la acreditación o mención del conocimiento de RCP, que es un requisito explícito del puesto.",
+      "El objetivo profesional indicado (Gestión de Proyectos / Cargos Directivos / Ejecutivos / Asesoría) no coincide con el puesto de Maestro.",
+      "Cumple con varios de los requisitos de habilidades blandas, como excelentes dotes de comunicación e interpersonales, organización, compromiso y creatividad."
+    ]
+  },
+  {
+    "participant_id": "0cac5d4f-60e5-4115-939e-5e7240f5b7d9",
+    "score": 15,
+    "reasons": [
+      "El candidato no posee el Grado en Magisterio o en temas especializados con certificado en educación requerido, está estudiando Licenciatura en Ciencias Físicas y no menciona un certificado.",
+      "La experiencia docente mencionada son clases particulares y participación como expositora, no experiencia demostrable como maestro en un entorno formal de aula.",
+      "No se menciona conocimiento de mejores prácticas de enseñanza o directrices educativas legales.",
+      "No se menciona conocimiento de RCP.",
+      "Aunque se menciona la capacidad de comunicación, otras cualidades clave como ser organizado, comprometido, creativo, enérgico, disciplinado y con fuertes valores morales no se detallan o demuestran explícitamente en la experiencia."
+    ]
+  }
+]

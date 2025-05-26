@@ -1,0 +1,80 @@
+[
+  {
+    "participant_id": "ad9a6f16-a8af-4633-b16d-d4816869f556",
+    "score": 5,
+    "reasons": [
+      "La experiencia profesional del candidato se centra en roles de coordinación académica y administrativa en el sector educativo, no alineados con la experiencia requerida en agencias o consultoras con foco digital.",
+      "No se evidencia experiencia de más de 2 años (o cualquier experiencia significativa) trabajando directamente en gestión de cuentas digitales o roles similares en el rubro de comunicaciones/marketing digital.",
+      "Aunque se mencionan 'Redes sociales' y 'Canva' en la sección de informática, no se detalla experiencia profesional en la generación de contenido digital para medios o en el manejo de redes sociales en un contexto de agencia/consultoría.",
+      "La experiencia en 'Trato con clientes' parece limitada a roles de recepción o coordinación interna/con proveedores, no a la atención y gestión diaria de cuentas de clientes en el ámbito digital.",
+      "No se menciona el manejo de GSuite específicamente, aunque sí se listan herramientas básicas de Office.",
+      "El perfil y la formación académica están orientados a la sociología y educación, lo cual no se ajusta al foco de la agencia en negocios, consumo, tecnología y entretenimiento."
+    ]
+  },
+  {
+    "participant_id": "4c0d2110-a106-4d57-a48b-7ff503e6e9bd",
+    "score": 0,
+    "reasons": [
+      "El archivo del currículum es ilegible o corrupto y no pudo ser evaluado."
+    ]
+  },
+  {
+    "participant_id": "fe913b32-3c3d-43ce-98ca-ef0809fbefb1",
+    "score": 0,
+    "reasons": [
+      "El currículum es ilegible o corrupto, por lo que no se puede evaluar su adecuación a los requisitos del puesto."
+    ]
+  },
+  {
+    "participant_id": "b7079adf-1ef6-46ad-9ed3-4ebfdfdc71dd",
+    "score": 5,
+    "reasons": [
+      "No presenta experiencia demostrada en agencias o consultoras con foco en áreas digitales, requisito clave del puesto de más de 2 años.",
+      "La experiencia profesional se centra en el sector educativo y la administración pública, lo cual no se alinea con los sectores de negocio, consumo, tecnología o entretenimiento ni el enfoque de consultoría estratégica de la empresa.",
+      "El currículum no especifica habilidades técnicas y digitales requeridas como manejo de GSuite, experiencia en generación de contenido para medios digitales o monitoreo y social media listening.",
+      "No se menciona el nivel de inglés, que es un requisito excluyente (intermedio/avanzado)."
+    ]
+  },
+  {
+    "participant_id": "d3bd84a1-621b-4661-ae97-ec676883581a",
+    "score": 0,
+    "reasons": [
+      "No cuenta con la experiencia requerida de más de 2 años en agencias o consultoras con foco en áreas digitales.",
+      "La experiencia profesional es predominantemente en el sector educativo, el cual no se alinea con los sectores de negocios, consumo, tecnología o entretenimiento mencionados en la descripción del puesto.",
+      "El currículum no demuestra experiencia en la generación de contenido para medios digitales o en el manejo de redes sociales como heavy user para fines profesionales o de cliente.",
+      "Si bien posee experiencia en trato con personas (alumnos, padres, docentes), no se especifica experiencia directa en trato con clientes en un contexto de agencia o consultora digital.",
+      "Aunque tiene buen nivel de inglés y habilidades de comunicación (redacción académica/educativa), faltan evidencias concretas de conocimiento de los códigos de lenguaje de cada medio social para la creación de contenido."
+    ]
+  },
+  {
+    "participant_id": "1a08d033-20ee-4fc6-a53c-961e368416f2",
+    "score": 0,
+    "reasons": [
+      "No cuenta con la experiencia requerida de más de 2 años en agencias o consultoras con foco en áreas digitales.",
+      "La experiencia profesional es exclusivamente en el ámbito académico (docencia e investigación en Filosofía y Epistemología), el cual no se alinea con los sectores de negocios, consumo, tecnología o entretenimiento mencionados en la descripción del puesto.",
+      "El currículum no demuestra ninguna experiencia en la generación de contenido para medios digitales (más allá de publicaciones académicas), manejo de redes sociales, social media listening o elaboración de reportes digitales.",
+      "No se especifica experiencia en trato directo con clientes en un contexto de agencia o consultora.",
+      "No hay evidencia clara del nivel de inglés requerido (intermedio/avanzado) para la interacción con clientes."
+    ]
+  },
+  {
+    "participant_id": "ab4b4e29-e36b-47bc-9527-bed3c5fe49b4",
+    "score": 8,
+    "reasons": [
+      "El candidato posee una amplia trayectoria profesional, pero está centrada en el ámbito educativo y psicológico, no en agencias o consultoras digitales.",
+      "Aunque menciona 'Social Media: Nivel avanzado' e 'Google Apps: Nivel avanzado', no se detalla experiencia específica en generación de contenido digital, estrategias o gestión de cuentas digitales.",
+      "El nivel de inglés indicado es 'intermedio', mientras que la descripción del puesto requiere 'intermedio/avanzado' y es excluyente.",
+      "Tiene experiencia en gestión de equipos y relaciones interpersonales, habilidades transferibles, pero la experiencia clave en el sector digital y de consultoría no está presente."
+    ]
+  },
+  {
+    "participant_id": "52364fb9-74e5-4ef8-8908-5881453b1dd1",
+    "score": 3,
+    "reasons": [
+      "El perfil del candidato es principalmente académico en Ciencias Físicas y su experiencia laboral se limita a atención al cliente y gestión en un comercio minorista ('dietética').",
+      "No cuenta con la experiencia requerida de 'Más de 2 años de experiencia en agencias o consultoras con foco en áreas digitales'.",
+      "No hay evidencia de experiencia en generación de contenido para medios digitales, manejo de GSuite o un perfil 'heavy user' de redes sociales relevante para el puesto.",
+      "El nivel de inglés es 'medio', inferior al 'intermedio/avanzado' requerido y excluyente."
+    ]
+  }
+]

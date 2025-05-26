@@ -1,0 +1,51 @@
+[
+  {
+    "participant_id": "f1b79aba-a464-4316-9c94-66df2fc998f0",
+    "score": 0,
+    "reasons": [
+      "El candidato no cumple con el requisito de formación académica; su experiencia y estudios son en el área de administración, finanzas y contabilidad, no en el ámbito técnico eléctrico o electromecánico.",
+      "La experiencia laboral del candidato es exclusivamente en roles de Analista de Cuentas a Cobrar y Finanzas, lo cual no se relaciona con las tareas de mantenimiento general edilicio o de sistemas eléctricos requeridas para el puesto.",
+      "El candidato no menciona tener conocimientos en normativa AEA (Asociación Electrotécnica Argentina), un requisito específico para el puesto.",
+      "La duración total de la experiencia laboral del candidato (aproximadamente 3.5 años) es inferior a los 5-7 años de experiencia requeridos para el puesto de Técnico de Mantenimiento."
+    ]
+  },
+  {
+    "participant_id": "0a151e3e-b490-4fcb-9cbd-617ef020e662",
+    "score": 0,
+    "reasons": [
+      "La educación formal del candidato (Licenciatura en Marketing, Técnico superior en periodismo) no coincide con el requisito de Técnico eléctrico o electromecánico.",
+      "La experiencia laboral del candidato es principalmente en finanzas, contabilidad y gestión administrativa/comercial, no en mantenimiento edilicio o de sistemas eléctricos.",
+      "No se menciona conocimiento o experiencia relacionada con la normativa AEA (Asociación Electrotécnica Argentina), un requisito específico del puesto.",
+      "Las habilidades y el perfil declarado (\"Analista senior con sólida experiencia en el área de finanzas-contable\") no se alinean con los requisitos técnicos del puesto de Técnico de Mantenimiento."
+    ]
+  },
+  {
+    "participant_id": "36eaa051-3032-4fd0-926b-512250efadc6",
+    "score": 5,
+    "reasons": [
+      "La educación formal del candidato (Lic. Administración de Empresas, Bachiller en Economía) no coincide con el requisito de Técnico eléctrico o electromecánico.",
+      "La experiencia laboral del candidato (Supervisor Administrativo, Jefe Analista de Facturación, Administrativa de Créditos, Liquidador de Sueldos, Data Entry) no es relevante para un puesto de Técnico de Mantenimiento, especialmente en tareas eléctricas.",
+      "El candidato no menciona tener la experiencia específica de 5-7 años requerida en tareas de mantenimiento.",
+      "El candidato no demuestra conocimientos en normativa AEA (Asociación Electrotécnica Argentina), un requisito clave para el puesto.",
+      "El perfil y las habilidades del candidato no se alinean con los requisitos técnicos y prácticos de un Técnico de Mantenimiento."
+    ]
+  },
+  {
+    "participant_id": "f092e578-768b-49cc-bf4f-ad629235f661",
+    "score": 5,
+    "reasons": [
+      "La formación académica (Licenciatura en Administración incompleta) no se ajusta al requisito de Técnico eléctrico o electromecánico.",
+      "La experiencia profesional se centra en roles administrativos, de contabilidad, facturación y ventas (más de 8 años en total), sin evidencia de experiencia en mantenimiento general o de sistemas eléctricos. El puesto requiere 5-7 años de experiencia en temas específicos de mantenimiento.",
+      "No se mencionan conocimientos técnicos específicos en normativa AEA (Asociación Electrotécnica Argentina), que es un requisito excluyente.",
+      "Las competencias listadas (gestión, facturación, ventas, control de inventario) no coinciden con las requeridas (fuertes conocimientos técnicos, trabajo en equipo), excepto por la mención genérica de trabajo en equipo.",
+      "El perfil del candidato está completamente desalineado con las responsabilidades y el propósito del puesto, que tienen un fuerte enfoque técnico y eléctrico."
+    ]
+  },
+  {
+    "participant_id": "9f16265b-026b-4c77-90f0-233433110e39",
+    "score": 0,
+    "reasons": [
+      "El currículum no fue proporcionado, por lo que no se puede realizar una evaluación."
+    ]
+  }
+]

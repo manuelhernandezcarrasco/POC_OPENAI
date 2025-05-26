@@ -5,7 +5,6 @@ A continuación se presentarán varios currículums, cada uno en el siguiente fo
 [participant_id] - [Texto del currículum]
 
 Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los requisitos de la descripción del puesto.
-**Tienes que, además de puntuar, ordenar a los candidatos del mejor al peor, y explicar por qué el mejor se destaca frente a los demás.**
 
 Hay que seguir al pie de la letra lo que dice la descripción del puesto y en base a eso evaluar el currículum.
 
@@ -22,11 +21,6 @@ Por cada currículum, devuelve una evaluación en formato JSON con esta estructu
   ]
 }
 
-Al final, agregá un objeto extra que indique el ranking general y una breve explicación del candidato más destacado:
-{
-  "ranking": ["id1", "id2", "id3", "..."],
-  "top_reason": "Explicación de por qué el primer candidato se destaca por sobre los demás."
-}
 Importante: devuelve solo objetos JSON como los indicados, sin texto adicional.
 Descripción del puesto:
  {job_description}

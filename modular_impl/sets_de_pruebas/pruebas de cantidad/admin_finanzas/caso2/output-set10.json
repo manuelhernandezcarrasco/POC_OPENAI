@@ -1,0 +1,113 @@
+[
+  {
+    "participant_id": "db9b3b97-e847-479d-aa1c-e134e1b37226",
+    "score": 25,
+    "reasons": [
+      "La candidata no cumple el requisito mínimo de educación, ya que está cursando una Tecnicatura Universitaria en lugar de poseer una Licenciatura completa.",
+      "La experiencia laboral total es de aproximadamente 3 años y 9 meses, lo cual está por debajo del requisito mínimo de 5 a 8 años de experiencia para un rol Senior.",
+      "Las responsabilidades listadas en la experiencia previa (Análisis de Cuentas a Cobrar, tareas operativas, reportes básicos) parecen más alineadas con roles junior o semi-senior, y no demuestran la experiencia en análisis financiero avanzado, modelado estratégico o liderazgo esperada para un Analista Senior.",
+      "Aunque menciona SAP ERP y Microsoft Excel, el CV no especifica experiencia o conocimiento en sistemas de BI como Tableau o Power BI, que son requeridos.",
+      "El CV no muestra experiencia en la supervisión de analistas junior/semi-senior ni en el liderazgo de proyectos financieros críticos, responsabilidades clave del puesto Senior."
+    ]
+  },
+  {
+    "participant_id": "7cd12b41-c9d3-46fc-9f52-aa8c7d351e9e",
+    "score": 25,
+    "reasons": [
+      "La formación académica principal es en Marketing, no en Finanzas, Contabilidad o Economía como requiere el puesto.",
+      "La experiencia principal es como Analista Senior de Créditos y Cobranzas, un área especializada que, aunque relevante en algunos aspectos, no se alinea completamente con las responsabilidades clave del puesto (análisis financiero detallado para alta dirección, modelado financiero avanzado, presupuestación estratégica a nivel compañía, reportes financieros corporativos, liderazgo de proyectos financieros amplios).",
+      "Aunque tiene años de experiencia como 'Analista senior', la naturaleza de las tareas descritas se enfoca en la gestión de clientes, cobranzas y riesgo crediticio, y no cubre explícitamente el modelado financiero avanzado ni la planificación y presupuestación estratégica para toda la empresa, que son puntos centrales de la descripción del puesto.",
+      "No menciona experiencia específica con sistemas ERP SAP ni sistemas de BI (Tableau, Power BI) que son requisitos técnicos explícitos, aunque sí menciona Excel avanzado y otros sistemas (Tango, CRM)."
+    ]
+  },
+  {
+    "participant_id": "d485ecad-03ac-4857-b65e-6b605a940595",
+    "score": 45,
+    "reasons": [
+      "El candidato posee una Licenciatura en Administración de Empresas, que es un campo relacionado con los requisitos educativos.",
+      "Cuenta con aproximadamente 5.5 años de experiencia laboral desde su primer rol relevante, lo cual se encuentra en el rango inferior (5-8 años) solicitado para roles financieros avanzados. Sin embargo, la experiencia abarca diversas áreas (administración, facturación, cobranzas, nómina) y no se enfoca consistentemente en el análisis financiero estratégico o modelado a nivel senior.",
+      "Aunque posee experiencia en supervisión y liderazgo de equipos, cumpliendo parcialmente el requisito de supervisar analistas.",
+      "El currículum no demuestra dominio explícito de herramientas técnicas clave requeridas como SAP, sistemas de BI (Tableau, Power BI) y solo menciona Excel a nivel intermedio, no avanzado, lo cual es una brecha significativa para la posición Senior.",
+      "Si bien realiza análisis en algunas áreas (costos, facturación, cuentas corrientes), no se evidencia experiencia sólida en el desarrollo y mantenimiento de modelos financieros avanzados, presupuestos a largo plazo o análisis de variaciones detallado a nivel estratégico.",
+      "Las habilidades de comunicación para presentar información financiera compleja a la alta dirección y la atención al detalle no se demuestran explícitamente en la experiencia, sino que se listan como rasgos de personalidad."
+    ]
+  },
+  {
+    "participant_id": "04643b12-6c5d-4057-8fe9-f35c6d27cbf3",
+    "score": 15,
+    "reasons": [
+      "La educación del candidato no cumple con el requisito de Licenciatura finalizada (indica 15/32 materias aprobadas), lo cual es un requisito excluyente para la posición.",
+      "La experiencia laboral, aunque con una duración total relevante (aproximadamente 8 años), parece estar enfocada en roles de Analista Contable, Analista de Facturación y Administrativo de Ventas/Cobranzas. Esto no se alinea completamente con la descripción de 'roles financieros avanzados' que implican análisis estratégico, modelado complejo y soporte a la alta dirección, como requiere un Analista Senior.",
+      "No se menciona experiencia específica en responsabilidades clave del puesto Senior, como el desarrollo y mantenimiento de modelos financieros avanzados, el liderazgo de proyectos financieros o la supervisión de otros analistas.",
+      "Aunque el currículum menciona el uso de SAP, no demuestra el dominio de otras herramientas técnicas clave requeridas como Excel avanzado o sistemas de BI (Tableau, Power BI).",
+      "Las habilidades y responsabilidades descritas no resaltan la capacidad para presentar información financiera compleja a la alta dirección o realizar análisis de variaciones significativas al nivel que se espera de un rol Senior."
+    ]
+  },
+  {
+    "participant_id": "5f6f3c39-f93d-47d4-9e8c-24b7421db250",
+    "score": 38,
+    "reasons": [
+      "La experiencia del candidato (~2.5 años) es significativamente inferior al mínimo de 5-8 años requerido para la posición Senior.",
+      "No se menciona explícitamente experiencia con SAP ERP y sistemas BI específicos como Power BI (solo se lista Tableau en nivel intermedio).",
+      "Aunque tiene sólidas habilidades analíticas y de modelado (respaldadas por educación y certificaciones), el CV no detalla experiencia específica en planificación, presupuestación o análisis de variaciones, que son responsabilidades clave del puesto.",
+      "El CV no menciona experiencia en la supervisión de analistas junior o semi-senior, otra responsabilidad importante del rol.",
+      "El candidato cumple el requisito educativo con una Licenciatura y una Maestría, y cuenta con certificaciones valiosas (CFA Niveles I y II)."
+    ]
+  },
+  {
+    "participant_id": "743d57c6-7530-49cb-904a-e5747b42fd9f",
+    "score": 25,
+    "reasons": [
+      "La formación académica (Tec. Universitaria en administración en curso) no cumple con el requisito de Licenciatura finalizada en Finanzas, Contabilidad, Economía o campo relacionado.",
+      "La experiencia laboral total (aproximadamente 3 años y 9 meses) está por debajo del mínimo requerido de 5 a 8 años en roles financieros avanzados.",
+      "Los roles y responsabilidades descritos en el currículum (Analista de Finanzas con foco en Impo/Expo y Analista de Cuentas a Cobrar) parecen ser de nivel junior/semi-senior y no se alinean con las funciones avanzadas de análisis financiero, modelado, presupuestación estratégica, reporte a alta dirección o supervisión de equipos esperadas para un Analista Senior.",
+      "Aunque se menciona SAP ERP y un curso de Excel Avanzado, el currículum no especifica experiencia con sistemas de BI (como Tableau o Power BI), los cuales son requisitos técnicos del puesto.",
+      "El CV no demuestra experiencia en responsabilidades clave del puesto Senior como el desarrollo de modelos financieros complejos, la planificación estratégica, el liderazgo de proyectos financieros críticos o la presentación de información financiera compleja a la alta dirección."
+    ]
+  },
+  {
+    "participant_id": "f930d1f2-be8a-439b-858d-a016326252be",
+    "score": 35,
+    "reasons": [
+      "La educación del candidato (Licenciatura en Marketing) no se alinea directamente con el requisito de Licenciatura en Finanzas, Contabilidad, Economía o campo relacionado.",
+      "Aunque el candidato tiene experiencia como 'Analista senior', gran parte de su experiencia reciente se centra en Créditos y Cobranzas, lo cual es un subcampo financiero pero no cubre explícitamente la amplitud del análisis financiero avanzado, modelado, presupuestación y planificación estratégica descritos en el puesto.",
+      "Falta experiencia explícita en el desarrollo y mantenimiento de modelos financieros avanzados para proyecciones, presupuestos y escenarios estratégicos, una responsabilidad clave del puesto.",
+      "El currículum no menciona dominio de ERP SAP ni sistemas de BI (como Tableau o Power BI), los cuales son requisitos técnicos específicos e importantes para el puesto, aunque sí indica Excel avanzado.",
+      "Si bien el candidato menciona habilidades interpersonales y trabajo en equipo, la experiencia en supervisión o liderazgo de analistas junior/semi senior, que es parte de la responsabilidad del rol, no está claramente destacada o alineada con roles de análisis financiero."
+    ]
+  },
+  {
+    "participant_id": "d5547377-4d5b-4c69-8666-7903f7df0f02",
+    "score": 35,
+    "reasons": [
+      "La experiencia laboral total y la experiencia específica en roles financieros avanzados parecen ser menores al rango de 5 a 8 años solicitado.",
+      "El dominio de Excel indicado en el CV es intermedio, mientras que se requiere nivel avanzado para el puesto.",
+      "No se menciona experiencia con herramientas clave como ERP SAP y sistemas de BI (Tableau, Power BI), que son requisitos técnicos importantes.",
+      "El CV no detalla experiencia significativa en modelado financiero avanzado o en el liderazgo de proyectos financieros críticos.",
+      "Si bien menciona reportes y apoyo a presupuestos, el alcance de la experiencia en planificación, presupuestación, reportes financieros completos (mensuales, trimestrales, anuales) y análisis de variaciones no parece alcanzar el nivel senior esperado.",
+      "Parte de la experiencia reportada incluye tareas administrativas y de RRHH que no se alinean directamente con las funciones principales de un Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "5c3c589e-4656-46ae-8659-6b24150dee42",
+    "score": 15,
+    "reasons": [
+      "El candidato no cumple con el requisito fundamental de educación, ya que no ha completado la Licenciatura en Administración (indica 15/32 materias aprobadas), mientras que la descripción del puesto requiere una licenciatura finalizada.",
+      "La experiencia profesional listada (Analista Contable, Analista de Facturación, Administrativo de Ventas) parece estar más orientada a tareas de contabilidad operativa y administración (conciliaciones, cuentas por pagar, facturación, control de stock) y ventas, lo cual no se alinea con los 5-8 años de experiencia requerida en roles financieros avanzados que implican análisis estratégico, modelado financiero, presupuestación, reporte a alta dirección y supervisión.",
+      "El currículum no muestra experiencia o responsabilidades relacionadas con el modelado financiero avanzado, la creación y seguimiento de presupuestos y proyecciones a largo plazo, el análisis de variaciones detallado, la preparación de reportes financieros para la alta dirección, ni la supervisión de personal, que son responsabilidades clave del puesto de Analista de Finanzas Senior.",
+      "Aunque menciona SAP como competencia, no se especifica el nivel de dominio de Excel ni se mencionan sistemas de BI como Tableau o Power BI, que son requisitos técnicos clave para el puesto."
+    ]
+  },
+  {
+    "participant_id": "7d383b0c-76a0-4fbf-919c-d1d9488b4a87",
+    "score": 35,
+    "reasons": [
+      "No cumple con el requisito de experiencia mínima de 5-8 años en roles financieros avanzados; cuenta con aproximadamente 2.5 años de experiencia relevante.",
+      "Falta evidencia explícita del dominio de SAP ERP, uno de los requisitos técnicos clave.",
+      "Si bien tiene experiencia en análisis, no se detallan responsabilidades de liderazgo de proyectos financieros o supervisión de analistas, aspectos cruciales del rol Senior.",
+      "El resume no especifica experiencia completa en el ciclo de planificación financiera, presupuestación detallada o análisis de variaciones, responsabilidades clave del puesto.",
+      "Fuerte formación académica (Licenciatura, Maestría, CFA) y habilidades analíticas son puntos positivos.",
+      "Conocimientos técnicos en Excel y Tableau son positivos, aunque incompletos respecto a los requisitos."
+    ]
+  }
+]
