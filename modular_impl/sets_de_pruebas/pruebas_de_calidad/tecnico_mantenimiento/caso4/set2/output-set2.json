@@ -93,5 +93,58 @@
       "La experiencia en coordinación de proveedores o trato con clientes/contratistas internos es escasa o no se detalla."
     ],
     "score": 60
+  },
+  {
+    "participant_id": "24ffffcf-94fe-4e4d-9bff-1e49b1ecc5b4",
+    "reasons": [
+      "El candidato posee experiencia en industrias relevantes (manufactura, servicios, gastronomía) con roles relacionados al mantenimiento general y técnico.",
+      "Cumple con el rango de años de experiencia requeridos (5-7 años) y su experiencia documentada abarca mantenimiento preventivo, correctivo y predictivo, alineado con las actividades principales del puesto.",
+      "Presenta una brecha importante en los requisitos principales al no contar con el título formal de Técnico eléctrico o electromecánico; solo se mencionan cursos de formación profesional.",
+      "No se menciona explícitamente el conocimiento o experiencia con normativa AEA, lo cual es un requisito específico del puesto.",
+      "Demuestra sólidos conocimientos y experiencia en áreas técnicas complementarias valiosas (extras), como refrigeración, climatización y CCTV.",
+      "La experiencia específica en instalaciones trifásicas, tableros eléctricos, sistemas de puesta a tierra, diagnósticos con herramientas (multímetro, etc.) o coordinación de proveedores no está detallada explícitamente en el currículum (extras)."
+    ],
+    "score": 55
+  },
+  {
+    "participant_id": "b706049f-955b-45e3-ae11-57e94db6d181",
+    "reasons": [
+      "La experiencia laboral es relevante para el puesto, con trabajos en mantenimiento general y de planta en industrias como British American Tobacco, cumpliendo el criterio de pertenencia a industria relevante.",
+      "Cumple con el requisito de años de experiencia (aproximadamente 6.7 años en roles relevantes), alineándose con uno de los requisitos principales del puesto.",
+      "Posee experiencia explícita en mantenimiento eléctrico y general edilicio, que son las actividades principales del puesto, cumpliendo con requisitos core del puesto.",
+      "Tiene conocimientos complementarios sólidos en áreas como refrigeración, HVAC, CCTV y mantenimiento de equipos electromecánicos/electrónicos, valorados como extras y cubriendo varios de los criterios adicionales.",
+      "Menciona experiencia en mantenimiento preventivo y predictivo, abordando parte del criterio extra sobre diagnóstico eléctrico.",
+      "Si bien no tiene la titulación exacta de 'Técnico', cuenta con formación como 'Instalador electricista' y 'Auxiliar técnico en electrónica', relevantes para el rol, lo cual es positivo aunque no cumpla al 100% el requisito de educación formal, pero suma en certificaciones/formación relevante (extra).",
+      "No se menciona explícitamente conocimiento de normativa AEA (requisito core/extra), uso de herramientas de diagnóstico específicas (excepto el tipo de mantenimiento - extra), experiencia con software de gestión de tickets (requisito core) o trato con proveedores/clientes internos (extra), lo que resta puntuación."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "f13be51f-6c04-489d-b51e-37cf5e15aa9d",
+    "reasons": [
+      "La experiencia laboral es muy relevante para el puesto de Técnico de Mantenimiento, cubriendo tanto mantenimiento general edilicio como mantenimiento de sistemas en plantas y otros tipos de instalaciones.",
+      "Cumple con la experiencia de años requerida (5-7 años), aunque las fechas en el CV presentan solapamientos que requerirían aclaración.",
+      "Tiene experiencia específica en mantenimiento eléctrico, como se menciona en su trabajo en Food & Services Consulting y la certificación de Instalador Electricista (CFP).",
+      "Aporta conocimientos complementarios muy valiosos en áreas como refrigeración, aire acondicionado, CCTV y electrónica, superando las expectativas en este aspecto.",
+      "Menciona experiencia en mantenimiento preventivo, correctivo y predictivo, lo cual se alinea con los requisitos de diagnóstico (aunque faltan detalles de herramientas y planos).",
+      "No cumple con el requisito excluyente de educación formal de 'Técnico eléctrico o electromecánico' al tener el secundario incompleto.",
+      "No menciona explícitamente conocimientos en normativa AEA, un requisito clave de la descripción del puesto.",
+      "Falta detalle específico sobre experiencia con instalaciones trifásicas, tableros eléctricos, puesta a tierra y el uso de herramientas de diagnóstico avanzadas.",
+      "La experiencia en coordinación de proveedores o trato con contratistas/clientes internos no está claramente detallada en el CV."
+    ],
+    "score": 65
+  },
+  {
+    "participant_id": "fa44ea70-c5b8-4c6d-ad22-39e43095199d",
+    "reasons": [
+      "El candidato posee experiencia en industrias relevantes (plantas industriales, mantenimiento de múltiples locales) y cumple con el requisito de años de experiencia (aproximadamente 5+ años en roles técnicos/de mantenimiento).",
+      "Aunque tiene estudios técnicos relacionados (Auxiliar técnico en electrónica, Instalador electricista), no cumple con el requisito de Educación Formal de 'Técnico eléctrico o electromecánico' con secundario completo.",
+      "El CV no menciona conocimientos específicos en normativa AEA, que es un requisito del puesto.",
+      "Demuestra experiencia en mantenimiento preventivo, correctivo y predictivo, lo que implica diagnóstico, pero no detalla el uso de herramientas específicas (multímetros, cámaras térmicas) ni interpretación de planos, ni menciona explícitamente experiencia con instalaciones trifásicas, tableros o puesta a tierra.",
+      "Cuenta con conocimientos complementarios sólidos en áreas como refrigeración/aire acondicionado, electrónica y CCTV, lo cual es un punto a favor según los criterios extra.",
+      "La experiencia como 'propietario de servicio técnico' y el mantenimiento de múltiples locales sugiere potencial experiencia en coordinación con proveedores/clientes, aunque no está detallado.",
+      "Reside en la zona de Pilar, lo cual es favorable para la ubicación del puesto."
+    ],
+    "score": 60
   }
 ]

@@ -97,5 +97,117 @@
       "Falta experiencia demostrable en Google Workspace o plataformas de colaboración similares."
     ],
     "score": 20
+  },
+  {
+    "participant_id": "5d717818-2715-4ba4-a1d7-0889191934e7",
+    "reasons": [
+      "El candidato tiene experiencia principal como Full Stack Developer y Front End Developer, lo cual no se alinea con la experiencia requerida en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente.",
+      "Las tecnologías y habilidades listadas en el currículum están centradas en desarrollo web (JavaScript, React, Node.js, bases de datos, etc.), y no demuestran experiencia directa o conocimiento en plataformas de colaboración como Google Workspace, que son fundamentales para el rol.",
+      "Aunque el candidato es estudiante universitario de una carrera relacionada (Ingeniería en Software), la experiencia laboral específica requerida para las tareas de soporte, migración y capacitación de Google Workspace no está presente.",
+      "El currículum no proporciona evidencia de experiencia en roles con alta exposición a clientes o el desarrollo de las habilidades blandas requeridas como paciencia, empatía o vocación de servicio en un contexto de soporte técnico."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "88202288-41b5-4ada-b1f6-d485ae9633a3",
+    "reasons": [
+      "La experiencia principal del candidato es como Full Stack Developer, la cual no se alinea directamente con las actividades de Soporte Técnico y gestión de plataformas de colaboración como Google Workspace descritas en el puesto.",
+      "El currículum no presenta experiencia específica en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente, que son las áreas preferidas según la descripción del puesto.",
+      "No hay mención de experiencia previa o familiaridad con Google Workspace o herramientas de colaboración similares, lo cual es central para las responsabilidades del rol.",
+      "Si bien cumple con el requisito de ser estudiante de carrera universitaria afín y tiene un buen nivel de inglés, la falta de experiencia relevante en el dominio del puesto (soporte/colaboración) reduce significativamente la adecuación."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "5b460664-dd1c-4706-8950-9f9798d253ac",
+    "reasons": [
+      "El perfil del candidato es de Full Stack Developer, lo cual no se alinea con el enfoque técnico de soporte y gestión de plataformas colaborativas del puesto.",
+      "La experiencia laboral listada es en desarrollo de software, específicamente como Full Stack y Front End Developer, lo cual difiere de la experiencia requerida en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente.",
+      "Las habilidades técnicas mencionadas son de desarrollo web (JavaScript, React, Node.js, PostgreSQL, etc.) y no muestran experiencia ni conocimientos específicos relacionados con Google Workspace, herramientas de soporte o tareas administrativas de plataformas colaborativas.",
+      "Aunque el candidato cumple con el requisito de ser estudiante universitario de una carrera afín (Ingeniería en Software) y posee un buen nivel de inglés, los requisitos clave de experiencia y habilidades técnicas específicas para el rol de soporte no están presentes en el currículum."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "141ce14d-ab59-4d0a-9755-9595a8b7a172",
+    "reasons": [
+      "El candidato cumple el requisito de ser estudiante de una carrera universitaria en el área de Sistemas.",
+      "El candidato cumple el requisito de tener un buen nivel de inglés (C1).",
+      "El candidato demuestra experiencia en empresas de tecnología, cumpliendo el requisito de industria.",
+      "La experiencia laboral del candidato se centra en desarrollo de software (Full Stack Developer, Front End Developer), no en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente como requiere el puesto.",
+      "El currículum no presenta experiencia ni conocimientos específicos en Google Workspace o plataformas de colaboración, que son el foco principal del rol.",
+      "Las habilidades técnicas listadas (JavaScript, React, Node.js, etc.) no se alinean con las tecnologías centrales del puesto (Google Workspace).",
+      "El CV no detalla habilidades o experiencia relacionadas con la atención directa a usuarios, resolución de problemas de soporte técnico o vocación de servicio, que son aspectos clave del rol."
+    ],
+    "score": 30
+  },
+  {
+    "participant_id": "7a64cf4b-46fe-4905-8987-cdae920598b0",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Software, lo cual cumple con el requisito educativo.",
+      "Cuenta con un buen nivel de inglés (C1 - Professional working proficiency), alineado con el requisito del puesto para entender entrenamientos y documentación.",
+      "Tiene experiencia trabajando en empresas de tecnología, lo cual cumple con el requisito de industria.",
+      "Su experiencia laboral es en Desarrollo Full Stack y Front End, no en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente, que son las áreas preferidas según la descripción del puesto.",
+      "El currículum no muestra experiencia específica con Google Workspace o plataformas de colaboración similares, ni en tareas clave del rol como migración, administración, soporte, capacitación o reporting relacionadas con estas herramientas.",
+      "No se evidencian en el currículum las habilidades blandas requeridas para la alta exposición con clientes (paciencia, empatía, vocación de servicio) ni las habilidades de comunicación (Redacción, Dicción) en un contexto de soporte o capacitación al cliente.",
+      "La experiencia listada no incluye tareas como guardias pasivas o monitoreo proactivo de plataformas, que son parte de las responsabilidades del rol."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "5bc1fc9a-a836-4a31-8e28-fc3a5b4b2012",
+    "reasons": [
+      "El currículum pertenece a un profesional del área de tecnología, cumpliendo el requisito de industria.",
+      "El candidato es estudiante de Ingeniería en Software, cumpliendo el requisito de formación universitaria o experiencia equivalente.",
+      "El candidato declara un buen nivel de inglés (C1), lo cual es un requisito del puesto.",
+      "La experiencia laboral del candidato es como Full Stack Developer y Front End Developer, lo cual no se alinea con la experiencia preferida en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente.",
+      "El currículum no evidencia experiencia en tareas clave del puesto como atención de solicitudes de soporte, resolución en primer contacto, guardias pasivas, seguimiento proactivo de plataformas colaborativas, construcción de reportes de utilización, asistencia en implementación o capacitación a usuarios/administradores.",
+      "Aunque menciona el uso de herramientas de 'Office', no especifica experiencia con plataformas de colaboración como Google Workspace o Microsoft 365, las cuales son centrales para el rol."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "5c93031e-1d5a-4e27-9aed-c0e4c27cd592",
+    "reasons": [
+      "Cumple con el requisito de ser estudiante de una carrera universitaria relevante (Ingeniería en Software).",
+      "Tiene experiencia trabajando en la industria de la tecnología.",
+      "Demuestra un buen nivel de inglés (C1), que es necesario para la capacitación.",
+      "La experiencia del candidato está enfocada en el desarrollo de software (Full Stack/Front End), en lugar de roles de Soporte Técnico, Help Desk o Atención al Cliente mencionados como preferibles.",
+      "No se menciona experiencia específica con Google Workspace, proyectos de migración de plataformas, planes de adopción o capacitación a usuarios/administradores, que son aspectos centrales del puesto.",
+      "El currículum no proporciona evidencia de interacción directa con clientes ni del fuerte énfasis en la satisfacción del usuario, empatía y vocación de servicio requeridos para este rol de cara al cliente.",
+      "Las responsabilidades principales listadas en la descripción (atención de soporte reactivo, guardias pasivas, construcción de reportes de utilización, asistencia en implementación, capacitación) no se reflejan en el perfil o historial laboral del candidato."
+    ],
+    "score": 55
+  },
+  {
+    "participant_id": "af114ec1-34e3-4ba8-8884-2aa9c7b503e8",
+    "reasons": [
+      "El perfil del candidato es de Full Stack Developer, lo cual difiere significativamente del perfil técnico de Soporte y Colaboración requerido para el puesto (Google Workspace).",
+      "La experiencia laboral se centra en el desarrollo de software (Full Stack/Front End), no en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente, que es la experiencia relacionada preferida.",
+      "No se menciona experiencia previa con Google Workspace o herramientas de colaboración similares, ni con tareas de migración, soporte, capacitación de usuarios o construcción de reportes de adopción.",
+      "Aunque cumple el requisito de ser estudiante universitario en un área relacionada (Ingeniería en Software) y tener buen nivel de inglés (C1), la falta de experiencia específica en el dominio y tipo de rol (soporte técnico cliente-cara a cara, guardias pasivas, etc.) es una brecha importante."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "8d4394ad-ef85-4cbf-8404-0499dfc6c931",
+    "reasons": [
+      "El candidato posee un perfil técnico sólido (Full Stack Developer, estudiante de ingeniería) y un buen nivel de inglés, cumpliendo requisitos básicos.",
+      "Su experiencia laboral es en la industria de tecnología (desarrollo de software), pero no en los roles preferentes de Soporte Técnico, Help Desk o Atención al Cliente, que son centrales para la posición.",
+      "El currículum no demuestra ni menciona las habilidades interpersonales clave requeridas para el puesto con alta exposición a clientes (paciencia, empatía, vocación de servicio, excelencia en comunicación y resolución de problemas orientada al usuario).",
+      "No se evidencia experiencia previa con Google Workspace o plataformas de colaboración similares, ni con tareas específicas del puesto como migraciones, capacitaciones o guardias de soporte."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "2aae6520-a402-4f42-81f7-7354052d57f9",
+    "reasons": [
+      "El perfil y la experiencia del candidato están fuertemente orientados al desarrollo de software (Full Stack, Front End), lo cual no se alinea con el enfoque del puesto ofrecido que es de Soporte Técnico y gestión de plataforma de colaboración.",
+      "Aunque el candidato tiene experiencia en empresas de tecnología y cumple el requisito de ser estudiante universitario de una carrera afín, carece de experiencia explícita en roles relacionados con Soporte Técnico, Microinformática, Help Desk o Atención al Cliente, que son preferidos para este puesto.",
+      "No se menciona experiencia o conocimiento previo en Google Workspace o plataformas de colaboración similares, las cuales son centrales en las tareas y proyectos del rol (Migración, Adopción, Capacitación, Soporte).",
+      "Las habilidades técnicas listadas se centran en lenguajes y frameworks de desarrollo web (JavaScript, React, Node.js, etc.), que son distintas a las requeridas para la administración, soporte y optimización de una plataforma colaborativa como Google Workspace.",
+      "Cumple con los requisitos de nivel de inglés y de ser estudiante de carrera universitaria, pero falla en la adecuación de la experiencia práctica al tipo de rol ofrecido."
+    ],
+    "score": 15
   }
 ]

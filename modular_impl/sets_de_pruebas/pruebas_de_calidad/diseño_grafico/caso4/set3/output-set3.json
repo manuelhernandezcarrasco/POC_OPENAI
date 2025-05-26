@@ -1,0 +1,64 @@
+[
+  {
+    "participant_id": "6bd706e3-2b1b-4492-a181-b82ef7af2af1",
+    "reasons": [
+      "El candidato tiene 5 años de experiencia explícitamente en agencias de publicidad, cumpliendo perfectamente con el requisito de experiencia en la industria y superando la experiencia mínima requerida.",
+      "Cumple con los requisitos principales del puesto, demostrando gran dominio de las herramientas clave de Adobe (Photoshop, Illustrator, InDesign, After Effects), sólidas capacidades en diseño gráfico y motion graphics, y nivel de inglés bilingüe. El único punto a validar es la 'proficiency' en HTML5, ya que menciona 'conocimiento básico de HTML y CSS'.",
+      "Aporta varios puntos extra valiosos, incluyendo experiencia sólida en edición de video (menciona Premiere Pro), trabajo con clientes internacionales y guías de marca, adaptación para diferentes mercados y familiaridad con herramientas colaborativas (Slack, Asana), alineándose muy bien con los pluses valorados."
+    ],
+    "score": 95
+  },
+  {
+    "participant_id": "415b3746-1e0e-4259-837a-a317c806e949",
+    "reasons": [
+      "Ready to evaluate the first curriculum vitae. Please provide the text for the first candidate in the specified format: [participant_id] - [Texto del currículum]"
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "b521faaa-d09e-40e3-ab99-238064356ed2",
+    "reasons": [
+      "El texto del currículum para el participante CV #1 no ha sido proporcionado.",
+      "Sin el contenido del currículum, no es posible evaluar la experiencia, habilidades o adecuación del candidato a la descripción del puesto.",
+      "No se puede verificar si cumple con los requisitos de industria, experiencia, software, idiomas, ni los criterios extra mencionados."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "0173c636-1c11-4087-b59b-c376a0f482b5",
+    "reasons": [
+      "El input para CV #1 consiste en placeholders ([participant_id] - [Texto del currículum]) en lugar del contenido real del currículum.",
+      "Sin el texto del currículum, no es posible evaluar la experiencia, habilidades, proficiencia en herramientas, nivel de inglés u otros requisitos del puesto.",
+      "La puntuación es 0 porque no hay información para evaluar la adecuación del candidato según los criterios establecidos."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "0bc23041-2f2a-419e-8cdc-0c72fa6fddd1",
+    "reasons": [
+      "El candidato parece tener experiencia relevante en la industria del diseño y la publicidad, aunque no se especifica explícitamente 'agencia' o 'entorno digital' en el texto proporcionado.",
+      "Cumple con los años de experiencia requeridos (2+ años).",
+      "Demuestra dominio de software clave como Photoshop, Illustrator, InDesign y After Effects, que son requisitos principales del puesto.",
+      "Menciona experiencia en Motion Graphics, cumpliendo con otro requisito esencial.",
+      "Posee un nivel de inglés B2, que si bien es avanzado, no llega a ser bilingüe como se solicita idealmente, pero es suficiente para interactuar en un entorno internacional.",
+      "Cubre la creación de activos para formatos digitales y de video (animación/motion graphics), aunque no se menciona específicamente experiencia en diseño para 'Print' (editorial, packaging, etc.), un formato solicitado en la descripción.",
+      "Como extras, menciona experiencia en edición y producción de video (Premiere Pro), conocimiento de branding y guidelines, y diseño bajo guías de marca, que son puntos positivos buscados.",
+      "No se mencionan otros extras como diseño web/UI/UX (Figma/Sketch), experiencia con clientes internacionales/multiculturales (además del nivel de inglés) o familiaridad con herramientas colaborativas (Slack/Trello)."
+    ],
+    "score": 75
+  },
+  {
+    "participant_id": "e399df36-b579-41a1-b61a-b0ee54fe8af8",
+    "reasons": [
+      "El candidato demuestra experiencia relevante en el sector de agencias de publicidad y entornos digitales, cumpliendo el primer criterio de prioridad.",
+      "Cumple con la mayoría de los requisitos esenciales del puesto, incluyendo experiencia con Photoshop, Illustrator, InDesign y After Effects, así como habilidades sólidas en diseño gráfico y motion graphics.",
+      "Tiene experiencia mencionada con HTML/CSS, relevante para el requisito de HTML5.",
+      "Posee un nivel avanzado de inglés, esencial para el puesto.",
+      "Menciona experiencia directa con clientes internacionales, un plus valorado.",
+      "La experiencia en diseño bajo guías de marca y adaptación de campañas (glocalización) son puntos extra explícitamente buscados y presentes en el perfil.",
+      "Aunque no se menciona explícitamente experiencia en entornos colaborativos específicos, la naturaleza del trabajo en agencia sugiere familiaridad con ellos.",
+      "No se menciona explícitamente experiencia en edición/producción de video avanzada (Premiere, Final Cut), ni conocimientos de UI/UX (Figma, Sketch), lo cual limita la puntuación máxima."
+    ],
+    "score": 85
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "participant_id": "36de2e3a-9f4a-4bc2-809d-7fe809467515",
+    "reasons": [
+      "El candidato no presenta título universitario en carreras afines a Recursos Humanos (Requisito EXCLUYENTE).",
+      "El currículum no demuestra experiencia en roles de Talent Acquisition o similares, siendo la experiencia presentada de tipo administrativo y de ventas.",
+      "No se menciona dominio del idioma inglés en nivel avanzado (Requisito EXCLUYENTE).",
+      "La experiencia laboral detallada no corresponde a la industria de Oil & Gas.",
+      "La ubicación actual del candidato no es Neuquén Capital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c2f5309f-36f6-48dd-aeae-9395e2cb0902",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (posee título de Contador Público).",
+      "El candidato no cumple con el requisito excluyente de poseer idioma inglés avanzado (no se menciona nivel de inglés).",
+      "El candidato no cumple con el requisito de tener un mínimo de cinco años de experiencia en roles similares a Talent Acquisition (la experiencia es en roles administrativos, ventas y banca).",
+      "La experiencia laboral detallada no se alinea con las responsabilidades de un Talent Acquisition Specialist."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "5b6f2291-a222-4de2-be84-00ddfe728774",
+    "reasons": [
+      "El candidato es Contador Público, lo cual no es considerado una carrera 'afín a Recursos Humanos' según el requisito excluyente.",
+      "El candidato no presenta experiencia mínima de cinco años en roles 'similares' a Talent Acquisition o Selección; su experiencia es en roles administrativos, comerciales y de asesoramiento de negocios.",
+      "El candidato no especifica poseer un nivel avanzado de inglés, lo cual es un requisito excluyente.",
+      "El currículum no menciona experiencia en la industria de Oil & Gas, que era deseable.",
+      "La ubicación reportada por el candidato es Pilar, Buenos Aires, mientras que el puesto requiere presencia en Neuquén Capital."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "8d555c6c-72fa-46b0-b974-8e4525991efe",
+    "reasons": [
+      "La formación académica en Contador Público no cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos.",
+      "El candidato no posee la experiencia mínima de cinco años requerida en roles similares a Talent Acquisition. Su experiencia se centra en áreas administrativas, financieras y de ventas.",
+      "No se menciona el dominio del idioma inglés (avanzado), que es un requisito excluyente para el puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "ec8ab501-159b-40d7-a17d-1ae70ddbaf8a",
+    "reasons": [
+      "Does not meet the exclusive requirement of being graduated from university careers related to Human Resources (graduated as Public Accountant).",
+      "Does not demonstrate the required minimum of five years of experience in similar roles (Talent Acquisition/Recruitment).",
+      "Does not meet the exclusive requirement of advanced English level (only lists native Spanish).",
+      "Experience is in administrative, sales, and finance roles, not related to Talent Acquisition responsibilities."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "6ff22ca1-cc6b-4d7d-8191-9dfdd647863b",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos. Su carrera es Contador Público.",
+      "El candidato no acredita experiencia en roles similares a Talent Acquisition o Selección de Personal. Su experiencia es en roles administrativos, de ventas y banca.",
+      "La experiencia laboral presentada no alcanza los cinco años mínimos requeridos en roles similares (TA/Selección).",
+      "El currículum no menciona el nivel de idioma inglés, requisito excluyente (inglés avanzado). Sólo se menciona español nativo.",
+      "El candidato reside en Pilar, Buenos Aires, y el puesto es 100% presencial en Neuquén Capital, lo cual representa un gran desajuste logístico y de disposición para el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "f25334fe-af32-4462-8c60-950d81446d86",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (el título es de Contador Público).",
+      "No cumple con el requisito excluyente de idioma inglés avanzado (solo se menciona español).",
+      "No cuenta con el mínimo de cinco años de experiencia en roles similares (Talent Acquisition/Reclutamiento). La experiencia listada es en roles administrativos, de ventas y banca.",
+      "La ubicación actual del candidato es en Pilar, Buenos Aires, mientras que el puesto requiere residencia y trabajo 100% presencial en Neuquén Capital."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "7b54e795-9b43-4393-b0d4-da2a147c846f",
+    "reasons": [
+      "El candidato está graduado de 'Contador Público', lo cual no es una carrera universitaria afín a Recursos Humanos según el requisito excluyente.",
+      "No se menciona un nivel de idioma inglés avanzado en el currículum, lo cual es un requisito excluyente.",
+      "La experiencia laboral detallada es en roles administrativos, comerciales y bancarios, no en roles similares a Talent Acquisition o Recursos Humanos.",
+      "La ubicación del candidato es en Pilar, Buenos Aires, mientras que el puesto es 100% presencial en Neuquén Capital."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "39c9b29c-74d8-4f02-b474-e7ece4659852",
+    "reasons": [
+      "El candidato no cuenta con un título universitario afín a Recursos Humanos (EXCLUYENTE).",
+      "La experiencia laboral presentada no es en roles de Talent Acquisition o similares, sino en administración, ventas y banca, no cumpliendo el requisito de 5 años en roles similares.",
+      "El currículum no indica conocimiento de idioma inglés a nivel avanzado (EXCLUYENTE).",
+      "La experiencia del candidato no es en la industria de Oil & Gas.",
+      "La ubicación actual del candidato no es Neuquén Capital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "9d599ece-40c4-4831-b865-c94c796548a6",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (es Contador Público).",
+      "No cumple con el requisito de un mínimo de cinco años de experiencia en roles similares a Talent Acquisition Specialist. La experiencia presentada es en roles administrativos, bancarios y de ventas, no relacionados con adquisición de talento.",
+      "No cumple con el requisito excluyente de idioma inglés avanzado (solo menciona idioma español)."
+    ],
+    "score": 0
+  }
+]

@@ -2,3 +2,4 @@ python3 -m venv venv
 source venv/bin/activate
 pip install python-dotenv
 python3 -m modular_impl.scripts.main_script
+python3 -m modular_impl.scripts.run_quantity_tests <rubro>

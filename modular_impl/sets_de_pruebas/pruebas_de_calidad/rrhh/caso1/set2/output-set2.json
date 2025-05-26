@@ -1,0 +1,99 @@
+[
+  {
+    "participant_id": "12f1602b-f624-42f9-80c8-4129c75fb47b",
+    "reasons": [
+      "No cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares.",
+      "El objetivo del candidato indica que busca comenzar su desarrollo en el mercado laboral, confirmando la falta de la experiencia requerida.",
+      "Cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos.",
+      "Cumple con el requisito excluyente de idioma inglés avanzado."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "445b10d9-42b9-4254-9b5e-f3c6ebe5c299",
+    "reasons": [
+      "La candidata cumple con el requisito excluyente de poseer título universitario afín a Recursos Humanos (Licenciada en Administración de Recursos Humanos).",
+      "La candidata cumple con el requisito excluyente de poseer nivel de inglés avanzado.",
+      "La candidata no cumple con el requisito de contar con un mínimo de cinco años de experiencia en roles similares. El currículum y el objetivo indican que busca iniciarse en el mercado laboral del área de Recursos Humanos.",
+      "La candidata reside en Buenos Aires, mientras que el puesto requiere trabajo 100% presencial en Neuquén Capital, lo que representa una incompatibilidad geográfica significativa."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "d9dc8047-a7d4-4267-98ef-3f142a3e7d0a",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de poseer un mínimo de cinco años de experiencia en roles similares. El currículum no evidencia experiencia laboral.",
+      "La ubicación de residencia del candidato (Buenos Aires) no coincide con el lugar de trabajo especificado en la descripción del puesto (Neuquén Capital).",
+      "Aunque cumple con los requisitos de formación universitaria y dominio del idioma inglés, la falta de experiencia laboral relevante y la discrepancia geográfica son factores determinantes según los requisitos del puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "582e3406-812c-4af7-bbce-877f9d609673",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares, ya que su objetivo indica que busca comenzar a desarrollarse en el área.",
+      "El currículum no detalla experiencia laboral previa.",
+      "Aunque cumple con el requisito excluyente de idioma inglés avanzado y la educación universitaria afín.",
+      "La ubicación del candidato (Buenos Aires) no coincide con el lugar de trabajo requerido (Neuquén) para un puesto 100% presencial."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "d7c82bbe-5004-45f7-912c-6aba7c7e854b",
+    "reasons": [
+      "El candidato no cumple con el requisito de contar con un mínimo de cinco años de experiencia en roles similares. El currículum no presenta experiencia laboral previa.",
+      "Aunque cumple con los requisitos de educación universitaria afín a Recursos Humanos y nivel de inglés avanzado, la falta de experiencia laboral es un factor excluyente para este puesto que requiere un mínimo de 5 años."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "89296998-7846-45ce-a548-8eadfc8cbae7",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de tener un mínimo de cinco años de experiencia en roles similares.",
+      "Si bien cumple con los requisitos de formación universitaria afín a Recursos Humanos y dominio del idioma inglés avanzado, la falta de experiencia mínima requerida es un impedimento para el puesto.",
+      "El currículum no presenta experiencia laboral, lo cual no se alinea con la necesidad de experiencia en la industria de Oíl & Gas (requisito ideal)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "3f9174d7-9d1b-40b8-9387-443ecb75be4d",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares; por la edad y el objetivo declarado, parece ser un/a recién graduado/a.",
+      "Aunque cumple con el requisito excluyente de estar graduado/a de carrera universitaria afín (Licenciatura en Administración de Recursos Humanos).",
+      "Cumple con el requisito excluyente de idioma inglés avanzado.",
+      "No presenta experiencia laboral demostrable en las responsabilidades listadas para el puesto (publicación de vacantes, screening, selección, etc.)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "9655bb17-7c29-438e-bf7d-9cce96cfe68f",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de contar con un mínimo de cinco años de experiencia en roles similares.",
+      "El currículum no presenta experiencia laboral previa, lo cual contrasta con la experiencia mínima requerida.",
+      "El objetivo profesional del candidato indica que busca iniciarse en el mercado laboral, lo cual no se alinea con los años de experiencia solicitados para el puesto.",
+      "La ubicación actual del candidato (Buenos Aires) no coincide con el lugar de trabajo (Neuquén Capital) para una posición 100% presencial."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "49dcff39-8927-4ac3-8caf-37baa4292a2b",
+    "reasons": [
+      "Cumple con el requisito excluyente de ser graduado/a de carrera universitaria afín a Recursos Humanos (Licenciada en Administración de Recursos Humanos).",
+      "Cumple con el requisito excluyente de idioma inglés avanzado.",
+      "No cumple con el requisito de un mínimo de cinco años de experiencia en roles similares. El currículum no presenta experiencia laboral, y la edad y fechas de estudio sugieren que es un/a recién graduado/a.",
+      "No presenta experiencia en empresas de la industria de Oíl & Gas, que es ideal para el puesto.",
+      "La ubicación del candidato (Los Polvorines, Buenos Aires) no coincide con el lugar de trabajo requerido (Neuquén Capital)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "634e899e-2bc8-48c4-a36a-e8efdf59488d",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de un mínimo de cinco años de experiencia en roles similares. El currículum no lista experiencia laboral.",
+      "No cumple con el requisito de ubicación. La candidata reside en Buenos Aires, mientras que el puesto es 100% presencial en Neuquén Capital.",
+      "No presenta experiencia específica en las responsabilidades clave del rol de Talent Acquisition (publicación, screening, entrevistas, onboarding, etc.).",
+      "Aunque cumple con el requisito de título universitario afín (Licenciatura en Administración de Recursos Humanos) y el nivel de inglés avanzado, la falta de experiencia y la ubicación son incompatibles con los requisitos del puesto."
+    ],
+    "score": 5
+  }
+]

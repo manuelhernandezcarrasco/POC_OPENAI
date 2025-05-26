@@ -1,0 +1,109 @@
+[
+  {
+    "participant_id": "0d887fc4-e262-4231-8c80-58fa9eb1294e",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Software y busca una posición en la industria del software, lo cual no se alinea con el puesto de Analista de Compras.",
+      "No presenta experiencia mínima de 3 años en el área de Compras. La experiencia laboral listada es como Ayudante de Cátedra.",
+      "No demuestra experiencia en negociación con proveedores ni atención al cliente interno en el contexto de compras.",
+      "El manejo de Excel se indica como intermedio, no como 'muy buen manejo' según el requisito. No se menciona experiencia con SAP."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "9579b90d-dfbd-4a92-bef6-be467514a0b4",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Software, lo cual no se alinea con el área de Compras.",
+      "La experiencia laboral listada es como Ayudante de Cátedra, no en el área de Compras.",
+      "El candidato no cumple el requisito de 3 años de experiencia mínima en el área de Compras.",
+      "El manejo de Excel es 'Intermedio', no 'Muy bueno' como se requiere.",
+      "No se menciona experiencia con SAP (deseable).",
+      "No se menciona experiencia en negociación con proveedores ni atención al cliente interno en el contexto de Compras."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "1582a9ad-d958-4f86-9104-a640ec814047",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería de Software y sus experiencias laborales son como Ayudante de Cátedra, lo cual no se relaciona con el área de Compras.",
+      "No cumple con el requisito mínimo de 3 años de experiencia en el área de Compras.",
+      "No menciona experiencia en gestión de solicitudes de compras, generación de órdenes de compra, evaluación de proveedores, negociación, o generación de informes de gestión.",
+      "No demuestra el manejo requerido de Excel y SAP (menciona Microsoft Office intermedio, lo cual no es suficiente ni específico)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "723406a9-36d8-4fd7-ad99-7c7f773cddec",
+    "reasons": [
+      "El candidato es un estudiante de Ingeniería de Software, lo cual no se alinea con el puesto de Analista de Compras.",
+      "La experiencia laboral del candidato es como asistente de enseñanza, no en el área de Compras.",
+      "No cumple con el requisito de experiencia mínima de 3 años en el área de Compras.",
+      "No se menciona experiencia en gestión de compras, evaluación de proveedores, negociación, ni generación de órdenes/reportes relacionados con compras.",
+      "Las habilidades técnicas listadas son principalmente lenguajes de programación, no herramientas o software relevantes para el área de Compras (como SAP o manejo avanzado de Excel específico para la gestión de compras)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c44584de-6a45-44e1-bb97-df0c06943dee",
+    "reasons": [
+      "El candidato es un estudiante de Ingeniería en Software con experiencia como ayudante de cátedra, lo cual no se alinea con los requisitos de experiencia mínima de 3 años en el área de Compras.",
+      "No presenta experiencia relevante en la gestión de compras, evaluación de proveedores, negociación o atención al cliente interno, que son responsabilidades clave del puesto.",
+      "Las habilidades listadas son principalmente en programación y desarrollo de software, no directamente aplicables al rol de Analista de Compras.",
+      "Aunque el CV menciona 'Microsoft Office (Intermediate)', no se especifica un 'muy buen manejo de Excel' ni se menciona experiencia con SAP (deseable)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "bebf4322-cfa9-47d9-99ec-5010b76e88f8",
+    "reasons": [
+      "El candidato no cumple con el requisito mínimo de 3 años de experiencia en el área de Compras.",
+      "La experiencia laboral descrita (Ayudante de Cátedra) no es relevante para las responsabilidades de un Analista de Compras.",
+      "No presenta experiencia en negociación con proveedores ni atención al cliente interno en el contexto de compras.",
+      "Las habilidades listadas se centran en programación e ingeniería de software, no en herramientas o software específicos del área de compras como SAP (mencionado como deseable).",
+      "El perfil general y el objetivo profesional declarado del candidato se orientan a la industria del Software, que no se alinea con el puesto de Analista de Compras."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "e64fa41b-219b-4839-a025-a11a35a51abb",
+    "reasons": [
+      "El candidato no menciona tener experiencia en el área de Compras, siendo el requisito mínimo 3 años de experiencia.",
+      "La experiencia detallada en el currículum es en el área de Ingeniería de Software y Asistencia de Cátedra, la cual no se alinea con las responsabilidades de un Analista de Compras.",
+      "No se menciona experiencia en negociación con proveedores ni atención al cliente interno, requisitos clave para el puesto.",
+      "Aunque menciona Microsoft Office (Intermedio), no especifica un 'muy buen manejo de Excel' y no menciona experiencia con SAP (deseable)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "c11088e8-40be-458a-a792-baa3a26cfc67",
+    "reasons": [
+      "Does not meet the minimum requirement of 3 years of experience in the Purchasing area.",
+      "The candidate's background and experience are in Software Engineering and teaching assistant roles, which are not relevant to the Analista de Compras position.",
+      "Lack of demonstrated experience in key responsibilities outlined in the job description, such as managing purchase requests, generating purchase orders, evaluating suppliers, negotiation, and generating reports.",
+      "While Microsoft Office is mentioned at an intermediate level, specific required skills like 'very good Excel' and SAP are not clearly demonstrated or mentioned."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "9d3da7df-3b42-4b88-b2c9-e75001bc2035",
+    "reasons": [
+      "Lacks the minimum required 3 years of experience in the Purchasing area.",
+      "Experience listed (Teaching Assistant) is not relevant to the responsibilities of a Purchasing Analyst.",
+      "Does not demonstrate 'muy buen manejo de Excel', only lists 'Microsoft Office (Intermediate)'.",
+      "No mention of experience with SAP (desirable requirement).",
+      "No mention of experience in negotiation with suppliers or internal customer service in a purchasing context."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "451bd25d-d756-4e89-a086-37b277ca8901",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería de Software y su experiencia laboral es como Ayudante de Cátedra, lo cual no se alinea con el rol de Analista de Compras.",
+      "No cumple con el requisito mínimo de 3 años de experiencia en el área de Compras.",
+      "Las habilidades técnicas listadas son principalmente lenguajes de programación, irrelevantes para las tareas de compras.",
+      "Aunque lista Microsoft Office (Intermedio), no demuestra el 'muy buen manejo de Excel' requerido ni menciona experiencia con SAP (deseable).",
+      "No presenta experiencia en negociación con proveedores o atención al cliente interno en el contexto de compras, requisitos clave del puesto.",
+      "La industria de su experiencia (Educación/Ingeniería de Software) no es la de Compras/Procurement."
+    ],
+    "score": 0
+  }
+]

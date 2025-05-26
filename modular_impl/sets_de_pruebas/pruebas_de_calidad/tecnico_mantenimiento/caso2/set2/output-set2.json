@@ -94,5 +94,113 @@
       "Aunque su nivel de inglés es avanzado, la descripción del puesto requiere comprensión de documentación y videos técnicos en inglés, lo cual no queda explícito en su currículum."
     ],
     "score": 20
+  },
+  {
+    "participant_id": "cfeeeea4-ea57-4c42-9898-c573e0f26904",
+    "reasons": [
+      "El currículum de Martina Toledo indica formación en Licenciatura en Economía y experiencia laboral en áreas de Cuentas a Pagar, Análisis de Datos (con herramientas como Excel y SAP) y tareas administrativas, lo cual no se alinea con el requisito de ser estudiante de carreras universitarias como Sistemas, Informática o tener experiencia práctica equivalente en el campo técnico.",
+      "La experiencia laboral del candidato no es en empresas de Tecnología ni en roles relacionados específicamente con Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en el ámbito IT, como lo requiere la descripción del puesto.",
+      "El perfil profesional y la experiencia detallada no reflejan el 'marcado perfil técnico' necesario para trabajar en proyectos de migración, soporte y capacitación de plataformas de colaboración como Google Workspace.",
+      "Aunque el currículum menciona buen nivel de inglés y habilidades de análisis y trabajo en equipo, carece de evidencia de experiencia o conocimientos técnicos específicos relevantes para las tareas descritas en el puesto (soporte a usuarios de plataformas colaborativas, migración de datos, monitoreo, reporting técnico).",
+      "El candidato no pertenece a la industria requerida (Tecnología/IT), lo cual es un requisito fundamental."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "5e374068-2e0e-4b80-9d58-0d41391b9fc5",
+    "reasons": [
+      "La educación del candidato (Licenciatura en Economía) no se alinea con los campos requeridos (Sistemas, Informática) ni con una experiencia práctica equivalente en el ámbito técnico de TI.",
+      "La experiencia laboral principal no es en empresas de Tecnología ni en los roles preferidos como Soporte Técnico, Microinformática o Help Desk.",
+      "El perfil profesional y la experiencia descrita no demuestran un 'marcado perfil técnico' relevante para el soporte de plataformas colaborativas y migración.",
+      "No hay mención de experiencia directa con Google Workspace o herramientas de colaboración similares relevantes para las tareas del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "e7b9571c-9101-4f5e-adba-b98020aad627",
+    "reasons": [
+      "El currículum no demuestra experiencia relacionada en empresas de Tecnología en roles como Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en un contexto tecnológico, lo cual es un requisito clave.",
+      "La formación académica es en Economía, no en carreras universitarias como Sistemas o Informática, ni se evidencia experiencia práctica equivalente en el ámbito de TI.",
+      "La experiencia laboral previa (Mercedes-Benz, TRB Pharma, Consultorio Integral) es en industrias y roles (Finanzas, Asistente de Datos en farma, Secretaria Administrativa) que no se alinean con el requisito de experiencia en empresas de Tecnología enfocadas en servicios de TI/Nube.",
+      "No se menciona experiencia específica con la plataforma Google Workspace u otras herramientas colaborativas, ni con las tareas detalladas en la descripción del puesto (migraciones, capacitaciones a usuarios/administradores, reporting de adopción, guardias pasivas).",
+      "Aunque el nivel de inglés es adecuado, los requisitos técnicos y de experiencia en la industria son el principal factor de discordancia."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "8970679e-1af9-4bb7-9da8-c457bf0dae54",
+    "reasons": [
+      "La educación del candidato es en Economía, no en Sistemas, Informática o experiencia técnica equivalente como requiere el puesto.",
+      "La experiencia laboral del candidato no es en empresas de Tecnología, sino en sectores como Automotriz, Farmacéutico y Salud, lo cual no cumple con el requisito de experiencia en la industria correcta.",
+      "El candidato no demuestra experiencia específica en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente relacionada con IT, que son las áreas de experiencia preferidas por la descripción del puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "2ed1dce8-d092-4236-8289-31f5918dc20b",
+    "reasons": [
+      "El currículum no demuestra experiencia previa en empresas de Tecnología, como se requiere en la descripción del puesto.",
+      "La candidata no presenta experiencia relacionada en Soporte Técnico, Microinformática o Help Desk.",
+      "La formación académica de la candidata es en Economía, no en Sistemas, Informática o un campo técnico equivalente.",
+      "La experiencia práctica descrita en el currículum se centra en finanzas (Cuentas a Pagar) y administración, no en roles técnicos o de soporte de TI.",
+      "El currículum no evidencia habilidades o conocimientos técnicos específicos relacionados con plataformas colaborativas, migración de datos o soporte técnico de herramientas de software.",
+      "Aunque la candidata menciona atención al cliente, no queda claro si es en un contexto técnico de alta exposición.",
+      "Cumple con el requisito de buen nivel de inglés, pero los requisitos técnicos y de experiencia en el sector no se cumplen."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "065defbb-dfb1-450c-ab59-0cf82b18f4bc",
+    "reasons": [
+      "El perfil del candidato está enfocado en Economía, Finanzas y Administración, lo cual no se alinea con el 'marcado perfil técnico' requerido para Soporte Técnico.",
+      "La experiencia laboral es en Cuentas a Pagar, Asistente de Datos y Secretaria Administrativa, roles que no coinciden con la experiencia preferida en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente técnico.",
+      "La experiencia previa no es en 'empresas de Tecnología' como se solicita, sino en sectores como automotriz, farmacéutico y salud.",
+      "La formación académica es Licenciatura en Economía, no en carreras como Sistemas o Informática, y la experiencia práctica equivalente en áreas técnicas no se evidencia.",
+      "Aunque menciona buen nivel de inglés y habilidades como trabajo en equipo y pensamiento crítico, faltan evidencias de las habilidades blandas clave requeridas para el rol de soporte (paciencia, empatía, vocación de servicio enfocada en soporte técnico)."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "900e6555-61cc-41b4-8137-882da5eddf3e",
+    "reasons": [
+      "La candidata no cumple con el requisito de formación académica en Sistemas, Informática o experiencia práctica equivalente en el área técnica, siendo su formación en Economía.",
+      "La experiencia laboral es en roles de Cuentas a Pagar, Asistente de Datos y Secretaria Administrativa, no directamente relacionados con Soporte Técnico, Microinformática o Help Desk.",
+      "La experiencia laboral proviene de industrias (automotriz, farmacéutica, consultorio médico) que no son empresas de Tecnología, requisito preferente en la descripción del puesto.",
+      "Aunque posee buen nivel de inglés y habilidades de datos (Excel, Tableau), carece de la base técnica y experiencia específica en IT support dentro del sector tecnológico solicitada para el rol."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "6bea2b24-6d49-4860-9131-70fa340f670f",
+    "reasons": [
+      "La candidata tiene formación en Economía, no en Sistemas, Informática o área técnica equivalente como requiere el puesto.",
+      "La experiencia laboral es principalmente en áreas de Cuentas a Pagar, Asistencia de Datos y Secretariado Administrativo, no en Soporte Técnico, Microinformática o Help Desk como se prefiere.",
+      "La experiencia laboral no es en empresas de Tecnología, que es la industria del empleador y donde idealmente se busca experiencia relacionada.",
+      "El perfil e intereses declarados de la candidata se orientan al área económica y financiera, no a roles técnicos o de soporte de IT.",
+      "Aunque menciona atención al cliente en un puesto, la experiencia no se especifica en un contexto de soporte técnico o resolución de problemas de plataformas."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "2b231ff5-5984-4d7c-a450-18ac1d8dad43",
+    "reasons": [
+      "La educación del candidato es en Economía, lo cual no se alinea directamente con las carreras universitarias o experiencia práctica equivalente requeridas (Sistemas, Informática).",
+      "La experiencia laboral previa no es en empresas de Tecnología, requisito explícito de la descripción del puesto, sino en las industrias automotriz, farmacéutica y salud.",
+      "Los puestos anteriores (Cuentas a Pagar, Asistente de Datos, Secretaria Administrativa) no corresponden con la experiencia preferente solicitada (Soporte Técnico, Microinformática, Help Desk, Atención al Cliente en un contexto técnico).",
+      "El currículum no evidencia un 'marcado perfil técnico' ni experiencia en plataformas de colaboración, migración de datos, soporte IT especializado o capacitación técnica, que son fundamentales para el rol.",
+      "Aunque posee buen nivel de inglés y experiencia en atención al cliente general, carece de la experiencia técnica y de industria específica requerida para el puesto."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "b2f6fd1a-9cf9-4e93-86cf-ca9b72860685",
+    "reasons": [
+      "El currículum no demuestra experiencia relacionada en empresas de Tecnología, que es un requisito clave del puesto.",
+      "La experiencia laboral principal se centra en áreas de finanzas (Cuentas a Pagar) y administración, no en Soporte Técnico, Microinformática o Help Desk, como se especifica en los requisitos.",
+      "La educación de la candidata es en Economía, no en Sistemas o Informática, y la experiencia práctica no se considera equivalente a la formación técnica o experiencia requerida para este rol.",
+      "El perfil presentado no evidencia el 'marcado perfil técnico' necesario para la posición, enfocada en plataformas de colaboración y soporte técnico.",
+      "La experiencia no se alinea con las tareas específicas del puesto, como migración a Google Workspace, capacitaciones técnicas sobre la plataforma, o soporte técnico avanzado."
+    ],
+    "score": 5
   }
 ]

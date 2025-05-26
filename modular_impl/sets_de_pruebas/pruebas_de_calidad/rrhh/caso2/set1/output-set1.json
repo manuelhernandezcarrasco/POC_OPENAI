@@ -1,0 +1,112 @@
+[
+  {
+    "participant_id": "26476df2-4d57-43c0-ab9c-0775863e5325",
+    "reasons": [
+      "El candidato no está graduado de una carrera universitaria afín a Recursos Humanos, siendo este un requisito excluyente. Posee Licenciatura en Administración incompleta.",
+      "El candidato no cumple con el mínimo de cinco años de experiencia en roles similares a Talent Acquisition Specialist. Su experiencia se centra en roles contables, administrativos y de ventas.",
+      "El candidato no posee un nivel de inglés avanzado (declara nivel A2), siendo este un requisito excluyente.",
+      "La experiencia laboral del candidato no parece ser dentro de la industria de Oil & Gas, lo cual es un requisito según las instrucciones adicionales."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "8d0c3808-9a36-410e-a9b6-88df34b6a6db",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de estar graduado/a de una carrera universitaria.",
+      "La experiencia laboral presentada no corresponde a roles similares (Adquisición de Talento/Reclutamiento) a los solicitados en el puesto.",
+      "No se evidencia un mínimo de cinco años de experiencia en roles similares, como se requiere de forma excluyente.",
+      "El nivel de inglés (A2) no cumple con el requisito excluyente de idioma inglés avanzado.",
+      "La experiencia laboral no es en la industria de Oil & Gas, lo cual es una característica ideal para el puesto.",
+      "El perfil de experiencia del candidato se centra en áreas de Contabilidad, Administración y Ventas, no alineadas con las responsabilidades de Adquisición de Talento."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "6801e7cb-d3b1-4564-ada9-491e8b815cc8",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (indica 15/32 materias aprobadas en Licenciatura en Administración).",
+      "El candidato no cumple con el requisito excluyente de poseer idioma inglés avanzado (indica nivel A2).",
+      "El candidato no presenta experiencia previa en roles de Talent Acquisition o áreas de Recursos Humanos similares, no cumpliendo con el requisito de un mínimo de cinco años de experiencia en roles similares.",
+      "La experiencia laboral del candidato se centra en roles de Contabilidad, Administración y Ventas, no alineados con las responsabilidades del puesto de Talent Acquisition.",
+      "El candidato no indica experiencia previa en la industria de Oil & Gas, que es el sector donde opera la empresa contratante (aunque no es excluyente, era un factor ideal).",
+      "La ubicación del candidato (Pilar, Buenos Aires) difiere de la ubicación del puesto (Neuquén Capital, 100% presencial), lo cual representa una barrera práctica."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "9785d6b8-7070-41ac-acf8-376ec133efc7",
+    "reasons": [
+      "No tiene un título universitario completo ni afín a Recursos Humanos, lo cual es un requisito excluyente.",
+      "El nivel de inglés (A2) no cumple el requisito excluyente de inglés avanzado.",
+      "La experiencia profesional se centra en roles contables y administrativos/ventas, no en funciones de Talent Acquisition, reclutamiento o selección de personal como requiere el puesto.",
+      "La ubicación del candidato (Pilar, Buenos Aires) no coincide con el lugar de trabajo requerido (Neuquén Capital) para una posición 100% presencial.",
+      "No cuenta con la experiencia requerida en roles similares a los del puesto (Talent Acquisition)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "5bf88b71-ba16-40e5-b49e-82e5b883304f",
+    "reasons": [
+      "El candidato no está graduado de una carrera universitaria (tiene 15/32 materias aprobadas), lo cual es un requisito excluyente ('Estar graduado/a').",
+      "La experiencia laboral del candidato (contabilidad, administración, ventas, facturación) no es en roles similares a Adquisición de Talento o Recursos Humanos, ni cumple con el mínimo de cinco años requerido en dichos roles ('Un mínimo de cinco años de experiencia en roles similares').",
+      "El nivel de inglés del candidato es A2, cuando se requiere inglés avanzado (excluyente).",
+      "El candidato reside en Pilar, Buenos Aires, mientras que el puesto es 100% presencial en Neuquén Capital.",
+      "La experiencia funcional del candidato no se alinea con las responsabilidades de un/a Talent Acquisition Specialist (publicación, screening, entrevistas, etc.)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "1f620351-20eb-4e21-8040-25a7978cb17c",
+    "reasons": [
+      "El candidato no posee un título universitario finalizado en carreras afines a Recursos Humanos, requisito excluyente.",
+      "El candidato no acredita experiencia mínima de cinco años en roles similares a Talent Acquisition Specialist. Su experiencia se centra en administración, contabilidad y ventas, no en adquisición de talento.",
+      "El nivel de inglés del candidato (A2) no es avanzado, requisito excluyente.",
+      "El candidato no muestra experiencia previa en la industria de Oil & Gas, si bien no es excluyente, era deseable.",
+      "La ubicación del candidato (Pilar, Buenos Aires) no coincide con la del puesto (Neuquén Capital)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "d21a0bf2-3a75-492c-8d68-ec9c0dfc1655",
+    "reasons": [
+      "El candidato no se encuentra graduado de una carrera universitaria, habiendo completado solo 15 de 32 materias de la Licenciatura en Administración. La descripción del puesto exige ser graduado/a de carreras universitarias afines a Recursos Humanos (EXCLUYENTE).",
+      "La experiencia profesional del candidato (Analista de facturación, Administrativo de Ventas y Cobranzas, Analista contable, Administrativo de Ventas, Digital Sales Expert) no es en roles similares a Talent Acquisition Specialist (Publicación de vacantes, screening, selección, entrevistas, etc.), a pesar de cumplir con la cantidad de años de experiencia.",
+      "El nivel de inglés del candidato es A2 (Básico). La descripción del puesto requiere idioma inglés avanzado (EXCLUYENTE).",
+      "El candidato reside en Pilar, Buenos Aires. El puesto es 100% presencial en Neuquén Capital, lo que constituye un desajuste de ubicación significativo.",
+      "La experiencia laboral previa no es en empresas de la industria de Oil & Gas, aunque este requisito es ideal, no excluyente."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "d9fa07ff-f6f1-472b-8cff-5b9a11c46a81",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (CV indica Licenciatura en Administración incompleta).",
+      "El candidato no cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (Talent Acquisition). La experiencia mostrada es en áreas administrativas, contables y de ventas.",
+      "El candidato no cumple con el requisito excluyente de idioma inglés avanzado (CV indica nivel A2).",
+      "No se evidencia experiencia en la industria de Oil & Gas, que es ideal para el puesto.",
+      "El CV indica residencia en Pilar, Buenos Aires, mientras que la posición es 100% presencial en Neuquén Capital."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "f0caa25c-1421-4fed-9ede-cd2de02fa328",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos (Licenciatura en Administración incompleta con 15/32 materias aprobadas).",
+      "No cumple el requisito EXCLUYENTE de Idioma inglés avanzado (nivel indicado: A2).",
+      "No cuenta con la experiencia mínima de cinco años en roles similares (Talent Acquisition); su experiencia profesional se enfoca en Contabilidad, Administración de Ventas y Logística.",
+      "No demuestra experiencia previa en empresas de la industria de Oil & Gas (preferente).",
+      "El perfil general del candidato y sus habilidades no se alinean con las responsabilidades de un puesto de Talent Acquisition Specialist."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "505aa956-3f22-4893-9919-41953c57c04d",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (indica carrera incompleta en Administración).",
+      "No cumple con el requisito excluyente de poseer idioma inglés avanzado (indica nivel A2).",
+      "No cuenta con el mínimo de cinco años de experiencia requerida en roles similares a Talent Acquisition; la experiencia es en áreas de contabilidad, administración y ventas, no relacionadas con adquisición de talento.",
+      "La experiencia laboral no es en la industria de Oil & Gas, mencionada como ideal para el puesto."
+    ],
+    "score": 0
+  }
+]

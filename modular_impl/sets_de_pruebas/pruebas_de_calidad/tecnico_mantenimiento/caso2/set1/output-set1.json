@@ -92,5 +92,106 @@
       "No se menciona ninguna habilidad relevante para el puesto, como la administración de Google Workspace o la resolución de problemas técnicos."
     ],
     "score": 10
+  },
+  {
+    "participant_id": "adabec53-0cc9-4d1b-8c9f-e236ee80d397",
+    "reasons": [
+      "La formación académica actual (Dirección Cinematográfica) no se alinea con los requisitos de Estudiante de carreras universitarias tales como Sistemas, Informática, o bien experiencia práctica equivalente en esas áreas.",
+      "La experiencia laboral detallada en el currículum se centra en áreas artísticas (drama, cine, danza) y no en empresas de Tecnología, Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en el sector tecnológico, como requiere la descripción del puesto.",
+      "El currículum no demuestra un marcado perfil técnico ni experiencia relevante en la industria tecnológica, lo cual es un requisito fundamental del puesto.",
+      "Aunque se mencionan habilidades de comunicación e inglés, la falta de experiencia en el contexto tecnológico y de soporte al cliente dentro de esa industria reduce significativamente la adecuación del candidato para este rol."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "8ec3aef9-d084-4bd8-8403-cdb0ccfa3092",
+    "reasons": [
+      "El currículum no muestra experiencia en empresas de Tecnología o roles como Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en contexto tecnológico, que es un requisito clave del puesto.",
+      "La formación académica actual y la experiencia previa del candidato son en Dirección Cinematográfica y áreas artísticas (teatro, danza, cine), lo cual no se alinea con las carreras de Sistemas o Informática, ni demuestra experiencia práctica equivalente requerida por la descripción del puesto.",
+      "Aunque se mencionan habilidades de comunicación general y un buen nivel de inglés (hablar y escribir), el CV no evidencia la experiencia específica en comunicación técnica o la redacción/dicción requerida para un rol de soporte IT técnico.",
+      "No hay mención de experiencia o conocimiento en Google Workspace, migración de plataformas, capacitación técnica a usuarios IT, o soporte técnico de herramientas colaborativas, que son las tareas principales del rol.",
+      "La industria de experiencia del candidato (artes/cine) no coincide con la industria de tecnología/IT donde opera la empresa y se desempeña el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "0a67dc20-9721-47ff-942c-e0784b7ef0d1",
+    "reasons": [
+      "La formación académica del candidato (Dirección Cinematográfica) no coincide con los campos de estudio requeridos (Sistemas, Informática) ni con experiencia práctica equivalente en TI.",
+      "La experiencia profesional detallada se encuentra en el sector artístico (Drama, Cine, Danza) y no en empresas de tecnología ni en roles específicos de Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en el ámbito de TI, que son requisitos excluyentes.",
+      "Aunque se mencionan habilidades generales de comunicación e inglés (hablar/escribir), el currículum no presenta evidencia de experiencia técnica o de soporte en el contexto de la descripción del puesto (migración, soporte a usuarios de TI, plataformas de colaboración).",
+      "El perfil no demuestra experiencia directa en las tareas principales del rol, como atender solicitudes de soporte técnico en TI, realizar seguimiento de plataformas colaborativas o asistir en la implementación de servicios tecnológicos."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "9f40f7c8-1d43-4cee-a357-4a79ec6728cb",
+    "reasons": [
+      "La educación actual en Dirección Cinematográfica no se alinea con los requisitos de carreras universitarias en Sistemas, Informática o experiencia técnica equivalente.",
+      "La experiencia profesional y actividades listadas (teatro, cine, danza) no corresponden a la industria de Tecnología ni a roles como Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en dicho sector, como solicita la descripción.",
+      "Aunque se menciona 'buena comunicación' e 'Ingles (hablar y escribir)', no se demuestra específicamente la 'Excelente Redacción y Dicción' ni se especifica el nivel de inglés requerido para comprender documentos técnicos y videos (entrenamiento 100% en inglés).",
+      "Las habilidades blandas listadas en el CV no cubren ni demuestran las específicamente solicitadas en la descripción del puesto (ser autodidacta, rápida capacidad de aprendizaje, proactividad, autonomía en decisiones de alto impacto, motivación para trabajar fuera de la zona de confort), ni están contextualizadas en un entorno tecnológico."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "b196f7ec-31fb-4807-865c-0a7044390ffa",
+    "reasons": [
+      "El candidato no cumple con el requisito de estar estudiando carreras universitarias como Sistemas o Informática, ni demuestra experiencia práctica equivalente en un campo técnico relacionado.",
+      "No presenta experiencia laboral en empresas de Tecnología o roles afines como Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en un contexto técnico, ya que su experiencia se centra en el área artística.",
+      "El currículum no demuestra el \"marcado perfil técnico\" requerido por la descripción del puesto.",
+      "Aunque menciona habilidades de comunicación, carece de la base técnica y la experiencia en la industria específica (Tecnología, Soporte IT) que son fundamentales para el rol."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "221908eb-47d0-4df8-b95f-ae78171cee96",
+    "reasons": [
+      "La formación académica del candidato (Dirección Cinematográfica) no se alinea con los requisitos de carrera universitaria en Sistemas, Informática o experiencia práctica equivalente en tecnología.",
+      "El candidato no posee la experiencia requerida en empresas de Tecnología, Soporte Técnico, Microinformática, Help Desk o Atención al Cliente. Su experiencia se centra en artes y producción audiovisual.",
+      "El currículum no evidencia el perfil técnico ni las habilidades técnicas específicas necesarias para el puesto de Soporte Técnico.",
+      "Aunque menciona habilidades de comunicación y dominio del inglés, el candidato no cumple con los requisitos fundamentales de experiencia en la industria tecnológica y un background técnico relevante."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "92f21491-4773-4815-a4f0-38de8846b2f5",
+    "reasons": [
+      "La educación del candidato (Dirección Cinematográfica) no se alinea con los requisitos de carreras universitarias como Sistemas o Informática, ni presenta experiencia práctica equivalente en el área técnica.",
+      "La experiencia laboral del candidato se centra en las artes (teatro, cine, danza) y no en empresas de Tecnología o roles relacionados con Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en un contexto técnico.",
+      "El currículum no evidencia el 'marcado perfil técnico' solicitado en la descripción del puesto.",
+      "El candidato no pertenece a la industria de Tecnología, lo cual es un requisito fundamental según la instrucción de evaluación.",
+      "Aunque se mencionan habilidades blandas como comunicación y adaptabilidad, los requisitos técnicos y de experiencia en el sector tecnológico no se cumplen."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "ceba6562-25a9-4f4a-9f72-232598d42834",
+    "reasons": [
+      "El currículum no presenta formación académica en carreras universitarias como Sistemas, Informática o equivalentes, lo cual es un requisito del puesto.",
+      "La experiencia laboral detallada se enfoca en áreas artísticas (teatro, cine, danza), sin mostrar experiencia relacionada en empresas de Tecnología, Soporte Técnico, Microinformática, Help Desk o Atención al Cliente, como se requiere.",
+      "No hay evidencia de experiencia previa en el manejo o soporte de plataformas colaborativas o realización de tareas técnicas mencionadas en la descripción del puesto (migración, reportes, capacitación técnica).",
+      "Aunque se menciona buen inglés y habilidades de comunicación, la falta total de experiencia y formación en el sector tecnológico y en roles de soporte hace que el perfil no se ajuste a los requisitos principales del puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "81d9ba3a-fb3a-4402-8e62-4e52b2136faf",
+    "reasons": [
+      "El currículum no demuestra experiencia en empresas de Tecnología, lo cual es un requisito explícito en la descripción del puesto.",
+      "La experiencia laboral y educativa presentada (cine, teatro, artes) no está relacionada con Soporte Técnico, Microinformática, Help Desk, Atención al Cliente o áreas de Sistemas/Informática, que son los campos requeridos.",
+      "Aunque se menciona buena comunicación y manejo de inglés, la falta de experiencia relevante en el sector tecnológico y en funciones de soporte técnico impacta significativamente la adecuación al puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "3fc213b4-56e4-4de8-9cac-cf79e6b8a4b8",
+    "reasons": [
+      "El candidato no pertenece a la industria de Tecnología, requisito fundamental del puesto según las instrucciones.",
+      "Falta de educación relevante en carreras universitarias como Sistemas, Informática, o experiencia práctica equivalente.",
+      "Falta de experiencia relacionada en empresas de Tecnología, específicamente en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en un contexto de IT.",
+      "La experiencia y educación del candidato son predominantemente en el área de artes y entretenimiento, no alineadas con los requisitos técnicos del puesto."
+    ],
+    "score": 0
   }
 ]

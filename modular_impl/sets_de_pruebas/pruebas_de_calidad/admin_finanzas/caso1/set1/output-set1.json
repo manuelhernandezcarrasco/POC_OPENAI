@@ -1,0 +1,115 @@
+[
+  {
+    "participant_id": "4033e3e7-2a61-46ca-88e4-2900d865229a",
+    "reasons": [
+      "El candidato es evaluado como un \"perfil más junior\", lo cual no cumple con el requisito de experiencia de 5 a 8 años en roles financieros avanzados (Senior).",
+      "La experiencia mencionada (Analista de Cobranzas Ssr, facturación, admin) no demuestra claramente la experiencia requerida en análisis financiero avanzado, soporte estratégico, liderazgo de proyectos o supervisión de analistas, como exige un puesto Senior.",
+      "La Licenciatura en Administración de Empresas está en curso, no completada, mientras que el puesto requiere la titulación finalizada.",
+      "Aunque se menciona conocimiento de Excel avanzado y SAP, no se indica experiencia con sistemas de BI (Tableau, Power BI) mencionados en los requisitos técnicos."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "6773147c-e710-4ea5-b867-4b5e0913e77e",
+    "reasons": [
+      "El candidato Brian Vargas tiene experiencia en áreas afines (administración, finanzas, cobranzas, facturación) y conocimientos técnicos relevantes (SAP, Excel avanzado), que son requisitos clave del puesto.",
+      "El nivel de experiencia (Ssr / descrito como 'más junior') y la duración aparente de la misma no cumplen con el requisito de mínimo 5 a 8 años en roles financieros avanzados para una posición Senior.",
+      "El candidato no ha completado la educación formal requerida (Licenciatura en Finanzas, Contabilidad, Economía o campo relacionado), aunque está estudiando una carrera afín.",
+      "La experiencia descrita se centra más en operaciones financieras y administrativas (cobranzas, facturación, admin de ventas) y no demuestra explícitamente experiencia en modelado financiero avanzado, planificación/presupuestación estratégica a largo plazo, o liderazgo/supervisión de analistas, que son responsabilidades centrales del puesto.",
+      "El CV menciona dominio de SAP y Excel avanzado, pero no se menciona experiencia o conocimiento en sistemas de BI (e.g., Tableau, Power BI), los cuales son un requisito técnico específico."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "db881eaf-53c3-4170-95fd-b3cf3479c542",
+    "reasons": [
+      "La descripción del currículum indica que el candidato es un 'perfil más junior' y no cumple con el requisito fundamental de 5 a 8 años de experiencia en roles financieros avanzados.",
+      "No se especifica si el candidato ha completado la Licenciatura requerida (Finanzas, Contabilidad, Economía, etc.); menciona que estaba estudiando Administración de Empresas y decidió retomar los estudios.",
+      "La experiencia detallada se centra en roles de cobranzas y facturación (nivel Ssr o inferior según la descripción), lo cual no se alinea con las responsabilidades avanzadas de análisis financiero, modelado estratégico, planificación a largo plazo y liderazgo de proyectos/supervisión de un Analista de Finanzas Senior.",
+      "Aunque menciona conocimiento en Excel y SAP, no se especifica si es a nivel 'avanzado' para las exigencias del puesto (modelado complejo) y no se menciona experiencia con sistemas de BI.",
+      "Las habilidades clave para un rol Senior como capacidad analítica avanzada para decisiones estratégicas, comunicación para alta dirección y atención al detalle, no se demuestran explícitamente en la descripción proporcionada del candidato."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "d32b3521-14ec-496a-8ba8-da1270bea37a",
+    "reasons": [
+      "La experiencia indicada es de nivel Semi Senior / Junior ('Analista de Cobranzas Ssr', 'perfil más junior'), no cumpliendo el requisito de 5 a 8 años en roles financieros avanzados.",
+      "El tipo de experiencia mencionada (principalmente Cobranzas, Facturación, Administración) no se alinea completamente con las responsabilidades clave de un Analista de Finanzas Senior (modelado financiero avanzado, presupuestación, análisis estratégico para alta dirección, liderazgo de proyectos, supervisión).",
+      "El candidato está actualmente estudiando y no ha completado la Licenciatura requerida ('estaba estudiando administración de empresas, la cual tuvo que dejar para viajar y ahora decidió retomar'), mientras que el puesto exige una Licenciatura finalizada.",
+      "No se menciona experiencia liderando proyectos o supervisando personal, que son responsabilidades clave del puesto Senior.",
+      "No se menciona dominio de sistemas de BI (como Tableau o Power BI), aunque sí de Excel y SAP.",
+      "Falta evidencia clara sobre habilidades analíticas complejas y habilidades de comunicación verbal y escrita para presentar información financiera a alta dirección, como requiere el puesto."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "3f164470-6452-4186-bdb4-a23807e293cd",
+    "reasons": [
+      "El perfil del candidato es descrito explícitamente como 'más junior', lo cual no se alinea con el requisito de 5 a 8 años de experiencia en roles financieros avanzados para una posición Senior.",
+      "El candidato se encuentra actualmente estudiando y no ha completado la licenciatura requerida en Finanzas, Contabilidad, Economía o campo relacionado.",
+      "La experiencia mencionada (Analista de Cobranzas Ssr, Facturación, Sales Admin) parece estar más enfocada en tareas operativas/transaccionales dentro del área administrativa/financiera, en lugar del análisis financiero avanzado, modelado, presupuestación estratégica, y reporte a alta dirección que requiere el puesto Senior.",
+      "Aunque se menciona conocimiento en SAP y Excel avanzado, no se especifica experiencia con sistemas de BI (Tableau, Power BI) que son requeridos.",
+      "No hay evidencia en el resumen proporcionado de experiencia en el liderazgo de proyectos financieros, supervisión de personal junior, o en la realización de modelado financiero avanzado y análisis de variaciones a un nivel estratégico, que son responsabilidades clave del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "b2ee2791-69bc-4044-86f2-536bd7be419e",
+    "reasons": [
+      "El candidato se identifica como Analista de Cobranzas Ssr, no como Analista de Finanzas Senior.",
+      "No cumple con el requisito mínimo de 5 a 8 años de experiencia en roles financieros avanzados; su experiencia parece más operativa y de nivel Ssr/Junior.",
+      "La educación es una Licenciatura en curso, no completada, lo cual no cumple el requisito.",
+      "La experiencia descrita se centra principalmente en Cobranzas y Facturación, no en las responsabilidades clave del puesto como análisis financiero detallado, modelado avanzado, presupuestación estratégica y reportes para alta dirección.",
+      "No se menciona experiencia con sistemas de BI (Tableau, Power BI), requisito técnico del puesto.",
+      "No hay evidencia en el texto de experiencia en liderazgo de proyectos o supervisión de analistas junior/semi senior.",
+      "El perfil del candidato es explícitamente descrito como 'más junior'.",
+      "El candidato expresa interés en retomar el área de Cobranzas, la cual no es el enfoque principal de este puesto Senior."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "6bb6536d-e63b-4930-af4e-9c3504909700",
+    "reasons": [
+      "La experiencia del candidato (Analista de Cobranzas Ssr, perfil 'más junior' según la evaluación) no cumple el requisito de 5-8 años en roles financieros avanzados y de nivel Senior.",
+      "El candidato está actualmente estudiando y no posee la Licenciatura completa requerida.",
+      "No se menciona experiencia o dominio de sistemas de BI (Tableau, Power BI), requeridos en las habilidades técnicas.",
+      "Las responsabilidades descritas en el currículum (cobranzas, facturación, admin) no demuestran experiencia directa en las funciones de nivel Senior del puesto (liderar proyectos, supervisar, modelado financiero avanzado, análisis estratégico)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "891b85b3-a296-4006-8662-9bcc1f948d6c",
+    "reasons": [
+      "El candidato está posicionado como 'Analista de Cobranzas Ssr' y se describe como 'más junior', lo cual no coincide con el nivel 'Senior' requerido.",
+      "No cumple con el requisito de educación mínima (Licenciatura finalizada) ni el nivel de experiencia de 5 a 8 años en roles financieros avanzados.",
+      "Su experiencia previa parece estar más centrada en Cobranzas y Facturación, no en el análisis financiero avanzado y modelado estratégico descrito en el puesto Senior.",
+      "Aunque menciona conocimiento de Excel y SAP, no se especifica experiencia con sistemas de BI (Tableau, Power BI) como se requiere.",
+      "La motivación del candidato expresada es retomar el sector de Cobranzas, lo cual difiere de las responsabilidades de Analista de Finanzas Senior.",
+      "Puntos positivos: Conocimiento de Excel y SAP, reside en la zona de Pilar, y se menciona su capacidad para trabajar en equipo."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "4149da31-9eb5-42c4-a01d-ab82d9c23727",
+    "reasons": [
+      "No cumple con el requisito mínimo de experiencia (5-8 años en roles financieros avanzados), el candidato es de nivel Ssr/junior según la descripción.",
+      "No cumple con el requisito de educación (Licenciatura no completada), ya que aún está estudiando.",
+      "La experiencia principal se centra en cobranzas y facturación, no en las responsabilidades clave de un Analista Financiero Senior como modelado avanzado, planificación estratégica y supervisión.",
+      "Aunque domina SAP y Excel avanzado, no se menciona experiencia con sistemas de BI (Tableau, Power BI), requisito técnico del puesto.",
+      "El perfil general del candidato se alinea más a un nivel junior/Ssr, no al nivel Senior requerido por la posición."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "006d7811-feb6-4a90-b5c4-a5d75984ae52",
+    "reasons": [
+      "El perfil es descrito como \"más junior\" y \"Ssr\", lo cual no cumple el requisito de 5 a 8 años de experiencia en roles financieros avanzados para una posición Senior.",
+      "El candidato aún está estudiando la licenciatura y no ha completado los estudios universitarios requeridos (Licenciatura en Finanzas, Contabilidad, Economía o campo relacionado).",
+      "Aunque tiene conocimientos de SAP y Excel, no se especifica el dominio de Excel Avanzado o la experiencia con sistemas de BI (Tableau, Power BI) según se requiere.",
+      "La experiencia mencionada se centra más en cobranzas, facturación y administración de ventas, no específicamente en análisis financiero avanzado, modelado, planificación estratégica y reporting para alta dirección como exige el puesto.",
+      "No se mencionan explícitamente las habilidades de comunicación para presentar información financiera compleja a la alta dirección."
+    ],
+    "score": 25
+  }
+]

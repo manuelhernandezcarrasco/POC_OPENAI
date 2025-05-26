@@ -107,5 +107,119 @@
       "Falta información sobre el nivel de inglés del candidato, un requisito importante para el puesto."
     ],
     "score": 20
+  },
+  {
+    "participant_id": "9f395ab2-edf3-41a2-b6bc-986b3754aa2b",
+    "reasons": [
+      "El candidato tiene experiencia en empresas de tecnología (HP, Cablevision), cumpliendo el requisito de industria.",
+      "Demuestra un sólido perfil técnico, aunque principalmente enfocado en áreas de electromecánica, mantenimiento industrial, hardware y redes, que no se alinea directamente con el soporte de plataformas de colaboración (Google Workspace).",
+      "No se menciona experiencia previa específica con Google Workspace o herramientas de colaboración similares.",
+      "La experiencia en soporte técnico o atención al cliente en el ámbito de TI, como se describe en el puesto, no es claramente evidente en el CV.",
+      "No se proporciona información sobre el nivel de inglés, un requisito clave para el entrenamiento y la lectura de documentación técnica.",
+      "Menciona poseer 'Excelente Redacción y Dicción', lo cual está alineado con uno de los requisitos del puesto."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "0a88be95-a1d6-4cb3-b969-0a0e1d89693a",
+    "reasons": [
+      "La mayor parte de la experiencia laboral del candidato (8 años en INC SA - Carrefour) se centra en mantenimiento industrial y civil, lo cual no se alinea directamente con el requisito de experiencia en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en empresas de Tecnología.",
+      "El currículum no especifica el nivel de inglés del candidato, siendo este un requisito clave ya que el entrenamiento es 100% en dicho idioma.",
+      "No se menciona experiencia previa con Google Workspace o plataformas de colaboración similares, que son el foco principal del puesto.",
+      "La formación educativa es técnica (electromecánica y electricidad), no directamente en carreras universitarias de Sistemas o Informática como se prefiere, aunque se considera experiencia práctica equivalente.",
+      "Aunque cuenta con experiencia temprana en áreas relacionadas (HP, Cablevision), la experiencia más extensa y reciente no demuestra el perfil técnico ni la exposición continua a clientes en el ámbito del soporte de TI y herramientas de colaboración requeridos por el puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "9f6acb4a-ca08-4aa5-a816-c857e6fde22b",
+    "reasons": [
+      "La experiencia técnica principal del candidato se enfoca en mantenimiento industrial, eléctrico y edilicio, lo cual no se alinea directamente con el soporte técnico especializado en plataformas IT y de colaboración como Google Workspace requerido para el puesto.",
+      "Aunque el candidato trabajó previamente en empresas de Tecnología (HP, Cablevision), esta experiencia no es reciente (anterior a 2008) y los roles desempeñados (Supervisor Técnico, Instalador) no parecen cubrir en profundidad la experiencia específica en Soporte Técnico Help Desk o Microinformática que busca la descripción.",
+      "No se menciona experiencia específica con Google Workspace ni con plataformas de colaboración similares (ej. Microsoft 365), que son el foco principal del rol de Technical Support Manager.",
+      "El currículum no proporciona información sobre el nivel de inglés del candidato, lo cual es un requisito clave ya que el entrenamiento es 100% en dicho idioma.",
+      "No se evidencian en el currículum las habilidades blandas requeridas para el rol con alta exposición a clientes, tales como paciencia, empatía, vocación de servicio y excelentes habilidades de comunicación (redacción y dicción).",
+      "La formación académica no corresponde a un título universitario en Sistemas o Informática, y la experiencia práctica detallada (mantenimiento industrial) no parece constituir una experiencia equivalente relevante para un puesto de soporte técnico IT/Cloud."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "ae69c6e3-e44d-407d-825d-49827347dc6e",
+    "reasons": [
+      "La experiencia principal del candidato se centra en mantenimiento industrial y sistemas eléctricos, lo cual no se alinea directamente con el soporte de TI y plataformas de colaboración como Google Workspace.",
+      "Falta de experiencia reciente y específica en roles de Soporte Técnico, Microinformática o Help Desk dentro de la industria de tecnología. La experiencia más relevante en este ámbito (HP) es de 2007.",
+      "El currículum no especifica el nivel de inglés, un requisito clave ya que el entrenamiento para las certificaciones es 100% en dicho idioma.",
+      "No se menciona experiencia previa o conocimiento sobre Google Workspace o herramientas de colaboración similares.",
+      "Aunque tiene experiencia en roles técnicos y de supervisión que implican cierta organización y gestión, el CV no detalla o resalta habilidades específicas de atención al cliente, paciencia, empatía o comunicación efectiva requeridas para el rol de soporte con alta exposición a clientes."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "5965edbb-0e4f-48ba-a422-bd0245882bdb",
+    "reasons": [
+      "El candidato posee un perfil técnico marcado y experiencia en empresas de tecnología como HP, lo cual es positivo.",
+      "Se menciona experiencia relacionada con infraestructura de TI (redes, servidores, cableado) en roles anteriores.",
+      "La mayor parte de la experiencia laboral detallada se centra en mantenimiento industrial y de instalaciones, lo cual no se alinea directamente con las áreas preferidas de Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en el ámbito de TI de software y plataformas.",
+      "La formación académica es técnica (Técnico Electromecánico, Electricista Matriculado) pero no es un título universitario en Sistemas/Informática o experiencia práctica equivalente directamente relevante para el soporte de plataformas colaborativas.",
+      "El nivel de inglés del candidato, un requisito crítico para el puesto (la capacitación es 100% en inglés), no se especifica en el currículum.",
+      "No se presenta experiencia explícita relacionada con el soporte, implementación, capacitación o reporte sobre plataformas de colaboración como Google Workspace, o con proyectos de migración de datos de este tipo."
+    ],
+    "score": 35
+  },
+  {
+    "participant_id": "40007bfd-6e68-406d-b0b1-85936ff5e63c",
+    "reasons": [
+      "La experiencia profesional principal del candidato se centra en mantenimiento industrial y civil, lo cual no se alinea con la experiencia requerida en empresas de Tecnología, específicamente en Soporte Técnico, Microinformática, Help Desk o Atención al Cliente en un contexto de TI.",
+      "El currículum no muestra experiencia o educación en Sistemas, Informática, o experiencia práctica equivalente relevante para soporte de TI o plataformas de colaboración en la nube como Google Workspace.",
+      "No se proporciona información en el currículum sobre el nivel de inglés del candidato, lo cual es un requisito mencionado para la comprensión de materiales de capacitación y el entrenamiento 100% en dicho idioma.",
+      "El currículum no ofrece evidencia explícita de las habilidades blandas requeridas (excelente comunicación para la interacción con clientes, proactividad, autodidacta, aprendizaje rápido) relevantes para el rol y el aprendizaje de las tecnologías específicas de la descripción del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "1ac2af17-946a-4569-8c6e-00d92f6f1a14",
+    "reasons": [
+      "La experiencia laboral más extensa (2008-2016) se centra en mantenimiento industrial y civil, sistemas eléctricos y edilicios, lo cual no se alinea directamente con las tareas y requisitos del puesto de soporte técnico de plataformas colaborativas.",
+      "No se menciona experiencia específica en soporte técnico de TI (Help Desk, Microinformática) ni en plataformas de colaboración como Google Workspace o similares, que son centrales para el rol.",
+      "El currículum no detalla experiencia en capacitación a usuarios sobre herramientas de software, programas de adopción de plataformas o asistencia en migración de datos para soluciones colaborativas, tareas clave descritas en el puesto.",
+      "No se especifica el nivel de inglés del candidato, un requisito fundamental ya que el entrenamiento para las certificaciones es 100% en dicho idioma.",
+      "Aunque el candidato tiene un perfil técnico, su especialización principal no coincide con las tecnologías y el tipo de soporte (software/cloud) requerido por la posición.",
+      "La experiencia relacionada con Hardware, Software, Redes y Servidores en HP es de 2007, siendo considerablemente antigua en el contexto de la tecnología de TI actual."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "615f598a-eab3-4380-8a68-de4bd7d003e0",
+    "reasons": [
+      "El currículum no muestra experiencia específica con Google Workspace o plataformas de colaboración similares, que son el foco principal del puesto.",
+      "La experiencia principal del candidato es en mantenimiento industrial y eléctrico, no en Soporte Técnico de IT, Microinformática o Help Desk, como se prefiere explícitamente en la descripción del puesto.",
+      "No se evidencia experiencia en soporte técnico directo a clientes de IT, capacitación a usuarios sobre herramientas colaborativas o planes de adopción/migración de plataformas.",
+      "El nivel de inglés, que es un requisito clave debido a que el entrenamiento es 100% en dicho idioma, no se menciona en el currículum.",
+      "Las habilidades blandas requeridas (paciencia, empatía, vocación de servicio, comunicación, resolución de problemas orientada a la satisfacción del usuario) y los rasgos de personalidad (autodidacta, rápido aprendizaje, proactividad, autonomía) no son demostrados o mencionados en el CV, salvo la redacción y dicción que no pueden ser evaluadas solo con el texto."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "e6e7f633-5481-4396-8cd8-3ce81c0fcbcd",
+    "reasons": [
+      "La experiencia laboral del candidato se centra principalmente en mantenimiento industrial y eléctrico, lo cual no se alinea directamente con el soporte técnico de plataformas colaborativas o cloud.",
+      "Si bien menciona experiencia en Hewlett-Packard como Supervisor Técnico con conocimientos en Hardware, Software, Redes y Servidores (relevante para empresas de Tecnología), la duración de este rol no está clara y el grueso de su experiencia (Carrefour) es en un rubro y rol diferente al de soporte IT.",
+      "La experiencia en 'Soporte Técnico, Microinformática, Help Desk, Atención al Cliente' en un contexto de IT o software es limitada o no es el foco principal de su currículum.",
+      "El currículum no demuestra experiencia en las tareas específicas del puesto, como migración de plataformas de colaboración (Google Workspace), capacitación a usuarios/administradores de software, elaboración de reportes de uso de herramientas, o manejo de solicitudes de soporte técnico de software/cloud.",
+      "La educación formal es de Técnico Electromecánico y certificaciones de Electricista, lo cual no se ajusta a los requisitos de estudiante de carreras universitarias como Sistemas/Informática, y la experiencia práctica equivalente presentada no es en el dominio relevante (IT/Cloud).",
+      "No se menciona el nivel de inglés del candidato, lo cual es un requisito clave ya que el entrenamiento es 100% en dicho idioma."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "f1d042c5-aa59-4b9d-9c7e-a3ccea56e77e",
+    "reasons": [
+      "La mayor parte de la experiencia laboral listada (Carrefour 2008-2016) es en mantenimiento industrial y civil, que no se alinea con el tipo de experiencia requerida (Soporte Técnico, Microinformática, Help Desk en empresas de Tecnología).",
+      "La experiencia en empresas de tecnología (HP, Cablevision) es muy antigua (2005-2007) y no cubre la duración o profundidad de la experiencia requerida en Soporte Técnico.",
+      "El currículum no menciona experiencia específica en soporte a usuarios finales de plataformas de software o colaboración (como Google Workspace), ni en migración de datos, ni en capacitación sobre herramientas tecnológicas a usuarios/administradores, que son tareas clave del puesto.",
+      "No se menciona el nivel de inglés, que es un requisito fundamental para el entrenamiento del puesto.",
+      "La formación académica es de Técnico Electromecánico y cursos de Electricidad, no es estudiante universitario de Sistemas/Informática ni demuestra experiencia práctica equivalente en el área específica de TI y soporte requerida."
+    ],
+    "score": 25
   }
 ]

@@ -1,0 +1,111 @@
+[
+  {
+    "participant_id": "132966e1-8bfa-4f6a-b920-7940a38bca4a",
+    "score": 15,
+    "reasons": [
+      "La duración y el nivel de experiencia son significativamente inferiores a los 5-8 años requeridos en roles financieros avanzados. Las responsabilidades descritas corresponden más a tareas de contabilidad operativa/cuentas a cobrar de nivel junior/semi-senior, no a análisis financiero senior, modelado y soporte estratégico.",
+      "El requisito educativo de Licenciatura completada no se cumple (se encuentra cursando una Tecnicatura Universitaria).",
+      "Las habilidades técnicas requeridas (Excel avanzado para modelado, sistemas BI como Tableau/Power BI) no se demuestran completamente. Si bien menciona SAP y Excel (con curso avanzado), la experiencia descrita no valida el uso de Excel para modelado o análisis estratégico complejo, y no menciona herramientas de BI.",
+      "La experiencia laboral proviene de industrias (Cerámica, Soluciones Alimentarias) que no son típicamente 'acordes' o directamente relevantes para el sector educativo/universitario, un criterio destacado en la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "ee3236c5-28fa-4884-a50e-0dfd30d5e833",
+    "score": 35,
+    "reasons": [
+      "La formación académica (Lic. en Marketing) no se alinea con los requisitos de Finanzas, Contabilidad, Economía o campo relacionado.",
+      "La experiencia principal (Créditos y Cobranzas, Proyectos/Licitaciones, supervisión financiera) no se enfoca directamente en las tareas clave del puesto como análisis financiero, modelado avanzado, presupuestación estratégica y análisis de variaciones.",
+      "El currículum no menciona experiencia con SAP ERP ni sistemas de BI (como Tableau o Power BI), herramientas requeridas según la descripción del puesto.",
+      "No presenta experiencia previa en el sector educativo o sin fines de lucro, industria acorde a la posición ofrecida en una universidad, lo cual es un criterio importante para la evaluación.",
+      "Aunque posee experiencia como \"Analista senior\" por 5 años, el tipo de responsabilidades desempeñadas en ese rol difiere significativamente de las requeridas para un Analista de Finanzas Senior en esta posición."
+    ]
+  },
+  {
+    "participant_id": "67453003-3b22-4384-a650-b619bf399b65",
+    "score": 35,
+    "reasons": [
+      "El candidato no presenta experiencia laboral previa en la industria de la educación o en una universidad, lo cual es un factor clave y explícitamente solicitado destacar para este puesto.",
+      "No se menciona experiencia o conocimiento en herramientas técnicas fundamentales para el puesto como SAP ERP y sistemas de BI (Tableau, Power BI).",
+      "El nivel de dominio de Excel indicado es intermedio, mientras que el puesto requiere dominio avanzado.",
+      "Aunque el total de años de experiencia laboral supera los 5 años, la experiencia específica en roles definidos como 'financieros avanzados' que involucren análisis estratégico y modelado avanzado, puede ser menor al rango superior requerido (8 años), con roles previos en áreas como crédito/cobranzas o liquidación de sueldos.",
+      "Se reconoce la experiencia reciente en roles de supervisión y análisis financiero/administrativo que abarcan algunas de las responsabilidades del puesto, como análisis de costos, facturación, reportes y apoyo a presupuesto."
+    ]
+  },
+  {
+    "participant_id": "6ee5f0ef-9e50-4b87-bf17-69f5508880a8",
+    "score": 5,
+    "reasons": [
+      "El candidato no cumple con el requisito fundamental de educación, ya que la licenciatura está incompleta.",
+      "La experiencia, aunque suma alrededor de 7 años, es mayormente en roles de Contabilidad, Facturación y Administrativo, no demostrando 5 a 8 años de experiencia en roles financieros avanzados, modelado, presupuestación y análisis estratégico para la alta dirección, como requiere el puesto Senior.",
+      "No se menciona experiencia liderando proyectos o supervisando analistas junior/semi senior.",
+      "La experiencia en la industria de Educación/Universidad es muy limitada (9 meses como Administrativo de Ventas en un 'College'), y no en un rol financiero relevante, lo cual es un criterio clave para esta posición.",
+      "Aunque tiene experiencia con SAP, no demuestra dominio de Excel avanzado ni experiencia específica con herramientas de BI como Tableau o Power BI.",
+      "Las habilidades y competencias listadas se orientan más a la contabilidad básica, facturación y funciones administrativas/de ventas que al análisis financiero estratégico de alto nivel."
+    ]
+  },
+  {
+    "participant_id": "5c0249c4-e802-4a01-96ac-4495ad60a4dd",
+    "score": 35,
+    "reasons": [
+      "La experiencia del candidato se centra en la industria financiera (JP Morgan), específicamente en análisis de margen y regulación dentro de banca de inversión/brokerage, lo cual difiere significativamente del contexto de finanzas en una institución educativa como una universidad. La descripción del puesto está en el área central de Administración y Finanzas de la Universidad Austral.",
+      "El candidato cuenta con aproximadamente 3 años de experiencia profesional en roles relevantes (excluyendo la pasantía inicial), lo cual está por debajo del requisito mínimo de 5 a 8 años para una posición Senior.",
+      "Cumple ampliamente con el requisito educativo, poseyendo Licenciatura en Economía y Maestría en Finanzas, además de certificaciones CFA.",
+      "Posee habilidades técnicas relevantes en herramientas de análisis (Excel avanzado, Tableau) y capacidades analíticas demostradas, que son requisitos clave para la posición.",
+      "La falta de experiencia directa en la industria educativa o en organizaciones con estructuras financieras similares a una universidad representa una desviación importante respecto al criterio de pertenencia/experiencia en industria acorde, solicitado explícitamente para la evaluación."
+    ]
+  },
+  {
+    "participant_id": "540c4378-e50e-414d-94ed-bdd233cb48fe",
+    "score": 5,
+    "reasons": [
+      "La educación del candidato es en Diseño Gráfico, no en Finanzas, Contabilidad o Economía, que son requisitos fundamentales del puesto.",
+      "La experiencia laboral del candidato es exclusivamente en roles de Diseño Gráfico y Marketing Digital, sin experiencia relevante en análisis financiero o áreas afines.",
+      "El candidato no demuestra experiencia en las responsabilidades clave del puesto, como análisis financiero, modelado, presupuestación o reportes financieros.",
+      "El candidato no menciona dominio de herramientas financieras clave como Excel avanzado, SAP o sistemas de BI (Tableau, Power BI), las herramientas listadas son de diseño y web.",
+      "El candidato no posee experiencia en la industria financiera o un sector directamente relacionado con el puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "f47c81bf-f95f-4e63-be03-0185591eb1db",
+    "score": 5,
+    "reasons": [
+      "La educación del candidato es en Diseño Gráfico, no en Finanzas, Contabilidad, Economía o campo relacionado como requiere el puesto.",
+      "La experiencia laboral del candidato es exclusivamente en roles de Diseño Gráfico y Estrategia Digital, sin experiencia demostrada en análisis financiero o roles de finanzas.",
+      "El candidato no menciona dominio de herramientas financieras clave como Excel avanzado, ERP SAP o sistemas de BI, que son requisitos técnicos del puesto.",
+      "La experiencia y habilidades demostradas por el candidato no se alinean con las responsabilidades clave de un Analista de Finanzas Senior (modelado financiero, presupuestación, reportes financieros, análisis de variaciones).",
+      "La industria y el tipo de roles en los que ha trabajado el candidato (diseño, marketing, agencias) no se consideran acordes a la posición de Analista de Finanzas en una institución, lo cual es un criterio clave de evaluación."
+    ]
+  },
+  {
+    "participant_id": "bdd444c3-9a73-4a3d-a7bb-6c17d5c738a5",
+    "score": 0,
+    "reasons": [
+      "La educación del candidato es en Diseño Gráfico y Packaging, lo cual no se alinea con el requisito de Licenciatura en Finanzas, Contabilidad, Economía o campo relacionado para un Analista de Finanzas Senior.",
+      "La experiencia profesional del candidato es como Diseñadora Multimedia y Diseñadora Freelance, no en roles financieros avanzados como requiere la posición (mínimo 5 a 8 años en finanzas).",
+      "Las habilidades técnicas listadas (Figma, Illustrator, Photoshop, etc.) corresponden a herramientas de diseño y multimedia, no a software de análisis financiero y planificación como Excel avanzado, SAP o sistemas de BI aplicados a finanzas (a pesar de mencionar Power BI, es en el contexto de diseño de dashboards).",
+      "El candidato no demuestra experiencia ni conocimientos en las responsabilidades clave de un Analista de Finanzas Senior, como modelado financiero, presupuestación, reportes financieros o análisis de variaciones.",
+      "Basándonos en el criterio destacado, la experiencia del candidato se centra completamente en la industria del diseño y multimedia, la cual no es acorde a una posición de Finanzas en una institución educativa. No posee experiencia relevante en finanzas ni en la industria donde se ubica el puesto."
+    ]
+  },
+  {
+    "participant_id": "752f90ff-0518-43e0-a4fe-ce3b11b23e74",
+    "score": 5,
+    "reasons": [
+      "El candidato tiene experiencia en la industria/área de Diseño Gráfico y Marketing Digital, la cual no es acorde a la posición de Analista de Finanzas Senior.",
+      "La formación académica del candidato es en Diseño Gráfico, no en Finanzas, Contabilidad o Economía como requiere el puesto.",
+      "La experiencia laboral descrita es enteramente en roles de diseño gráfico y estrategia digital, sin experiencia en análisis financiero o administración.",
+      "No se mencionan conocimientos o experiencia con las herramientas financieras requeridas (Excel avanzado, SAP, sistemas BI).",
+      "Aunque tiene más de 4 años de experiencia laboral, esta no es en roles financieros avanzados como se solicita (mínimo 5-8 años)."
+    ]
+  },
+  {
+    "participant_id": "fc03556b-c2a2-464b-8441-ce96240338d1",
+    "score": 5,
+    "reasons": [
+      "La formación académica del candidato (Licenciatura en Arte Multimedial, cursos en Diseño, Programación, Marketing) no se alinea con el requisito de una Licenciatura en Finanzas, Contabilidad o Economía.",
+      "La experiencia laboral descrita (Administrativo, Diseño Gráfico, Community Manager) no corresponde a roles financieros avanzados ni cumple con el requisito de 5-8 años en finanzas.",
+      "El candidato no demuestra dominio de las herramientas técnicas financieras requeridas como SAP, sistemas de BI (Tableau/Power BI) o Excel avanzado, listando principalmente software de diseño gráfico y oficina general.",
+      "El perfil del candidato y su experiencia previa pertenecen a industrias como el diseño, marketing y legal/administrativo, no a la industria financiera o educativa (Universidad Austral), lo cual es un criterio clave de evaluación según las instrucciones."
+    ]
+  }
+]

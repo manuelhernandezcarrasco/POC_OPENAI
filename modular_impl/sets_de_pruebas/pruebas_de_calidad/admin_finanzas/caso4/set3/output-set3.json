@@ -1,0 +1,117 @@
+[
+  {
+    "participant_id": "43ddcff2-ca72-4185-8849-f1da27e70765",
+    "reasons": [
+      "Cumple con el requisito de edad (39 años).",
+      "Cumple con el requisito de formación ideal (Contador Público).",
+      "La experiencia laboral se centra en roles administrativos, de atención al cliente, cobranzas y crédito, sin demostrar claramente 4+ años de experiencia específica en finanzas corporativas a nivel de gestión o administración.",
+      "El dominio de herramientas técnicas clave como Excel avanzado (tablas dinámicas, macros) y sistemas ERP (SAP) no está claramente demostrado; solo se menciona una experiencia mínima con SAP.",
+      "No se menciona experiencia liderando equipos pequeños.",
+      "No se menciona experiencia explícita en la generación de reportes ejecutivos.",
+      "Cuenta con experiencia en el sector servicios (banca), lo cual se valora positivamente."
+    ],
+    "score": 42
+  },
+  {
+    "participant_id": "0040485f-76bd-4e39-bf08-339982f564f3",
+    "reasons": [
+      "El currículum no demuestra la experiencia mínima requerida de 3 años específicamente en el área de Compras; la experiencia detallada es en roles administrativos, de caja, cobranzas, crédito, banca y ventas.",
+      "No se menciona explícitamente un muy buen manejo de Excel en la sección de conocimientos informáticos ni en las responsabilidades listadas.",
+      "La experiencia detallada en el CV no evidencia negociación directa con proveedores en el contexto de compras, aunque sí menciona interacción con clientes internos y pago a proveedores.",
+      "Si bien se menciona experiencia con SAP en una respuesta a pregunta, contradice la sección de conocimientos informáticos y este requisito es solo deseable en la descripción del puesto."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "4b49694e-0e2e-4f14-9933-ca010564060b",
+    "reasons": [
+      "El candidato no demuestra tener experiencia directa en el área de Compras, lo cual es el requisito principal (mínimo 3 años).",
+      "La experiencia laboral se centra en roles administrativos, de finanzas (caja, pagos a proveedores, cobranza, crédito), banca y ventas, que no se alinean con las responsabilidades clave de un Analista de Compras.",
+      "No se evidencia un manejo de Excel avanzado como requisito (aunque no es excluyente en la descripción, sí se menciona como 'muy buen manejo').",
+      "Existe información contradictoria respecto al manejo de SAP (no listado en habilidades, pero afirmado en preguntas y respuestas).",
+      "No se describe experiencia específica en negociación con proveedores para compras, aunque sí en atención al cliente y negociación en ventas.",
+      "El perfil general y la experiencia no se ajustan significativamente a los requisitos y responsabilidades del puesto de Analista de Compras."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "44dece7a-291e-48c4-b7f6-c2a592456bb5",
+    "reasons": [
+      "El currículum no demuestra experiencia específica y directa en el área de Compras, lo cual es un requisito fundamental del puesto de Analista de Compras.",
+      "No se cumple con el requisito mínimo de 3 años de experiencia específicamente en el área de Compras. La experiencia descrita es principalmente administrativa, financiera (cobranzas/crédito/pagos) y de ventas.",
+      "Falta evidencia clara y detallada sobre el manejo de herramientas informáticas clave como Excel ('muy buen manejo') y SAP (deseable), indicado genéricamente como 'No se definieron conocimientos informáticos'. Aunque menciona haber trabajado con SAP en una Q&A, no especifica el nivel de manejo.",
+      "Las responsabilidades descritas en los puestos anteriores (asistencia administrativa, atención al cliente financiero, ventas) no se alinean con las tareas clave de un Analista de Compras (gestión de solicitudes, generación de Órdenes de Compra, evaluación/negociación con proveedores, análisis de cotizaciones, reportes de gestión de compras)."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2937aee2-074e-4f76-89ed-6d7c3d752179",
+    "reasons": [
+      "Candidate lacks explicit experience in procurement/purchasing, a core requirement for the 'Analista de Compras' role.",
+      "Experience in administrative, retail finance sales, and collections roles is noted, but it is not explicitly in corporate finance as specified for the 'Administrador/a de Finanzas' role.",
+      "Key requirements for the 'Administrador/a de Finanzas' role are not met, including intermediate/advanced English proficiency and proven experience leading teams.",
+      "Demonstrated mastery of advanced Excel (pivot tables, macros) is not evident in the CV (IT skills are not defined).",
+      "Although SAP experience is mentioned in the Q&A, the level of proficiency and specific usage are not detailed.",
+      "The candidate's educational background (Contador Público) and age fit some requirements for the 'Administrador/a de Finanzas' role, but these positives are significantly outweighed by the identified experience and skill gaps for both potential roles derived from the prompt's combined criteria."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "4a6c02ce-75ae-4fca-9821-463eb29372ab",
+    "reasons": [
+      "El currículum no demuestra experiencia directa en el área de Compras/Adquisiciones, que es un requisito fundamental (mínimo 3 años). La experiencia se centra en roles administrativos, de caja, crédito, cobranzas y ventas.",
+      "No se especifican conocimientos de herramientas informáticas, incluyendo Excel ('Muy buen manejo de Excel'), listado como requisito.",
+      "No se menciona experiencia específica en negociación con proveedores, una responsabilidad principal del puesto de Analista de Compras.",
+      "Aunque se menciona atención a clientes internos, la experiencia es en un contexto bancario/de ventas, no de compras/adquisiciones.",
+      "La experiencia laboral descrita no se alinea significativamente con las principales responsabilidades de un Analista de Compras, como la gestión de solicitudes, evaluación/desarrollo de proveedores, análisis de cotizaciones o generación de órdenes de compra."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "7e520a5b-90f2-4ff9-8ed4-41ee15a82870",
+    "reasons": [
+      "La edad (40 años) está dentro del rango requerido (28-45 años).",
+      "Cuenta con formación académica afín (Contador Público).",
+      "Tiene experiencia en rubros de servicios (Banca, Automotriz) que se valoran positivamente.",
+      "Acredita la duración mínima de experiencia requerida (aprox. 6 años en roles administrativos con tareas financieras), aunque la profundidad en finanzas corporativas podría no estar totalmente alineada con el perfil del puesto de Administrador/a.",
+      "Menciona experiencia con SAP (deseable ERP), pero no presenta evidencia de dominio de Excel avanzado (tablas dinámicas, macros).",
+      "No se menciona el nivel de inglés (requerido intermedio/avanzado).",
+      "No demuestra experiencia liderando equipos (requisito excluyente para Administrador/a).",
+      "Falta información específica sobre la experiencia en la generación de reportes ejecutivos."
+    ],
+    "score": 44
+  },
+  {
+    "participant_id": "5fa293b5-d695-4faa-bef1-6fc9f6158e87",
+    "reasons": [
+      "La experiencia principal del candidato (asistente administrativo, cobranzas, crédito, ventas) no se alinea con los requisitos de experiencia mínima de 3 años en el área de Compras.",
+      "No se evidencia experiencia específica en funciones clave de compras como la gestión de solicitudes, generación de órdenes de compra, evaluación y desarrollo de proveedores, o análisis comparativo de cotizaciones.",
+      "El currículum indica 'No se definieron conocimientos informáticos', lo cual contradice el requisito de muy buen manejo de Excel para el puesto.",
+      "Aunque menciona haber trabajado con SAP en una respuesta a pregunta, no se detalla el nivel de dominio y no compensa la falta de experiencia directa en Compras y manejo de Excel."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "9750f5c7-097f-4c26-a787-0fe88265211d",
+    "reasons": [
+      "La experiencia laboral descrita se centra en áreas administrativas, de cobranzas, crédito y ventas, no específicamente en el área de Compras como requiere el puesto.",
+      "No se evidencia claramente haber alcanzado los 3 años de experiencia mínima requerida específicamente en el área de Compras.",
+      "Aunque menciona haber trabajado con SAP en una respuesta, no se especifica el nivel de dominio ('muy buen manejo' deseable) ni se detalla experiencia con Excel (requerido 'muy buen manejo').",
+      "No se describe experiencia explícita en negociación con proveedores, una de las responsabilidades y requisitos clave del puesto.",
+      "La experiencia en atención al cliente interno no se presenta en el contexto específico de Compras, lo cual es un requisito."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "1503021f-2abb-46bb-8f8c-2b73130a1224",
+    "reasons": [
+      "El candidato no demuestra experiencia mínima de 3 años específicamente en el área de Compras, según requerido por la descripción del puesto.",
+      "La experiencia descrita se centra en áreas administrativas, de cobranzas, crédito y ventas, no en la gestión de compras, evaluación de proveedores o negociación.",
+      "No se menciona dominio o manejo de Excel, requisito fundamental para el puesto.",
+      "Aunque menciona tener experiencia con SAP (deseable), no se detalla el tipo de experiencia ni su relevancia para las tareas de compras.",
+      "No se evidencia experiencia en negociación con proveedores ni en la gestión específica de requerimientos y procesos de compra detallados en la descripción del puesto.",
+      "El perfil es más acorde a roles de administración general, finanzas operativas o ventas que a un Analista de Compras."
+    ],
+    "score": 15
+  }
+]

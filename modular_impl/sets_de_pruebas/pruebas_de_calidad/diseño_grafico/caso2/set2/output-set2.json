@@ -1,0 +1,106 @@
+[
+  {
+    "participant_id": "65090b11-6a58-490e-9271-8b1357967a82",
+    "reasons": [
+      "El currículum se centra exclusivamente en experiencia y habilidades de desarrollo de software (Ingeniería en Informática, Python, Java, TypeScript, Spring, Docker, PostgreSQL), las cuales no son relevantes para un puesto de Branding Designer.",
+      "No presenta experiencia ni portafolio en diseño gráfico, branding, creación de materiales promocionales o diseño multi-plataforma (packaging, print, web) que son requisitos clave del puesto.",
+      "El perfil del candidato pertenece a la industria tecnológica, pero en el área funcional de desarrollo/ingeniería, no en el área de diseño/branding requerida."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "51991a68-f834-4d2e-9d15-013b61ea7a44",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática con experiencia en desarrollo de software, no en diseño de branding.",
+      "El currículum no menciona habilidades o experiencia en diseño visual, branding, creación de materiales promocionales, rebranding, o diseño para packaging, web o impresión.",
+      "Las tecnologías listadas (Python, Java, Spring, Docker, PostgreSQL, etc.) son propias del desarrollo de software, no del diseño gráfico o de branding.",
+      "Los proyectos descritos son aplicaciones de software, no proyectos de diseño o branding.",
+      "El candidato no pertenece a la industria de diseño o branding, lo cual es un requisito excluyente según las instrucciones."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "33babb8e-bc29-456d-a055-61a6fbb3a730",
+    "reasons": [
+      "The candidate's background and experience are in software engineering, not branding or graphic design.",
+      "The resume does not demonstrate any experience in full-branding, rebranding, or creating promotional materials as required by the job description.",
+      "There is no mention of visual design skills or a portfolio showcasing multi-platform design work (packaging, print, web) relevant to a Branding Designer role.",
+      "The technical skills listed are related to software development and are not relevant to the requirements for this position."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "de6d8715-b35c-46ab-b7de-35ae5d1d86d1",
+    "reasons": [
+      "El currículum presenta un perfil y experiencia en ingeniería de software y desarrollo tecnológico, lo cual no se alinea con los requisitos del puesto de Branding Designer.",
+      "Las habilidades y proyectos descritos son técnicos (programación, bases de datos, cloud) y no relevantes para diseño visual, branding, rebranding o materiales promocionales.",
+      "No se menciona experiencia ni se presenta un portafolio relacionado con el diseño gráfico o de branding para packaging, print o web.",
+      "El candidato pertenece a la industria de software development, no a la industria de diseño/branding, que es un requisito fundamental (implícito) del puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "4543c288-b175-4610-ba7a-ecff4026828d",
+    "reasons": [
+      "El currículum es de un estudiante de Ingeniería en Informática con experiencia en desarrollo de software, lo cual no se alinea con el perfil de Branding Designer.",
+      "No se menciona experiencia en Full-Branding, Creación de Materiales Promocionales, o Rebranding, que son requisitos clave del puesto.",
+      "No se presenta ni se menciona un portafolio que muestre trabajo de diseño multiplataforma.",
+      "Las habilidades técnicas listadas (lenguajes de programación, frameworks, bases de datos) son irrelevantes para el puesto de Branding Designer."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "a183bd85-b426-428e-852f-d4fc329f9282",
+    "reasons": [
+      "El currículum pertenece a un candidato con formación y experiencia en Ingeniería en Informática y desarrollo de software.",
+      "No se menciona experiencia ni habilidades relacionadas con Branding, Creación de Materiales Promocionales, Rebranding o Diseño.",
+      "El perfil del candidato se centra en programación, bases de datos y tecnologías de desarrollo, lo cual no se alinea con los requisitos de diseño gráfico y branding del puesto.",
+      "No se menciona un portafolio de diseño, requisito clave para el puesto de Branding Designer.",
+      "La industria del candidato (desarrollo de software) no es la industria correcta para el puesto de Branding Designer."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "b35c6a4f-fc34-4463-bf9a-69c1b94d2a53",
+    "reasons": [
+      "El currículum describe un perfil de estudiante de Ingeniería en Informática con experiencia en desarrollo de software (lenguajes de programación, frameworks, bases de datos, etc.).",
+      "Los requisitos del puesto son para un Branding Designer, enfocados en habilidades visuales, branding, rebranding y diseño para diferentes plataformas.",
+      "No hay ninguna coincidencia entre las habilidades y experiencia del candidato (desarrollo de software) y los requisitos del puesto (diseño y branding).",
+      "El currículum no menciona experiencia en Full-Branding, Rebranding, creación de materiales promocionales de diseño ni presenta un portafolio de diseño, que son requisitos explícitos.",
+      "El candidato pertenece a la industria de desarrollo de software/IT, no a la industria correcta de diseño/branding para este puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "7494b035-89a4-4ae2-a2f9-b9bef6c6a155",
+    "reasons": [
+      "El candidato tiene un perfil y experiencia enfocados en Ingeniería en Informática y desarrollo de software, lo cual no se alinea con los requisitos para un puesto de Branding Designer.",
+      "No presenta experiencia en Full-Branding, Creación de Materiales Promocionales o Rebranding, que son requisitos clave del puesto.",
+      "No menciona ni muestra un portafolio de diseño que demuestre habilidades de diseño visual o trabajo en múltiples plataformas.",
+      "Las habilidades técnicas listadas (Python, Java, TypeScript, Spring, Docker, PostgreSQL, etc.) son irrelevantes para el rol de Branding Designer.",
+      "El candidato no cumple con ninguno de los requisitos específicos (\"What you'll need\") para la posición de Branding Designer."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "ffb6023d-90ee-4401-98b6-8e76ed18f15a",
+    "reasons": [
+      "El currículum presenta experiencia y habilidades exclusivamente en el área de Ingeniería en Informática y desarrollo de software.",
+      "No se menciona experiencia alguna en branding, diseño visual, creación de materiales promocionales o rebranding, requisitos clave para el puesto.",
+      "No hay evidencia de un portafolio que muestre trabajo de diseño multiplataforma.",
+      "El candidato pertenece a la industria de software/TI, que no se alinea con la industria de diseño/branding requerida para este puesto específico."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "8ab412a1-6852-45ed-919e-753d6dfc50b4",
+    "reasons": [
+      "El currículum corresponde a un perfil de Ingeniero en Informática/Desarrollador de Software, lo cual no se alinea con los requisitos del puesto de Branding Designer.",
+      "Las habilidades listadas (Python, Java, TypeScript, Spring, Docker, PostgreSQL, etc.) son técnicas de desarrollo de software, no de diseño o branding.",
+      "Los proyectos descritos son aplicaciones de software (rutinas de gimnasio, gestor de código), no trabajos de diseño gráfico o branding.",
+      "No se menciona experiencia en full-branding, rebranding, creación de materiales promocionales, o diseño para packaging, web o print.",
+      "No se presenta ni se menciona un portafolio de diseño, que es un requisito clave para el puesto."
+    ],
+    "score": 5
+  }
+]

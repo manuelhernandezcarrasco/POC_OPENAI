@@ -1,0 +1,108 @@
+[
+  {
+    "participant_id": "2e8adb7f-69d7-428e-8645-83b67e7a5604",
+    "reasons": [
+      "El perfil profesional (Arquitecta, Profesora) no se alinea con la posición de Analista de Compras.",
+      "No se evidencia la experiencia mínima de 3 años requerida específicamente en el área de Compras.",
+      "La experiencia laboral detallada se centra en Arquitectura, gestión de proyectos de construcción y docencia, no en las responsabilidades típicas de un Analista de Compras (gestión de solicitudes, órdenes de compra, evaluación de proveedores para adquisición general, etc.).",
+      "No se menciona el manejo de Excel ni SAP, que son requisitos y deseables para el puesto.",
+      "Aunque puede tener experiencia en negociación y trato con proveedores en el contexto de la construcción, no se demuestra experiencia específica en la negociación de condiciones comerciales y la atención al cliente interno dentro de un proceso de compras corporativo."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "9b92f56c-becf-4dcf-9b03-bc9f29be32d8",
+    "reasons": [
+      "El currículum no indica experiencia específica en el 'área de Compras' como se requiere, sino en roles relacionados con arquitectura, gerenciamiento de proyectos, presupuestos y dirección de obra.",
+      "Si bien la candidata tiene experiencia en cómputos, presupuestos y contacto con proveedores en el contexto de proyectos de construcción, no se evidencia experiencia directa en la gestión general de solicitudes de compra, generación de órdenes de compra o control de procedimientos de compra para una organización.",
+      "No se menciona manejo de Excel o SAP (deseable), habilidades requeridas y deseables para el puesto.",
+      "La experiencia en negociación con proveedores parece estar más orientada a la negociación de contratos y presupuestos de obra que a la negociación continua para la mejora de condiciones de precios, plazos y formas de pago en una operación de compras recurrente.",
+      "No se detalla experiencia en atención al cliente interno en el contexto de la gestión de compras para diferentes sectores de la organización."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "f23e51d8-a570-47a6-a1d7-6dfe3390f099",
+    "reasons": [
+      "La candidata no demuestra tener experiencia mínima de 3 años en el área de Compras según lo especificado en la descripción del puesto.",
+      "La experiencia laboral descrita está centrada principalmente en Arquitectura, Dirección y Gestión de Obras, Presupuestos (relacionados con construcción) y Docencia, que no se alinean con las responsabilidades clave de un Analista de Compras (gestión de solicitudes, generación de órdenes de compra, evaluación de proveedores, negociación de precios y plazos en el contexto de compras generales para una organización).",
+      "No se menciona experiencia o manejo de SAP, requisito deseable para el puesto.",
+      "Aunque se menciona experiencia en 'Ejecutiva de Cuentas' y 'Presupuestista', no se detalla experiencia específica en negociación con proveedores o atención al cliente interno en el contexto de un departamento de Compras, como se solicita."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "b9db7dd6-8aa8-46ed-8e38-da30fcb30d1e",
+    "reasons": [
+      "La experiencia principal del candidato es en Arquitectura y Gerenciamiento de Proyectos, lo cual no se alinea con el área de Compras.",
+      "No se menciona experiencia mínima de 3 años específicamente en el área de Compras como requisito fundamental.",
+      "No se hace referencia al manejo de Excel ni SAP, habilidades requeridas/deseables en la descripción del puesto.",
+      "Aunque puede tener experiencia en negociación y trato con clientes/proveedores en sus áreas, el CV no demuestra esta experiencia específicamente en el contexto de las responsabilidades de Compras (gestión de solicitudes, generación de OC, evaluación/negociación con proveedores para las necesidades de la organización)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "b1981587-b62f-4575-a343-753b61b8408e",
+    "reasons": [
+      "El currículum no demuestra experiencia mínima de 3 años en el área de Compras, requisito excluyente.",
+      "La experiencia principal del candidato es en Arquitectura y Dirección de Obra, no en gestión de compras o procurement corporativo según la descripción del puesto.",
+      "No se menciona el manejo de Excel o SAP en el currículum, que son requisitos para la posición.",
+      "Aunque tiene experiencia en roles que implican negociación (ej. Dirección de Obra, Ejecutiva de Cuentas), el currículum no detalla experiencia específica en negociación con proveedores para la compra de bienes y/o servicios en el contexto de compras de una organización."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "82e53486-69f5-4246-8768-1f4d6c0f498a",
+    "reasons": [
+      "El currículum no demuestra experiencia específica en el área de Compras o Abastecimiento.",
+      "No se cumple el requisito de experiencia mínima de 3 años en el área de Compras, ya que la experiencia es principalmente en Arquitectura y Gerenciamiento de Proyectos.",
+      "La experiencia en roles como 'Coordinadora Presupuestos' o 'Presupuestista' no equivale directamente a la gestión de compras operativas y estratégicas descritas en el puesto.",
+      "No se mencionan habilidades o experiencia con Excel o SAP, los cuales son requisitos (uno deseable) para el puesto.",
+      "Aunque la candidata probablemente posee habilidades de negociación y atención al cliente por su experiencia en proyectos de arquitectura, el CV no las presenta en el contexto de la gestión de compras de bienes y/o servicios para la organización."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "5d31f491-009a-4f0b-8d15-4b2cea875dc7",
+    "reasons": [
+      "El currículum presenta experiencia principal en Arquitectura y Docencia, no cumpliendo con el requisito clave de tener experiencia mínima de 3 años específicamente en el área de Compras.",
+      "Aunque se menciona experiencia en 'Presupuestos', esta parece estar orientada al ámbito de la construcción y proyectos de arquitectura, no cubriendo las responsabilidades del ciclo completo de compras (gestión de solicitudes, generación de Órdenes de Compra, evaluación y desarrollo de proveedores, etc.) descritas en el puesto.",
+      "No se detalla experiencia explícita en negociación con proveedores desde el rol de comprador o atención al cliente interno en el contexto de adquisiciones.",
+      "No se mencionan las habilidades requeridas en el manejo de Excel y SAP (deseable) asociadas a tareas de compras.",
+      "La experiencia laboral no parece ser en la industria requerida (educación o función transversal aplicable)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "cb0d3f2b-60c7-4378-be70-75f54708b3f9",
+    "reasons": [
+      "La candidata es arquitecta y profesora, con experiencia en áreas como dirección de obra, presupuestos (en el contexto de proyectos de construcción) y docencia.",
+      "No se identifica experiencia específica de 3 años o más en el área de Compras, según lo requerido en la descripción del puesto.",
+      "Aunque puede tener experiencia en negociación (típica de la gestión de proyectos), no se demuestra experiencia directa en la negociación con proveedores y atención al cliente interno en el contexto de compras generales de una organización.",
+      "No se menciona el manejo de Excel ni SAP, que son requisitos del puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "67ba7845-f8fe-4d5e-a1eb-2a3f697546bc",
+    "reasons": [
+      "El currículum no demuestra experiencia específica en el área de Compras, que es un requisito fundamental (mínimo 3 años). La experiencia principal es en Arquitectura, Gerencia de Proyectos y presupuestación en ese ámbito.",
+      "Las responsabilidades listadas (gestión de solicitudes de compra, generación de órdenes de compra, evaluación y desarrollo de proveedores generales, etc.) no se reflejan explícitamente en las funciones descritas en el currículum.",
+      "No se menciona el manejo de Excel, que es un requisito obligatorio.",
+      "No se menciona el manejo de SAP, que es un requisito deseable.",
+      "La experiencia en negociación y atención al cliente interno, aunque posiblemente presente en roles de proyecto, no se presenta en el contexto específico de una función de Compras."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "3fc153f3-c420-4c66-b03d-d8f583f9ccc1",
+    "reasons": [
+      "El currículum muestra experiencia principalmente en arquitectura y docencia, no en el área específica de Compras.",
+      "La experiencia mencionada en 'Presupuestos' parece estar ligada a proyectos de construcción, no a la gestión general de compras de una organización.",
+      "No se demuestra el mínimo de 3 años de experiencia requerido específicamente en el área de Compras.",
+      "El currículum no menciona el manejo de las herramientas requeridas (Excel y SAP).",
+      "La experiencia en negociación y atención al cliente interno en el contexto de la gestión de compras no es evidente en el CV presentado."
+    ],
+    "score": 10
+  }
+]

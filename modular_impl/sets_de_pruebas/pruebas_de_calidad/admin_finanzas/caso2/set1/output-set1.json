@@ -1,0 +1,103 @@
+[
+  {
+    "participant_id": "da517f19-496c-40b7-9723-ac118a07f9ab",
+    "reasons": [
+      "El candidato no cumple con el requisito mínimo de 3 años de experiencia específica en el área de Compras. Su experiencia es en roles de soporte técnico y gestión de aplicaciones.",
+      "No se evidencia experiencia directa en la gestión de solicitudes, generación de órdenes de compra, evaluación/desarrollo de proveedores, solicitud y análisis de cotizaciones, o análisis de diferencias de precios acordados, tareas centrales del puesto.",
+      "Aunque tiene experiencia en atención a clientes (en contexto de TI), no se demuestra experiencia en negociación con proveedores ni en la atención al 'cliente interno' en el contexto de compras.",
+      "No menciona experiencia con SAP, requisito deseable para el puesto.",
+      "El perfil profesional y la experiencia laboral del candidato están fuertemente orientados a la industria de Tecnologías de la Información y soporte técnico, no a la función de Compras requerida."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "54a0f314-c35b-4d7a-b36b-0350c33b9df3",
+    "reasons": [
+      "El candidato no cuenta con experiencia en el área de Compras, que es un requisito fundamental con un mínimo de 3 años solicitado.",
+      "No se menciona experiencia en negociación con proveedores, un punto clave de las responsabilidades y requisitos del puesto.",
+      "No se detalla experiencia en atención al cliente interno específicamente relacionada con procesos de compra.",
+      "Aunque se menciona manejo avanzado de Microsoft Office (que incluye Excel), no se indica conocimiento de SAP, deseable para el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "5560051f-a7a1-4ddc-a54c-e919c74efabd",
+    "reasons": [
+      "El candidato no cumple con el requisito mínimo de 3 años de experiencia en el área de Compras.",
+      "La experiencia laboral del candidato está centrada en roles de TI (soporte técnico, consultoría, análisis de aplicaciones), no relacionados con la gestión de compras.",
+      "No se menciona experiencia específica en negociación con proveedores, aunque sí experiencia con clientes (en contexto de TI).",
+      "No se menciona manejo de SAP (requisito deseable)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "3cd920b2-5631-44cb-8d65-dcf89f89a5da",
+    "reasons": [
+      "El candidato no cuenta con la experiencia mínima de 3 años requerida específicamente en el área de Compras; su experiencia principal es en roles de IT (soporte técnico, análisis funcional, consultoría).",
+      "No hay evidencia en el currículum de experiencia en la gestión directa de solicitudes u órdenes de compra, evaluación y desarrollo de proveedores, o negociación de precios y condiciones de compra.",
+      "Aunque menciona 'Microsoft Office avanzado', el currículum no detalla manejo de SAP (deseable) ni el uso de Excel en tareas específicas del área de compras (como cuadros comparativos de cotizaciones).",
+      "Si bien tiene experiencia en 'atención a clientes', esta no se describe en el contexto específico de la gestión de requerimientos de compra de clientes internos según las responsabilidades del puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "f2121e80-9771-4615-b7d2-54640d4f9162",
+    "reasons": [
+      "El candidato tiene más de 20 años de experiencia, pero ésta se concentra en roles de Tecnologías de la Información (soporte técnico, consultoría, gestión de aplicaciones), no en el área de Compras.",
+      "No cumple con el requisito fundamental de tener una experiencia mínima de 3 años específicamente en el área de Compras.",
+      "Aunque menciona 'Microsoft Office avanzado' (cubriendo Excel) y experiencia con clientes, no demuestra experiencia específica en la negociación con proveedores ni en la gestión de procesos de compra descritos en el puesto.",
+      "No se menciona experiencia en el uso de SAP (requisito deseable)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "f0ce81ee-d000-47e4-877d-ca26bbb8d6df",
+    "reasons": [
+      "El candidato no cumple con el requisito fundamental de tener al menos 3 años de experiencia en el área de Compras. Su experiencia es en TI/Soporte.",
+      "No se evidencia experiencia en negociación con proveedores, un requisito clave del puesto.",
+      "Aunque tiene experiencia en atención al cliente ('Customer manager'), esta parece ser en el contexto de TI y soporte, no específica de cliente interno en compras.",
+      "No menciona experiencia con SAP (deseable).",
+      "Aunque cumple con el manejo de Excel (Microsoft Office avanzado), los requisitos principales relacionados con el área de Compras no están presentes."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "1316e406-4dc1-4ce9-b557-4b395485921c",
+    "reasons": [
+      "El currículum no muestra experiencia en el área de Compras, mientras que se requieren 3 años mínimos.",
+      "La experiencia del candidato se centra en soporte técnico, consultoría informática y gestión de TI, no en procurement.",
+      "No se menciona experiencia con SAP, que es un requisito deseable.",
+      "Aunque menciona interacción con clientes (internos/externos), no especifica experiencia en atención a clientes internos en el contexto de gestión de compras o requerimientos de la organización.",
+      "La experiencia en negociación no se presenta en el contexto de negociación con proveedores de bienes y servicios para compras."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c6c7042a-2d84-47c7-b0d2-00c95448e1da",
+    "reasons": [
+      "La experiencia del candidato es en Soporte TI y Consultoría, no en el área de Compras, que es el requisito principal.",
+      "No se menciona experiencia específica en las responsabilidades clave del puesto como gestionar solicitudes de compras, generar órdenes de compra, evaluar y desarrollar proveedores, o negociar con proveedores.",
+      "Aunque tiene más de 3 años de experiencia profesional, esta no es en el área de Compras como lo requiere el puesto.",
+      "No se menciona experiencia con SAP (deseable)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7fafe59e-fa53-49be-867d-065db068435b",
+    "reasons": [
+      "El candidato no cumple con el requisito mínimo de 3 años de experiencia en el área de Compras, ya que su experiencia es en soporte técnico y consultoría informática.",
+      "Las responsabilidades y tareas detalladas en su currículum no se alinean con las funciones principales de un Analista de Compras (gestión de solicitudes/órdenes de compra, evaluación y negociación con proveedores, generación de informes de gestión de compras).",
+      "Aunque tiene experiencia en atención a clientes (posiblemente internos), no menciona experiencia específica en negociación con proveedores en el contexto de compras."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "07c7b8a4-1d98-4f60-bd92-32e5ea76cb66",
+    "reasons": [
+      "El candidato no demuestra experiencia en el área de Compras, requisito fundamental (mínimo 3 años).",
+      "Su experiencia profesional se centra en Soporte Técnico, Consultoría Informática y gestión de equipos IT, lo cual no se alinea con las responsabilidades de un Analista de Compras.",
+      "No se evidencia experiencia específica en negociación con proveedores, gestión de órdenes de compra, evaluación de proveedores o análisis de cotizaciones, que son funciones clave del puesto."
+    ],
+    "score": 5
+  }
+]

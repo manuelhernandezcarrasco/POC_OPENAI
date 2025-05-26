@@ -1,0 +1,108 @@
+[
+  {
+    "participant_id": "cb53854a-0cdf-45a1-b70b-0601ee8a8631",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (indica primer año de licenciatura cursado).",
+      "No cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (Talent Acquisition). La experiencia laboral detallada no es en RRHH ni en roles de selección.",
+      "No cumple con el requisito excluyente de tener un nivel de Idioma inglés avanzado (indica nivel Medio).",
+      "La ubicación actual del candidato (Conurbano Bonaerense) no coincide con la ubicación del puesto (Neuquén Capital) para un rol 100% presencial, y no se menciona disponibilidad para reubicación."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7341e0a5-846a-4bfa-b025-ac2ea98494c4",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de ser graduado/a universitario/a afín a Recursos Humanos (solo indica primer año de la carrera).",
+      "No posee la experiencia mínima de 5 años en roles de Talent Acquisition o similares (la experiencia presentada es en ventas y roles administrativos, no en RRHH).",
+      "No cumple el requisito EXCLUYENTE de nivel de inglés avanzado (declara nivel medio).",
+      "La ubicación del candidato (Gran Buenos Aires) no coincide con el lugar de trabajo (Neuquén Capital) para un puesto 100% presencial."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7f3fda36-1899-4b6f-b186-df90b41d7dd4",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines (solo completó el primer año).",
+      "No cumple con el requisito excluyente de tener un mínimo de 5 años de experiencia en roles de Talent Acquisition/selección; la experiencia presentada es en roles administrativos y de ventas.",
+      "No cumple con el requisito excluyente de poseer inglés avanzado (indica nivel medio).",
+      "La ubicación actual del candidato (Castelar Norte) no coincide con el lugar de trabajo requerido (Neuquén Capital) para una posición 100% presencial.",
+      "La experiencia laboral no es en la industria de Oil & Gas ni en entornos corporativos/startups, lo cual era valorado."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "8692c76d-0780-46e2-b267-3480001fc840",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de ser graduado/a de carreras universitarias afines a Recursos Humanos (indica 'Primer año de la Licenciatura').",
+      "El candidato no cumple con el requisito EXCLUYENTE de un mínimo de cinco años de experiencia en roles similares (la experiencia listada es principalmente administrativa y ventas, no en Talent Acquisition).",
+      "El candidato no cumple con el requisito EXCLUYENTE de poseer idioma inglés avanzado (indica 'Nivel Medio').",
+      "La ubicación del candidato (Conurbano Bonaerense) no coincide con la ubicación requerida para el puesto (Neuquén Capital).",
+      "La experiencia laboral detallada no se alinea con las responsabilidades clave de un Talent Acquisition Specialist (screening, entrevistas, negociación, onboarding)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "efe68bc8-e77a-447d-913c-429f7b440a66",
+    "reasons": [
+      "No cumple el requisito excluyente de estar graduado/a de carrera universitaria afín a RRHH. El CV indica primer año de licenciatura.",
+      "No cumple el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (Talent Acquisition). La experiencia reportada es administrativa/secretarial y ventas, no en adquisición de talento.",
+      "No cumple el requisito excluyente de idioma inglés avanzado. El CV indica nivel medio.",
+      "La ubicación del candidato (Conurbano Bonaerense) no coincide con el lugar de trabajo requerido (Neuquén Capital) para un puesto 100% presencial y no se menciona disponibilidad para mudarse.",
+      "La experiencia laboral no es en entornos corporativos dinámicos o startups ni en la industria de Oil & Gas, lo cual es valorado para este puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "28261343-0014-4286-9c52-dbab84902be6",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos (indica 'Primer año de la Licenciatura').",
+      "No cumple con el requisito EXCLUYENTE de un mínimo de cinco años de experiencia en roles similares (Talent Acquisition). La experiencia detallada no es en RRHH.",
+      "No cumple con el requisito EXCLUYENTE de idioma inglés avanzado (indica 'Ingles Nivel Medio').",
+      "La ubicación del candidato (Castelar Norte) no coincide con la ubicación del puesto (Neuquén Capital) para un rol 100% presencial."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "990719b4-490c-4110-b56f-ff6de30cac06",
+    "reasons": [
+      "No está graduado/a de carrera universitaria afín a RRHH (Requisito EXCLUYENTE no cumplido). Indica solo el primer año de la licenciatura.",
+      "No acredita la experiencia mínima de cinco años en roles similares de Talent Acquisition (Requisito EXCLUYENTE no cumplido). La experiencia mencionada es en ventas y secretaria administrativa.",
+      "El nivel de inglés indicado es Medio, no Avanzado (Requisito EXCLUYENTE no cumplido).",
+      "La ubicación del candidato (Castelar Norte, GBA) no coincide con el lugar de trabajo (Neuquén Capital) indicado en la descripción del puesto.",
+      "La experiencia laboral mencionada no está relacionada con las funciones de Talent Acquisition o RRHH."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "fc88f042-0b6c-41bd-8cdd-22fafe129259",
+    "reasons": [
+      "No cumple con el requisito excluyente de ser graduado/a universitario/a afín a RRHH; solo cursó el primer año de la licenciatura.",
+      "No posee la experiencia mínima excluyente de cinco años en roles similares de Talent Acquisition; su experiencia laboral es en ventas y secretaría administrativa, no en adquisición de talento.",
+      "No cumple con el requisito excluyente de nivel de inglés avanzado (declara nivel medio).",
+      "La ubicación del candidato (Castelar, Conurbano Bonaerense) no se alinea con la ubicación presencial del puesto en Neuquén Capital.",
+      "El currículum no muestra experiencia en las responsabilidades clave del puesto de Talent Acquisition, como screening, coordinación de entrevistas, evaluación, negociación, etc."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "1795dc1b-693a-4e5d-880d-56403383da6d",
+    "reasons": [
+      "No cumple el requisito excluyente de ser graduado/a universitario/a en carreras afines a RRHH (solo completó el primer año).",
+      "No cumple el requisito de un mínimo de cinco años de experiencia en roles similares a Talent Acquisition. La experiencia listada es principalmente administrativa y ventas.",
+      "No cumple el requisito excluyente de idioma inglés avanzado (indica nivel medio).",
+      "El candidato se encuentra en Castelar, Buenos Aires, mientras que el puesto es 100% presencial en Neuquén Capital."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "435147c3-fb1d-4e2f-ad6f-bdb1fc8a4481",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de estar graduado/a de una carrera universitaria afín a Recursos Humanos. Indica solo el primer año de la licenciatura.",
+      "No cumple con el requisito EXCLUYENTE de un mínimo de cinco años de experiencia en roles similares a Talent Acquisition. La experiencia es principalmente administrativa y de ventas.",
+      "No cumple con el requisito EXCLUYENTE de idioma inglés avanzado. Indica nivel medio.",
+      "La candidata reside en Castelar, Buenos Aires, y el puesto es 100% presencial en Neuquén Capital, lo cual no cumple con el requisito de ubicación.",
+      "No demuestra experiencia en gestión de bases de datos de talento o herramientas digitales específicas (Excel, Google Workspace, sistemas HR)."
+    ],
+    "score": 0
+  }
+]
