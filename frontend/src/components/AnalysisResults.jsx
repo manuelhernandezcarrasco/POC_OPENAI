@@ -27,7 +27,8 @@ const AnalysisResults = ({ results, selectedCandidate, onCandidateSelect }) => {
   };
 
   const getScoreLabel = (score) => {
-    if (score >= 80) return 'Excellent Match';
+    if (score >= 85) return 'Excellent Match';
+    if (score >= 70) return 'Great Match';
     if (score >= 60) return 'Good Match';
     return 'Needs Review';
   };
