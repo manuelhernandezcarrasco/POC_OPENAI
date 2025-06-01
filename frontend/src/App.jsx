@@ -84,10 +84,11 @@ function App() {
             </div>
             {results.find(r => r.participant_id === selectedCandidate) && (
               <div className="candidate-details">
-                <h3>Detailed Analysis</h3>
                 {results.find(r => r.participant_id === selectedCandidate)?.reasons.map((reason, index) => (
                   <div key={index} className="reason-item">
-                    <span className="reason-number">{index + 1}</span>
+                    <div className="reason-header">
+                      <span className="reason-number">{index + 1}</span>
+                    </div>
                     <p>{reason}</p>
                   </div>
                 ))}

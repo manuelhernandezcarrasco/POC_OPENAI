@@ -159,38 +159,42 @@ def analyze():
         cv_paths.append(cv_path)
 
     prompt_base = f"""
-Actúa como un experto en recursos humanos especializado en evaluación de candidatos según su currículum.
+    Actúa como un analista experto en Recursos Humanos, especializado en la evaluación profesional de currículums vitae (CVs) en procesos de selección.
 
-A continuación se presentarán varios currículums, cada uno en el siguiente formato:
+    A continuación se presentarán varios CVs en formato texto, cada uno con la siguiente estructura:
 
-[participant_id] - [Texto del currículum]
+    [participant_id] - [Texto del currículum]
 
-Tu tarea es evaluar cada uno de ellos según su adecuación a la descripción del puesto, considerando los siguientes criterios:
+    Tu tarea es realizar un análisis contextual y semántico de cada currículum con el objetivo de construir un perfil detallado del candidato. Este perfil servirá para compararlo contra la siguiente descripción del puesto.
 
-- Nivel de seniority requerido
-- Experiencia en la industria relevante
-- Manejo básico de inglés
+    Ten en cuenta los siguientes criterios de evaluación:
 
-La idea es que armes un analisis contextual y semantico de cada cv, luego creando un perfil a cada candidato para poder contrastar esos perfiles
-con la descripción del puesto, asi teniendo base para poder poner una evaluación a cada candidato.
+    - Nivel de seniority requerido (junior, semi senior, senior)
+    - Experiencia relevante en la industria o campo relacionado
+    - Conocimiento o manejo de idiomas (en caso de estar especificado en la job description)
+    - Soft skills expresadas de forma explícita o inferida (liderazgo, comunicación, trabajo en equipo, etc.)
+    - Skills técnicas o blandas representadas mediante elementos gráficos (como barras de progreso, estrellas u otros indicadores visuales)
 
-Por cada currículum, devuelve una evaluación en formato JSON con esta estructura:
+    Es importante que puedas interpretar estos elementos gráficos como representaciones del nivel de habilidad o dominio, y que los consideres en la evaluación.
 
-{{
-  "participant_id": "...",
-  "score": [puntaje de 0 a 100],
-  "reasons": [
-    "razón 1",
-    "razón 2",
-    ...
-  ]
-}}
+    Devuelve por cada currículum un análisis en formato JSON con la siguiente estructura:
 
-Importante: devuelve un objeto JSON por cada currículum, sin texto adicional.
+    {{
+      "participant_id": "...",
+      "score": [puntaje de 0 a 100],
+      "reasons": [
+        "razón 1",
+        "razón 2",
+        ...
+      ]
+    }}
 
-Descripción del puesto:
-{job_description}
-"""
+    No incluyas ningún texto adicional fuera del objeto JSON.
+
+    Descripción del puesto:
+    {job_description}
+    """
+
     base_tokens = count_tokens(prompt_base)
     results = []
     total_cvs = len(cv_paths)
