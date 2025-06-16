@@ -14,7 +14,7 @@ from openai import OpenAI
 load_dotenv()
 
 model = "gpt-4.1-mini"
-casos = [ "tecnico_mantenimiento"]
+casos = ["admin_finanzas", "diseño_grafico", "ejecutivo_cuentas_digitales", "ejecutivo_influencers","ingenieria_informatica", "rrhh", "tecnico_mantenimiento"]
 cantidad_casos = 5
 cantidad_sets = 3
 
