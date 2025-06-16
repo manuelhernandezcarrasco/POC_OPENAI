@@ -1,0 +1,123 @@
+[
+  {
+    "participant_id": "542975d8-b2f4-45b1-a286-1bcde9abca52",
+    "reasons": [
+      "La candidata no cumple el requisito EXCLUYENTE de estar graduada de carreras universitarias afines a Recursos Humanos (se encuentra cursando las últimas tres materias).",
+      "El nivel de inglés indicado es Básico, no cumpliendo el requisito EXCLUYENTE de Inglés Avanzado.",
+      "La ubicación de la candidata es C.A.B.A., mientras que el puesto es 100% presencial en Neuquén Capital, lo que representa un impedimento a menos que haya disposición a la reubicación no mencionada.",
+      "Posee una amplia experiencia en Recursos Humanos (más de 10 años) que incluye funciones de Búsqueda y Selección, cumpliendo con el requisito de años de experiencia en roles similares.",
+      "No cuenta con experiencia en la industria de Oil & Gas, lo cual es valorable para el puesto.",
+      "La edad de la candidata (38 años) se encuentra dentro del rango preferente (25-40 años)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "6a1e1141-9716-4f51-b1e4-0a19cc22ed21",
+    "reasons": [
+      "El CV indica que la candidata está cursando la Licenciatura en Relaciones del Trabajo y le restan 3 materias. La descripción del puesto solicita estar graduado/a (EXCLUYENTE).",
+      "El nivel de inglés reportado es Básico (Egreso de programa extracurricular UBA), mientras que la descripción del puesto requiere idioma inglés Avanzado (EXCLUYENTE).",
+      "La candidata posee una amplia experiencia en Recursos Humanos (más de 14 años), superando el requisito mínimo de 5 años en roles similares.",
+      "La experiencia previa incluye tareas relevantes para el rol de Talent Acquisition, como búsqueda y selección, entrevistas, inducción, capacitación y evaluación.",
+      "La experiencia no es específica en la industria de Oíl & Gas (preferencia del puesto).",
+      "La candidata reside en C.A.B.A. y el puesto es 100% presencial en Neuquén, sin mencionar disponibilidad para reubicación.",
+      "La edad de la candidata (39 años) se encuentra dentro del rango preferente (25-40 años)."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "969497e6-2dc5-4786-bf13-3c936f7c5eba",
+    "reasons": [
+      "El/La candidato/a reside en C.A.B.A., mientras que el puesto requiere residencia en Neuquén Capital (EXCLUYENTE) y presencialidad 100%.",
+      "El/La candidato/a está cursando las últimas materias de la licenciatura y aún no se ha graduado, lo cual es un requisito EXCLUYENTE.",
+      "El nivel de inglés del/la candidato/a es Básico, y el puesto requiere un nivel Avanzado (EXCLUYENTE).",
+      "El/La candidato/a posee una extensa experiencia laboral en áreas de Recursos Humanos, incluyendo Búsqueda y Selección, superando el requisito mínimo de 5 años.",
+      "El/La candidato/a no parece tener experiencia previa en la industria de Oil & Gas, la cual es ideal para el puesto.",
+      "La edad del/la candidato/a se encuentra dentro del rango preferente (25-40 años)."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "557767a8-657d-4fd0-b0b8-377cfd151743",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de estar graduado/a de carrera universitaria afín a RRHH (cursando las últimas materias).",
+      "No cumple con el requisito EXCLUYENTE de idioma inglés avanzado (reporta nivel básico).",
+      "La ubicación del candidato (CABA) no coincide con la ubicación del puesto (Neuquén Capital, 100% presencial), lo cual representa un obstáculo práctico significativo.",
+      "Posee una amplia experiencia en Recursos Humanos (más de 10 años), superando el mínimo de 5 años requerido.",
+      "Cuenta con experiencia relevante en tareas clave de Talent Acquisition como búsqueda y selección, entrevistas e inducción.",
+      "No se especifica experiencia previa en la industria de Oil & Gas, la cual es valorada para el puesto."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "615af7ce-e58b-4a8b-a133-badc47387a22",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de estar graduado/a de una carrera universitaria afín a Recursos Humanos (se encuentra cursando las últimas materias).",
+      "El candidato no cumple con el requisito EXCLUYENTE de Idioma Inglés avanzado (indica Nivel Básico).",
+      "Si bien cuenta con amplia experiencia en Recursos Humanos, la descripción del puesto solicita 5 años en roles *similares* (Talent Acquisition), y su experiencia detallada es más amplia y generalista en RRHH, incluyendo tareas de selección.",
+      "La descripción del puesto indica que la posición es 100% presencial en Neuquén Capital. El candidato reside en C.A.B.A., lo que representa una importante barrera geográfica si no se considera o especifica la posibilidad de reubicación."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "09304cc6-abd7-4344-a57d-64bb66490506",
+    "reasons": [
+      "No está graduada de carrera universitaria afín, requisito EXCLUYENTE en la descripción del puesto (indica 'cursando las últimas tres materias').",
+      "El nivel de inglés indicado es Básico, no Avanzado, requisito EXCLUYENTE en la descripción del puesto.",
+      "La candidata reside en C.A.B.A., mientras que el puesto requiere residencia y trabajo 100% presencial en Neuquén Capital.",
+      "Aunque posee amplia experiencia en RRHH y selección (>5 años), esta no es en la industria de Oíl & Gas, que es ideal según la descripción del puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "8360add0-76f8-4db6-9517-21b0532a5ba0",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de estar graduado/a de carrera universitaria afín (indica cursando las últimas 3 materias).",
+      "No cumple con el requisito EXCLUYENTE de idioma inglés avanzado (indica nivel básico).",
+      "La experiencia profesional es amplia (más de 14 años en total) y en roles de liderazgo y asistencia en RRHH, superando el mínimo de 5 años requerido en roles similares, y abarca varias de las responsabilidades del puesto (selección, entrevistas, inducción, gestión de base de datos, etc.).",
+      "No posee experiencia en la industria de Oíl & Gas, lo cual era ideal pero no excluyente.",
+      "La dirección indicada en el CV es C.A.B.A., mientras que el puesto requiere residencia y trabajo en Neuquén Capital, lo que implica necesidad de reubicación no mencionada.",
+      "La edad (nacida en 1985, ~39 años) se encuentra dentro del rango preferente (25-40).",
+      "Manejo de herramientas digitales listadas (Excel, Word, Outlook, sistemas LexDoctor, Tango) muestra familiaridad con herramientas relevantes, aunque no específicamente con todos los ejemplos listados en los requisitos adicionales (SAP, Workday, Google Workspace).",
+      "La experiencia en diversas áreas de RRHH (selección, capacitación, evaluación, RSE, legajos, liquidación básica, auditorías) cumple con los requisitos adicionales de experiencia amplia en HR (hard/soft).",
+      "La experiencia en Schenker Argentina S.A., una empresa corporativa, se alinea con la valoración de experiencia en entornos corporativos dinámicos."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "088bf6ad-2633-43ad-896d-9329262003dc",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de ser graduado/a universitario/a (indica que está cursando las últimas materias).",
+      "No cumple el requisito EXCLUYENTE de idioma inglés avanzado (indica nivel básico).",
+      "Aunque tiene amplia experiencia en roles de RRHH y Selección, no es en la industria de Oil & Gas (requisito ideal).",
+      "Su ubicación actual en C.A.B.A. implica necesidad de reubicación para el puesto presencial en Neuquén."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "3aa6e570-bbb0-4998-84bc-32c094916405",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de estar graduado/a (indica cursando últimas materias de la carrera).",
+      "No cumple el requisito EXCLUYENTE de poseer idioma inglés avanzado (indica nivel básico).",
+      "La experiencia profesional (más de 14 años) excede ampliamente el mínimo de 5 años requerido en roles similares.",
+      "La experiencia incluye tareas relevantes para el puesto de Talent Acquisition (búsqueda y selección, entrevistas, inducción).",
+      "No posee experiencia previa en la industria de Oil & Gas, la cual es valorada.",
+      "La ubicación de residencia actual es C.A.B.A., mientras que el puesto es 100% presencial en Neuquén Capital.",
+      "La edad del candidato (39 años) se encuentra dentro del rango preferente (25-40).",
+      "Demuestra manejo de herramientas digitales relevantes (Excel, sistemas de RRHH como Tango, LexDoctor).",
+      "Posee formación académica en un área afín a Recursos Humanos (Relaciones del Trabajo)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "6e4cfb50-49b2-4399-8061-742fd95a4999",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de ser graduada universitaria (indica cursando las últimas tres materias de la carrera).",
+      "No cumple el requisito EXCLUYENTE de tener inglés avanzado (indica nivel básico).",
+      "Cuenta con amplia experiencia (+14 años) en roles de RRHH, incluyendo responsabilidades de búsqueda y selección, superando el mínimo de 5 años requerido para roles similares.",
+      "La experiencia previa en la industria de Oil & Gas no está mencionada (requisito ideal, no excluyente).",
+      "La candidata reside en C.A.B.A., la posición es en Neuquén Capital (potencial factor de localización a considerar para un puesto 100% presencial).",
+      "La edad se encuentra dentro del rango preferente (39 años)."
+    ],
+    "score": 15
+  }
+]

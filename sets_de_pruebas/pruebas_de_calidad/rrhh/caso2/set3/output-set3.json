@@ -1,0 +1,94 @@
+[
+  {
+    "participant_id": "4274109c-8ff3-442d-9136-1e3bf37567a1",
+    "reasons": [
+      "No cumple el requisito EXCLUYENTE de estar graduado/a de carrera universitaria afín a Recursos Humanos (es estudiante de Ingeniería Informática).",
+      "No cumple el requisito de mínimo cinco años de experiencia en roles similares (su experiencia es en desarrollo de software).",
+      "El perfil y la experiencia del candidato no se alinean con un rol de Talent Acquisition Specialist, sino con desarrollo de software."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "f873321a-7863-4c59-ab9a-85c41ec5574c",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (es estudiante de Ingeniería en Informática y no graduado/a).",
+      "No cumple con el requisito de un mínimo de cinco años de experiencia en roles similares (su experiencia detallada es en desarrollo de software y no en Talent Acquisition/RRHH).",
+      "Aunque la experiencia en la industria de Oil & Gas es 'ideal' y no excluyente, la falta total de experiencia en el rol específico (Talent Acquisition) sumada a no tener experiencia en la industria reduce significativamente la adecuación.",
+      "La ubicación del candidato (Buenos Aires) no coincide con el lugar de trabajo presencial requerido (Neuquén Capital)."
+    ],
+    "score": 1
+  },
+  {
+    "participant_id": "2837d505-3ce8-41d0-9028-1dd809da22db",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática y no se encuentra graduado de una carrera universitaria afín a Recursos Humanos, lo cual es un requisito excluyente.",
+      "El currículum no muestra experiencia laboral en roles similares de Talent Acquisition, lo cual es un requisito excluyente de al menos cinco años.",
+      "El perfil del candidato está enfocado en desarrollo de software y tecnologías de la información, no en funciones de Recursos Humanos o Adquisición de Talento."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "cb3bcfa6-f0ec-42a2-a827-ac453a273a78",
+    "reasons": [
+      "El candidato no es graduado de carreras universitarias afines a Recursos Humanos, lo cual es un requisito EXCLUYENTE.",
+      "El currículum no demuestra un mínimo de cinco años de experiencia en roles similares a Talent Acquisition Specialist. La experiencia presentada es en desarrollo de software/IT.",
+      "El perfil del candidato (educación y experiencia) no parece pertenecer a la industria de Oíl & Gas, según la instrucción general y la falta de mención en el CV."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "231177c5-c1d7-4447-8fe7-5e5fb3986813",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos; es estudiante de Ingeniería en Informática.",
+      "El candidato no cumple con el requisito de un mínimo de cinco años de experiencia en roles similares a Talent Acquisition; su experiencia es en desarrollo de software.",
+      "La ubicación del candidato (Buenos Aires) no coincide con la ubicación del puesto (Neuquén Capital) para un rol 100% presencial, aunque no es un requisito EXCLUYENTE listado en la sección 'Requisitos del puesto'."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "6f6235f8-45c0-4dc3-8d3c-6292fbbc3bf9",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos (es estudiante de Ingeniería en Informática).",
+      "El candidato no cumple con el requisito de tener un mínimo de cinco años de experiencia en roles similares (su experiencia detallada es en desarrollo de software, no en Talent Acquisition).",
+      "El perfil del candidato (desarrollo de software) no se alinea con las responsabilidades y el tipo de experiencia requerida para el puesto de Talent Acquisition Specialist."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "32f4ac52-c78f-4def-b599-aaaf74d26269",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de una carrera universitaria afín a Recursos Humanos, ya que es estudiante de Ingeniería en Informática.",
+      "No posee la experiencia mínima requerida de cinco años en roles de Talent Acquisition, ya que su experiencia detallada es en desarrollo de software.",
+      "El perfil general del candidato no se ajusta a las necesidades del puesto de Talent Acquisition Specialist en la industria de Oil & Gas."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "b13f59d8-0e67-4470-a109-5f47fa891d81",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática, no graduado/a de una carrera universitaria afín a Recursos Humanos, lo cual es un requisito excluyente.",
+      "El currículum no presenta la experiencia mínima de cinco años en roles similares (Talent Acquisition) requerida para el puesto.",
+      "El perfil del candidato está enfocado en desarrollo de software y habilidades técnicas de IT, no en funciones de Recursos Humanos ni en la industria de Oil & Gas."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "6a65f794-9736-4480-b7c0-d003f5288ffb",
+    "reasons": [
+      "No es graduado/a de una carrera universitaria afín a Recursos Humanos (Requisito EXCLUYENTE no cumplido). El candidato es estudiante de Ingeniería en Informática.",
+      "No cuenta con un mínimo de cinco años de experiencia en roles similares (Talent Acquisition/Recruitment). La experiencia listada es en desarrollo de software.",
+      "La educación y experiencia del candidato no se alinean con las responsabilidades y requisitos del puesto de Talent Acquisition Specialist."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "e8438613-8a26-45b2-833a-9beb7994547e",
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática, no graduado de una carrera universitaria afín a Recursos Humanos (requisito EXCLUYENTE).",
+      "El currículum no demuestra los cinco años de experiencia mínima requerida en roles similares de Talent Acquisition o Recursos Humanos (requisito EXCLUYENTE).",
+      "El perfil y la experiencia se centran en el desarrollo de software y la tecnología, sin experiencia en la industria de Oil & Gas o en roles de Recursos Humanos.",
+      "La ubicación actual del candidato es Buenos Aires, mientras que el puesto es en Neuquén Capital, lo que implica un potencial obstáculo logístico o de reubicación no abordado."
+    ],
+    "score": 0
+  }
+]

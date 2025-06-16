@@ -1,0 +1,18 @@
+[
+  {
+    "participant_id": "0f046412-9ffa-4ab8-966b-96dd568037cd",
+    "score": 40,
+    "reasons": [
+      "El candidato tiene entre 20 y 30 a\u00f1os, cumpliendo con el requisito de edad.",
+      "Est\u00e1 estudiando Ingenier\u00eda en Software, lo que es af\u00edn a Ingenier\u00eda en Sistemas o Inform\u00e1tica.",
+      "Posee conocimientos en varios lenguajes de programaci\u00f3n b\u00e1sicos como Python, Java y JavaScript/TypeScript.",
+      "Tiene familiaridad con SQL y conocimientos intermedios en ingl\u00e9s t\u00e9cnico, aunque el puesto requiere ingl\u00e9s avanzado excluyente.",
+      "No se menciona experiencia con .NET Framework, VB.NET, ASP.NET, ni experiencia en desarrollo web con esas tecnolog\u00edas, que son requisitos excluyentes para el puesto.",
+      "No se menciona experiencia en creaci\u00f3n de API REST ni en bases de datos SQL Server, que son requisitos t\u00e9cnicos clave.",
+      "No se menciona experiencia con Git, GitHub, Jira, AWS o tecnolog\u00edas DevOps, que son requerimientos importantes.",
+      "Tiene experiencia acad\u00e9mica y proyectos personales, lo cual es valorado para un perfil junior, pero no suficiente para el perfil senior requerido.",
+      "El puesto requiere m\u00e1s de 5 a\u00f1os de experiencia en desarrollo web con .NET Framework, lo cual el candidato no cumple.",
+      "El candidato muestra capacidad de aprendizaje y motivaci\u00f3n, pero no cumple con los requisitos t\u00e9cnicos y experiencia para el puesto de Desarrollador Full Stack .NET."
+    ]
+  }
+]

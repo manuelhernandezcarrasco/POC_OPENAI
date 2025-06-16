@@ -1,0 +1,329 @@
+[
+  {
+    "participant_id": "a10b8472-2e52-4f7e-a078-1c9ae0cea22c",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, relaciones p\u00fablicas, comunicaci\u00f3n o digital.",
+      "Aunque menciona manejo del paquete Office, no se especifica el manejo de GSuite.",
+      "No tiene experiencia en la industria de creadores de contenido.",
+      "Si bien su nivel de ingl\u00e9s es avanzado, la descripci\u00f3n del puesto requiere un nivel intermedio/avanzado, lo que puede ser considerado insuficiente."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "41137ca5-a064-4fc8-b1d2-16f4e0467543",
+    "reasons": [
+      "El candidato es estudiante de ingenier\u00eda industrial, sin experiencia en marketing, PR, comunicaci\u00f3n o digital.",
+      "No menciona experiencia con manejo de influencers o creadores de contenido.",
+      "Si bien menciona ingl\u00e9s avanzado, no se especifica el nivel, que debe ser intermedio/avanzado seg\u00fan la descripci\u00f3n.",
+      "La experiencia laboral no se relaciona con la descripci\u00f3n del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2ec100b3-9fc4-4fa3-bdca-ed2f0906aed0",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en Marketing de Influencers ni en agencias de comunicaci\u00f3n.",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de GSuite.",
+      "No menciona experiencia en el trato con clientes.",
+      "No se evidencia experiencia en el an\u00e1lisis de perfiles de creadores de contenido.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con la descripci\u00f3n del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "176f7638-be06-4eb4-9057-bc1982a6cd96",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing de influencers, ni en agencias de PR o comunicaci\u00f3n digital.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en el trato con clientes o gesti\u00f3n de campa\u00f1as de creadores de contenido.",
+      "Su experiencia laboral se centra en mantenimiento y docencia, \u00e1reas que no se relacionan con el puesto requerido.",
+      "No se menciona el manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2861f8b3-e5f5-4d46-9409-bedde06d59f1",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, publicidad, relaciones p\u00fablicas o comunicaci\u00f3n.",
+      "Carece de experiencia en agencias o consultoras del sector.",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de GSuite.",
+      "No demuestra experiencia en la industria de creadores de contenido.",
+      "Aunque indica ingl\u00e9s avanzado (nivel C1), la descripci\u00f3n del puesto solicita nivel intermedio/avanzado."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "28366eb4-3245-429f-8493-505c7d02c083",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, ni en agencias, consultoras de PR o comunicaci\u00f3n digital.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se especifica experiencia en el manejo de Gsuite.",
+      "No tiene experiencia en el \u00e1rea de marketing de influencers ni en el trato con clientes.",
+      "Su experiencia laboral se centra en mantenimiento y clases particulares, sin relaci\u00f3n con el puesto."
+    ],
+    "score": 30
+  },
+  {
+    "participant_id": "4e6021a2-fe6c-421f-a6a8-0cc26ee21847",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, PR, comunicaci\u00f3n o digital.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en la industria de creadores de contenido.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con el puesto.",
+      "No menciona experiencia con GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "467b8197-fe85-4340-ba13-7186b805f0a9",
+    "reasons": [
+      "No cuenta con experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital, requisito excluyente para el puesto.",
+      "Su experiencia laboral no se relaciona con marketing de influencers o \u00e1reas afines.",
+      "Si bien menciona ingl\u00e9s avanzado, no se especifica si es nivel C1, como exige la descripci\u00f3n del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "98efe2c4-4071-424e-9578-681862e2be46",
+    "reasons": [
+      "El candidato es estudiante de ingenier\u00eda industrial, sin experiencia en marketing, comunicaci\u00f3n o publicidad.",
+      "No se menciona experiencia en agencias, consultoras de PR o marketing digital.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en el manejo de GSuite.",
+      "La experiencia laboral no se relaciona con la descripci\u00f3n del puesto.",
+      "No hay evidencia de conocimiento de la industria de creadores de contenido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "cdc2f2fa-ec17-4cdc-8bb3-9ba46210b1e1",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, comunicaci\u00f3n, ni relaciones p\u00fablicas.",
+      "La experiencia laboral en Danone no se relaciona con la descripci\u00f3n del puesto.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en agencias, consultoras de PR o comunicaci\u00f3n digital, requisito excluyente de la posici\u00f3n.",
+      "No se menciona experiencia en manejo de GSuite o conocimiento de la industria de creadores de contenido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a2740631-1d96-453f-9c52-c7a27fa070e7",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital (requisito excluyente).",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con la descripci\u00f3n del puesto.",
+      "Si bien menciona manejo del paquete Office, no se especifica el manejo de GSuite.",
+      "No se menciona experiencia en el manejo de campa\u00f1as de influencers o conocimiento de la industria de creadores de contenido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "12a71372-dfda-406d-a310-5e3f7a6d92a3",
+    "reasons": [
+      "El candidato es estudiante de ingenier\u00eda industrial, sin experiencia en marketing, relaciones p\u00fablicas, comunicaci\u00f3n o digital.  La descripci\u00f3n del puesto requiere m\u00e1s de dos a\u00f1os de experiencia en estas \u00e1reas.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en el manejo de Gsuite.",
+      "No se menciona experiencia en la industria de creadores de contenido ni en trato con clientes.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con los requerimientos del puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e331e0a8-569b-4392-9d67-1dc0b9d1f3dc",
+    "reasons": [
+      "El candidato es estudiante de ingenier\u00eda industrial, no posee experiencia en marketing de influencers ni en agencias de comunicaci\u00f3n o consultor\u00eda.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en el trato con clientes ni gesti\u00f3n de campa\u00f1as de marketing de influencers.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con el puesto requerido.",
+      "No se menciona el manejo de G Suite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e5e2a2d9-e26a-4cef-ab5b-180abdebf8ae",
+    "reasons": [
+      "Falta de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital.",
+      "La experiencia laboral en mantenimiento no se relaciona con la descripci\u00f3n del puesto.",
+      "Si bien menciona ingl\u00e9s avanzado, no se especifica si es nivel C1 o superior al requerido.",
+      "No menciona experiencia en marketing de influencers ni en el manejo de creadores de contenido.",
+      "No se evidencia manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "a7a55dc7-8992-4433-b5fa-cae24cfff926",
+    "reasons": [
+      "No tiene experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital, requisito excluyente del puesto.",
+      "Su experiencia laboral no se relaciona con marketing de influencers ni con la industria de creadores de contenido.",
+      "Si bien menciona ingl\u00e9s avanzado, no se especifica si es nivel C1 como se requiere."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "4c69ab65-4c6e-44f0-b2e3-497122faa0b0",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no cuenta con experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital.",
+      "Su experiencia laboral no se relaciona con marketing de influencers ni con las responsabilidades del puesto.",
+      "Si bien menciona ingl\u00e9s avanzado (C1), no se evidencia experiencia en el trato con clientes ni en el manejo de GSuite."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "8c40c0d3-59ee-4866-a2da-a3fa53faa59c",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no cuenta con la experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital requerida (m\u00e1s de 2 a\u00f1os).",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de G Suite.",
+      "Su experiencia laboral no se relaciona con marketing de influencers o \u00e1reas afines.",
+      "Aunque menciona ingl\u00e9s avanzado (nivel C1), el puesto requiere un nivel intermedio/avanzado."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "e4b6df88-c088-47db-a0cd-e5c24f27d6d9",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no posee experiencia en marketing de influencers, ni en agencias de comunicaci\u00f3n o consultoras.",
+      "Si bien menciona manejo del paquete Office, no especifica el manejo de GSuite.",
+      "Su experiencia laboral no se relaciona con la descripci\u00f3n del puesto.",
+      "Menciona un nivel avanzado de ingl\u00e9s (C1), cumpliendo con este requisito."
+    ],
+    "score": 30
+  },
+  {
+    "participant_id": "e78f0989-4ff8-4f3c-8c1e-6a892b052173",
+    "reasons": [
+      "El candidato es estudiante de ingenier\u00eda industrial, sin experiencia en marketing, relaciones p\u00fablicas, comunicaci\u00f3n o digital.",
+      "No menciona experiencia con influencers o creadores de contenido.",
+      "Si bien menciona ingl\u00e9s avanzado, no especifica si tiene experiencia en un entorno profesional.",
+      "La experiencia laboral no se relaciona con el puesto."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "02b3c744-3418-4a72-ab86-990a95692715",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial, no tiene experiencia en marketing, publicidad, relaciones p\u00fablicas, ni comunicaci\u00f3n.",
+      "La experiencia laboral en Danone y como profesor particular no se relaciona con el puesto.",
+      "Si bien menciona ingl\u00e9s avanzado, no se especifica su experiencia en el \u00e1mbito profesional.",
+      "No menciona experiencia en manejo de GSuite ni en la industria de creadores de contenido."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "5d50c968-022b-4bb2-873d-567ac55d42ff",
+    "reasons": [
+      "El candidato no cumple con el requisito de m\u00e1s de 2 a\u00f1os de experiencia en agencias de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral presentada se centra en el \u00e1rea de Mantenimiento en una industria diferente (Ingenier\u00eda/Manufactura) y como profesor particular, no relevante para el puesto de Ejecutivo/a de Marketing de Influencers.",
+      "No se menciona experiencia o conocimiento en la industria de creadores de contenido, que es un requisito fundamental para el rol.",
+      "El perfil acad\u00e9mico (Estudiante de Ingenier\u00eda Industrial) y la experiencia laboral no se alinean con la industria o las responsabilidades descritas para el puesto.",
+      "Si bien cumple con el requisito de nivel de ingl\u00e9s avanzado y menciona habilidades de trabajo en equipo, carece de la experiencia y conocimientos espec\u00edficos excluyentes para el puesto."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "8b86a14b-31f8-4719-b8f4-8247bf41049c",
+    "reasons": [
+      "El curr\u00edculum no demuestra tener los m\u00e1s de 2 a\u00f1os de experiencia requeridos en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral presentada se limita a pasant\u00eda en Mantenimiento Industrial y profesor particular, industrias no relevantes para el puesto.",
+      "No se menciona conocimiento o experiencia en la industria de creadores de contenido, un requisito clave para el rol.",
+      "El perfil del candidato (estudiante de ingenier\u00eda, pasante, tutor) no se alinea con el de un Ejecutivo/a Sr.",
+      "Aunque menciona manejo del Paquete Office, no especifica manejo de GSuite como se solicita expl\u00edcitamente.",
+      "No se detalla experiencia espec\u00edfica en trato con clientes en un contexto similar al de una agencia/consultora."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "d1766d13-3185-407c-8b6d-ee981116e123",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de tener m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral detallada (Pasante de Mantenimiento, Profesor Particular) no es relevante para el rol de Ejecutivo de Marketing de Influencers ni se ajusta a la industria requerida (agencias/consultoras).",
+      "No se menciona experiencia o conocimiento espec\u00edfico en la industria de creadores de contenido o marketing de influencers, un conocimiento clave para el rol.",
+      "No se menciona manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.), solo 'Manejo del Paquete Office'.",
+      "No se menciona experiencia en trato con clientes, un requisito del perfil.",
+      "La formaci\u00f3n acad\u00e9mica (Ingenier\u00eda Industrial) no est\u00e1 directamente alineada con el puesto de marketing y comunicaciones."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "d0d9b492-bf51-49ba-ae87-a664ec42bd17",
+    "reasons": [
+      "El candidato es estudiante de Ingenier\u00eda Industrial y su experiencia laboral es como Pasante de Mantenimiento y Profesor Particular, lo cual no cumple con el requisito de m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia del candidato no se alinea con la industria requerida (PR, Comunicaci\u00f3n, Digital).",
+      "No se menciona conocimiento de la industria de creadores de contenido, que es un requisito clave del puesto.",
+      "No se demuestra experiencia clara en trato con clientes en un contexto de agencia/consultor\u00eda.",
+      "Cumple con el requisito de nivel de ingl\u00e9s (Avanzado/C1).",
+      "Menciona habilidades de trabajo en equipo."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "cece3a16-0f03-42d4-aec8-7bd877b85ec8",
+    "reasons": [
+      "No cumple con el requisito de m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral presentada (Mantenimiento, Profesor) no se alinea con la industria y tipo de empresa requerida.",
+      "No menciona manejo de GSuite, solo Paquete Office.",
+      "No menciona experiencia espec\u00edfica en trato con clientes.",
+      "No menciona ser detallista y ordenado/a.",
+      "No menciona conocimiento de la industria de creadores de contenido.",
+      "Cumple con el requisito de nivel avanzado de ingl\u00e9s."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2dd83d83-b383-43b7-b3f0-586b292e8027",
+    "reasons": [
+      "El candidato es estudiante y no cuenta con los m\u00e1s de 2 a\u00f1os de experiencia requeridos en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral presentada (Pasante de Mantenimiento, Profesor Particular) no es relevante para el puesto de Marketing de Influencers.",
+      "No se menciona conocimiento espec\u00edfico de la industria de creadores de contenido, un requisito clave del puesto.",
+      "Aunque cumple con el nivel de ingl\u00e9s requerido (C1), no cumple con la experiencia y el background de industria necesarios para el puesto Sr."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "1b98026e-0819-47b4-81a1-ba23b6e211ff",
+    "reasons": [
+      "El candidato no cumple con el requisito excluyente de m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral detallada (Pasante de Mantenimiento, Profesor Particular) no es relevante para el puesto de Ejecutivo/a Sr de Marketing de Influencers.",
+      "No se menciona experiencia ni conocimiento espec\u00edfico en Marketing de Influencers o en la industria de creadores de contenido, requisitos clave del puesto.",
+      "Si bien cumple con el nivel de ingl\u00e9s requerido, no se explicita el manejo de GSuite (se menciona Paquete Office)."
+    ],
+    "score": 10
+  },
+  {
+    "participant_id": "7928d4e4-0e46-4884-919a-f7ba7ddb063e",
+    "reasons": [
+      "El curr\u00edculum no muestra experiencia (m\u00e1s de 2 a\u00f1os) trabajando en agencias o consultoras de PR, comunicaci\u00f3n o digital, lo cual es un requisito clave.",
+      "La experiencia laboral presentada (Pasante de Mantenimiento, Profesor Particular) no pertenece a la industria de agencias o consultoras de comunicaci\u00f3n/digital requerida.",
+      "No se menciona conocimiento o experiencia relacionada con la industria de creadores de contenido, que es fundamental para el puesto.",
+      "Se menciona manejo del Paquete Office, pero no espec\u00edficamente del Paquete GSuite (Drive, Gmail, Sheet, Docs, etc.), solicitado en la descripci\u00f3n.",
+      "Si bien se mencionan habilidades como trabajo en equipo y ser detallista/ordenado, que alinean con el perfil, la falta de experiencia directa y conocimiento de la industria son puntos d\u00e9biles significativos."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "aa6d1e24-c9c4-48ea-9b7f-f6bb3d73643c",
+    "reasons": [
+      "No cumple el requisito de tener m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital.",
+      "La experiencia laboral listada (Pasante de Mantenimiento, Profesor Particular) no pertenece a la industria requerida (comunicaci\u00f3n, PR, o Digital).",
+      "No menciona conocimiento espec\u00edfico de la industria de creadores de contenido.",
+      "Menciona manejo del Paquete Office en lugar del requerido manejo de GSuite.",
+      "Cumple el requisito de nivel avanzado de ingl\u00e9s (C1).",
+      "Menciona la habilidad de Trabajo en equipo, que es un requisito."
+    ],
+    "score": 11
+  },
+  {
+    "participant_id": "28602272-0e0e-4f01-bfe2-e60f2dae5fea",
+    "reasons": [
+      "El candidato no demuestra tener m\u00e1s de 2 a\u00f1os de experiencia en agencias, consultoras de PR, comunicaci\u00f3n o Digital, como requiere el puesto 'Sr'.",
+      "La experiencia laboral mencionada (Pasante de Mantenimiento, Profesor Particular) no es en las industrias requeridas.",
+      "No se menciona el manejo de GSuite, requisito espec\u00edfico del puesto (se menciona Paquete Office).",
+      "No se evidencia conocimiento de la industria de creadores de contenido.",
+      "No se menciona expl\u00edcitamente experiencia o habilidad en el trato con clientes.",
+      "No se menciona expl\u00edcitamente ser detallista y ordenado/a."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "2480634b-0b79-44dc-8a14-399bd098c3f7",
+    "score": 20,
+    "reasons": [
+      "No tiene experiencia en agencias, consultoras de PR, comunicaci\u00f3n o digital, requisito fundamental para el puesto.",
+      "No se menciona experiencia espec\u00edfica en marketing de influencers ni en la industria de creadores de contenido.",
+      "Aunque tiene nivel avanzado de ingl\u00e9s, no cumple con el requisito de experiencia m\u00ednima de 2 a\u00f1os en el sector requerido.",
+      "No se menciona manejo de GSuite, que es un requisito para el puesto.",
+      "El perfil es de estudiante de ingenier\u00eda industrial, no relacionado con marketing o comunicaci\u00f3n."
+    ]
+  }
+]

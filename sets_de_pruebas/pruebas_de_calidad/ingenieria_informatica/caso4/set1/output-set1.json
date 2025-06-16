@@ -1,0 +1,18 @@
+[
+  {
+    "participant_id": "de200585-d006-4906-a346-3aeb287013cf",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con experiencia laboral comprobable en desarrollo de software.",
+      "No tiene experiencia en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos t\u00e9cnicos clave del puesto.",
+      "No se menciona experiencia en creaci\u00f3n de API REST ni en manejo de bases de datos SQL Server.",
+      "No se evidencia dominio de Git ni herramientas de gesti\u00f3n de proyectos como Jira.",
+      "Aunque tiene conocimientos en AWS, no se especifica experiencia con los servicios requeridos (EC2, ALB, S3).",
+      "No se menciona experiencia en armado de planes de prueba ni en tecnolog\u00edas DevOps.",
+      "El nivel de ingl\u00e9s es biling\u00fce, lo cual es positivo, pero no suficiente para compensar la falta de experiencia t\u00e9cnica y a\u00f1os requeridos.",
+      "No cumple con el requisito de m\u00e1s de 5 a\u00f1os de experiencia en desarrollo web con .NET ni con los requisitos adicionales para Ingeniero/a Inform\u00e1tico/a Senior.",
+      "No tiene formaci\u00f3n acad\u00e9mica finalizada, solo est\u00e1 cursando la carrera.",
+      "No se menciona experiencia en entornos cr\u00edticos ni liderazgo de equipos o proyectos."
+    ]
+  }
+]

@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 cv_dir = "cvs"
-model = "o4-mini-2025-04-16"
+model = "o4-mini"
 job_description_file = "job_description.pdf"
 
 cv_pdf_files = [os.path.join(cv_dir, f) for f in os.listdir(cv_dir) if f.endswith(".pdf")]

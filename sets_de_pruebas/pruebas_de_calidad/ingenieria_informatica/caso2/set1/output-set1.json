@@ -1,0 +1,13 @@
+[
+  {
+    "participant_id": "fcab5042-8e84-4e57-add4-be462d295b85",
+    "score": 0,
+    "reasons": [
+      "El candidato es dise\u00f1ador gr\u00e1fico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia con VB.NET, ASP.NET, SQL Server ni creaci\u00f3n de API REST.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS o tecnolog\u00edas DevOps.",
+      "No se indica manejo avanzado de ingl\u00e9s ni experiencia en facturaci\u00f3n, procesamiento de pagos o software contable.",
+      "No cumple con los requisitos t\u00e9cnicos ni con la industria requerida para el puesto."
+    ]
+  }
+]

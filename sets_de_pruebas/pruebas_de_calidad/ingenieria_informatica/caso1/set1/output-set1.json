@@ -1,0 +1,14 @@
+[
+  {
+    "participant_id": "88920dec-aeb9-4b00-8898-7bde27bf94bb",
+    "score": 10,
+    "reasons": [
+      "El candidato es estudiante y no tiene experiencia laboral demostrada en desarrollo web con .NET Framework.",
+      "No se menciona experiencia con VB.NET, formularios web ASP.NET ni SQL Server, que son requisitos t\u00e9cnicos clave.",
+      "No se evidencia experiencia en creaci\u00f3n de API REST ni en manejo de bases de datos SQL Server.",
+      "No se menciona conocimiento en facturaci\u00f3n, procesamiento de pagos ni software de contabilidad financiera.",
+      "Aunque tiene conocimientos en AWS y habilidades blandas adecuadas, no cumple con los requisitos t\u00e9cnicos m\u00ednimos ni la experiencia requerida.",
+      "No se especifica nivel de ingl\u00e9s avanzado, solo indica ser biling\u00fce sin detalle del nivel."
+    ]
+  }
+]

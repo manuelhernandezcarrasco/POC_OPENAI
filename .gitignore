@@ -1,4 +1,6 @@
 .env
 job_description.pdf
-cvs/*
-!cvs/
+**/job_description.pdf
+script.py
+**/cvs/*
+!**/cvs/

@@ -1,0 +1,119 @@
+[
+  {
+    "participant_id": "9352b4e4-9466-47e2-a7c4-bcf69225354d",
+    "reasons": [
+      "No cumple con el requisito excluyente de poseer un mínimo de cinco años de experiencia en roles de Talent Acquisition o similares. La experiencia laboral es en ventas y recepción.",
+      "No cumple con el requisito excluyente de poseer idioma inglés avanzado. El currículum indica nivel básico.",
+      "No cumple con el requisito excluyente de ser graduado/a de carreras universitarias afines a Recursos Humanos. Actualmente se encuentra estudiando.",
+      "La edad (19 años) no se ajusta a la preferencia indicada en los requisitos adicionales (25-40 años), lo cual es consistente con la falta de experiencia y título requeridos para el puesto."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "a6e5e659-bef7-46fb-85f6-02387c442193",
+    "reasons": [
+      "No cumple el requisito excluyente de estar graduado/a de carrera universitaria afín a Recursos Humanos (se encuentra estudiando actualmente).",
+      "No cumple el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (Talent Acquisition/Recruitment); su experiencia laboral es como vendedora y recepcionista, no en RRHH.",
+      "No cumple el requisito excluyente de idioma inglés avanzado (indica nivel Básico).",
+      "La ubicación del candidato (aparentemente Pilar, Buenos Aires) no coincide con la ubicación del puesto (Neuquén Capital) para un rol 100% presencial.",
+      "La edad indicada en el CV (19 años) es inconsistente con la fecha de nacimiento (06/06/1996), que indica una edad actual de 27/28 años. Aunque la edad calculada cae dentro del rango preferente (25-40), la inconsistencia es notable.",
+      "La experiencia laboral no es en áreas de Recursos Humanos, según los requisitos adicionales solicitados (selección, capacitación, etc.)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "00e39c3b-200d-4e58-be68-64bfb7783350",
+    "reasons": [
+      "El candidato no es graduado universitario en un área afín a RRHH, requisito excluyente para el puesto.",
+      "El candidato no cumple con el requisito de experiencia mínima de cinco años en roles similares; su experiencia laboral no es en RRHH/Talent Acquisition.",
+      "El nivel de inglés del candidato es Básico, no Avanzado, requisito excluyente para el puesto.",
+      "La edad listada (19 años) está fuera del rango preferente (25-40 años) y es inconsistente con la fecha de nacimiento indicada (1996).",
+      "La ubicación listada en el CV (Pilar) no coincide con la ubicación del puesto (Neuquén)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c57e817b-65d4-498a-b152-c93daddcc1e3",
+    "reasons": [
+      "No cumple con el requisito excluyente de ser graduada/a universitaria en carreras afines a RRHH (está estudiando, pero no graduada).",
+      "No cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (su experiencia es de menos de un año y no en TA).",
+      "No cumple con el requisito excluyente de idioma inglés avanzado, indicando nivel básico.",
+      "La experiencia laboral presentada (vendedora, recepcionista) no es relevante para el puesto de Talent Acquisition Specialist.",
+      "La edad (19 años según CV) no se ajusta al rango de edad preferente (25-40 años).",
+      "La ubicación del candidato (Pilar, Buenos Aires) es distante de la locación del puesto (Neuquén Capital) para un trabajo 100% presencial."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "c04bb9b6-b36c-43eb-a5f4-87457c284d0e",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos, ya que indica que está actualmente cursando.",
+      "El candidato no posee la experiencia mínima de cinco años requerida en roles similares (Talent Acquisition), requisito EXCLUYENTE. Su experiencia laboral no es en áreas de RRHH.",
+      "El nivel de inglés del candidato es Básico, mientras que se requiere un nivel Avanzado (EXCLUYENTE).",
+      "La edad indicada en el currículum (19 años) está por debajo del rango preferente (25-40 años), aunque la fecha de nacimiento podría sugerir una edad mayor si el CV estuviera desactualizado.",
+      "La ubicación del candidato (Pilar, GBA) no coincide con la ubicación del puesto (Neuquén Capital, 100% presencial)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "62a105d6-3550-45df-b4d6-13dfb9cf0bdf",
+    "reasons": [
+      "El candidato no cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos. Indica estudios 'en actualidad'.",
+      "El candidato no cumple con el requisito de tener un mínimo de cinco años de experiencia en roles similares. La experiencia laboral listada no es en Adquisición de Talento ni en áreas de RRHH.",
+      "El candidato no cumple con el requisito EXCLUYENTE de idioma inglés avanzado. Indica nivel básico.",
+      "La ubicación del candidato no es Neuquén, siendo el puesto 100% presencial en Neuquén Capital.",
+      "Aunque estudia una carrera afín a RRHH, no se menciona experiencia con herramientas digitales avanzadas o sistemas de gestión de RRHH relevantes (Excel avanzado, Google Workspace, SAP, Meta4, Workday, etc.).",
+      "No se menciona conocimiento en legislación laboral local.",
+      "La edad indicada en el CV (19 años) no se alinea con el año de inicio de estudios universitarios (2015) ni con la experiencia laboral, sugiriendo que el CV está desactualizado o contiene errores. Si la fecha de nacimiento (1996) es correcta, la edad (~27 años) estaría dentro del rango preferente, pero los requisitos de estudio y experiencia siguen sin cumplirse."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "70b1464f-ec02-4d5c-ba15-9f7f5fd4be63",
+    "reasons": [
+      "No cumple con el requisito excluyente de ser graduado/a universitario/a. Actualmente se encuentra cursando la carrera.",
+      "No cumple con el requisito excluyente de contar con un mínimo de 5 años de experiencia en roles similares (Talent Acquisition). La experiencia laboral es muy limitada (menos de 1 año total) y en roles no relacionados con RRHH/TA.",
+      "No cumple con el requisito excluyente de idioma inglés avanzado. Indica tener inglés básico.",
+      "La candidata reside fuera de Neuquén Capital, siendo el puesto 100% presencial en esa localidad.",
+      "La edad (19 años, según el CV) está fuera del rango de edad preferente (25-40 años).",
+      "El nivel de manejo de herramientas digitales es básico (Paquete Office, Outlook) y no menciona sistemas de gestión de RRHH."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "7ec4f721-7d00-4663-82ba-fc4ddafe2cdd",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a RRHH (indica que está estudiando, no graduada).",
+      "No cumple con el requisito excluyente de tener un mínimo de cinco años de experiencia en roles similares (Talent Acquisition). Su experiencia laboral es como vendedora y recepcionista, con menos de 5 años en total.",
+      "No cumple con el requisito excluyente de tener idioma inglés avanzado (indica nivel básico).",
+      "La experiencia laboral presentada (vendedora, recepcionista) no se alinea con las responsabilidades clave de un Talent Acquisition Specialist.",
+      "No se menciona experiencia en herramientas digitales de gestión de RRHH, sólo paquete Office e Internet.",
+      "La ubicación indicada en el CV no parece ser Neuquén Capital, donde se ubica el puesto."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "3d20445f-c5cf-4cbb-a725-f99b365ed214",
+    "reasons": [
+      "No cumple con el requisito excluyente de ser graduado/a universitario/a (se encuentra estudiando).",
+      "No cumple con el requisito excluyente de tener 5 años de experiencia en roles de Talent Acquisition/Selección (la experiencia es en ventas y recepción).",
+      "No cumple con el requisito excluyente de tener nivel de inglés avanzado (indica Básico).",
+      "No cumple con el requisito de ubicación (Neuquén Capital), reside en otra provincia.",
+      "La experiencia laboral no es en áreas de Recursos Humanos.",
+      "La experiencia es en otras industrias, no Oil & Gas.",
+      "No se mencionan herramientas digitales específicas de RRHH."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "8804b73c-35fe-45c0-8cff-3d2b45a6fa82",
+    "reasons": [
+      "No cumple con el requisito EXCLUYENTE de estar graduado/a de carreras universitarias afines a Recursos Humanos (se encuentra estudiando).",
+      "No cumple con el requisito EXCLUYENTE de un mínimo de cinco años de experiencia en roles similares de Talent Acquisition (posee aproximadamente 1 año de experiencia laboral general no relacionada con TA).",
+      "No cumple con el requisito EXCLUYENTE de idioma inglés avanzado (indica nivel básico).",
+      "No parece residir en Neuquén Capital, la ubicación requerida para el puesto 100% presencial.",
+      "La edad del candidato (19 años según el CV) está por debajo del rango preferente (25-40 años) indicado en los requisitos adicionales."
+    ],
+    "score": 5
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "participant_id": "2417d955-4de0-48ac-a195-4a9dc281d1f5",
+    "score": 10,
+    "reasons": [
+      "No cumple con el requisito de m\u00e1s de 7 a\u00f1os de experiencia comprobable en desarrollo de software o roles similares.",
+      "No tiene experiencia con .NET Framework, VB.NET, ASP.NET ni SQL Server, que son tecnolog\u00edas clave para el puesto.",
+      "No evidencia experiencia en creaci\u00f3n de API REST ni en servicios AWS como EC2, ALB o S3.",
+      "No se menciona experiencia en facturaci\u00f3n, procesamiento de pagos o software de contabilidad financiera.",
+      "Aunque tiene ingl\u00e9s avanzado, su experiencia t\u00e9cnica y formaci\u00f3n est\u00e1n en curso (estudiante universitario), no cumple con el perfil senior requerido.",
+      "No se evidencia experiencia liderando equipos t\u00e9cnicos o proyectos complejos.",
+      "No tiene experiencia en tecnolog\u00edas DevOps espec\u00edficas requeridas ni en entornos cr\u00edticos.",
+      "No cumple con la formaci\u00f3n acad\u00e9mica s\u00f3lida en grado o posgrado finalizado, ya que est\u00e1 cursando la carrera."
+    ]
+  }
+]

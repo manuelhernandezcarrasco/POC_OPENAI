@@ -1,0 +1,96 @@
+[
+  {
+    "participant_id": "c0cc5abc-9ffd-403d-99a1-23bccfd4318e",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No hay informaci\u00f3n sobre educaci\u00f3n, experiencia o habilidades t\u00e9cnicas.",
+      "No se puede verificar si el candidato pertenece a la industria correcta."
+    ]
+  },
+  {
+    "participant_id": "7cdd9d21-db0f-4eb1-aa4a-9ea022de70ec",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar si el candidato pertenece a la industria correcta.",
+      "No se puede evaluar experiencia, formaci\u00f3n ni habilidades t\u00e9cnicas sin informaci\u00f3n.",
+      "Falta informaci\u00f3n para determinar adecuaci\u00f3n al puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "194306cd-c6db-4284-bb7d-f2c2384489b7",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar si el candidato pertenece a la industria correcta.",
+      "No se puede evaluar experiencia, educaci\u00f3n ni habilidades t\u00e9cnicas sin informaci\u00f3n.",
+      "No se puede determinar adecuaci\u00f3n al puesto sin detalles del perfil del candidato."
+    ]
+  },
+  {
+    "participant_id": "eabbc6b4-72b8-4c7d-8a4f-806db6fe4409",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar si el candidato pertenece a la industria correcta.",
+      "No se puede evaluar experiencia, educaci\u00f3n ni habilidades t\u00e9cnicas sin informaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "0fd0a9c8-b660-48a9-9aa2-7bcca08bd1b8",
+    "score": 0,
+    "reasons": [
+      "No se proporciona informaci\u00f3n del curr\u00edculum en la imagen adjunta.",
+      "No se puede evaluar la adecuaci\u00f3n del candidato al puesto sin datos espec\u00edficos sobre educaci\u00f3n, experiencia o habilidades.",
+      "No se evidencia pertenencia a la industria de administraci\u00f3n y finanzas."
+    ]
+  },
+  {
+    "participant_id": "1d92b53e-4bf0-43f5-9860-a702f12e80c6",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar si el candidato pertenece a la industria correcta.",
+      "No se puede evaluar experiencia, educaci\u00f3n ni habilidades t\u00e9cnicas sin informaci\u00f3n.",
+      "No se puede determinar adecuaci\u00f3n al puesto sin datos espec\u00edficos del candidato."
+    ]
+  },
+  {
+    "participant_id": "e15138ea-145a-42f3-a90e-b2f1677a4a04",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar si el candidato pertenece a la industria correcta.",
+      "No se puede evaluar experiencia, educaci\u00f3n ni habilidades t\u00e9cnicas sin informaci\u00f3n.",
+      "Falta informaci\u00f3n para determinar adecuaci\u00f3n al puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "f5b315a9-1d19-4e0c-bfca-e8c18f47cbcc",
+    "score": 0,
+    "reasons": [
+      "El documento proporcionado no contiene informaci\u00f3n sobre el curr\u00edculum del candidato.",
+      "No se puede evaluar la adecuaci\u00f3n al puesto sin datos sobre educaci\u00f3n, experiencia o habilidades.",
+      "Es necesario un curr\u00edculum detallado para realizar una evaluaci\u00f3n precisa."
+    ]
+  },
+  {
+    "participant_id": "3fd3b137-ac9e-4b18-b269-d29b71ebf527",
+    "score": 0,
+    "reasons": [
+      "No se proporciona texto del curr\u00edculum para evaluar.",
+      "No se puede verificar la experiencia ni la educaci\u00f3n del candidato.",
+      "No se puede confirmar si el candidato pertenece a la industria correcta."
+    ]
+  },
+  {
+    "participant_id": "ea33ef2c-143e-437d-a8ca-b9e47282da36",
+    "score": 0,
+    "reasons": [
+      "El documento proporcionado no contiene informaci\u00f3n del curr\u00edculum del candidato.",
+      "No se puede evaluar la adecuaci\u00f3n al puesto sin datos sobre educaci\u00f3n, experiencia o habilidades.",
+      "No se evidencia pertenencia a la industria de administraci\u00f3n y finanzas."
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "participant_id": "43ddcff2-ca72-4185-8849-f1da27e70765",
+    "reasons": [
+      "Cumple con el requisito de edad (39 a\u00f1os).",
+      "Cumple con el requisito de formaci\u00f3n ideal (Contador P\u00fablico).",
+      "La experiencia laboral se centra en roles administrativos, de atenci\u00f3n al cliente, cobranzas y cr\u00e9dito, sin demostrar claramente 4+ a\u00f1os de experiencia espec\u00edfica en finanzas corporativas a nivel de gesti\u00f3n o administraci\u00f3n.",
+      "El dominio de herramientas t\u00e9cnicas clave como Excel avanzado (tablas din\u00e1micas, macros) y sistemas ERP (SAP) no est\u00e1 claramente demostrado; solo se menciona una experiencia m\u00ednima con SAP.",
+      "No se menciona experiencia liderando equipos peque\u00f1os.",
+      "No se menciona experiencia expl\u00edcita en la generaci\u00f3n de reportes ejecutivos.",
+      "Cuenta con experiencia en el sector servicios (banca), lo cual se valora positivamente."
+    ],
+    "score": 42
+  },
+  {
+    "participant_id": "0040485f-76bd-4e39-bf08-339982f564f3",
+    "reasons": [
+      "El curr\u00edculum no demuestra la experiencia m\u00ednima requerida de 3 a\u00f1os espec\u00edficamente en el \u00e1rea de Compras; la experiencia detallada es en roles administrativos, de caja, cobranzas, cr\u00e9dito, banca y ventas.",
+      "No se menciona expl\u00edcitamente un muy buen manejo de Excel en la secci\u00f3n de conocimientos inform\u00e1ticos ni en las responsabilidades listadas.",
+      "La experiencia detallada en el CV no evidencia negociaci\u00f3n directa con proveedores en el contexto de compras, aunque s\u00ed menciona interacci\u00f3n con clientes internos y pago a proveedores.",
+      "Si bien se menciona experiencia con SAP en una respuesta a pregunta, contradice la secci\u00f3n de conocimientos inform\u00e1ticos y este requisito es solo deseable en la descripci\u00f3n del puesto."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "4b49694e-0e2e-4f14-9933-ca010564060b",
+    "reasons": [
+      "El candidato no demuestra tener experiencia directa en el \u00e1rea de Compras, lo cual es el requisito principal (m\u00ednimo 3 a\u00f1os).",
+      "La experiencia laboral se centra en roles administrativos, de finanzas (caja, pagos a proveedores, cobranza, cr\u00e9dito), banca y ventas, que no se alinean con las responsabilidades clave de un Analista de Compras.",
+      "No se evidencia un manejo de Excel avanzado como requisito (aunque no es excluyente en la descripci\u00f3n, s\u00ed se menciona como 'muy buen manejo').",
+      "Existe informaci\u00f3n contradictoria respecto al manejo de SAP (no listado en habilidades, pero afirmado en preguntas y respuestas).",
+      "No se describe experiencia espec\u00edfica en negociaci\u00f3n con proveedores para compras, aunque s\u00ed en atenci\u00f3n al cliente y negociaci\u00f3n en ventas.",
+      "El perfil general y la experiencia no se ajustan significativamente a los requisitos y responsabilidades del puesto de Analista de Compras."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "44dece7a-291e-48c4-b7f6-c2a592456bb5",
+    "reasons": [
+      "El curr\u00edculum no demuestra experiencia espec\u00edfica y directa en el \u00e1rea de Compras, lo cual es un requisito fundamental del puesto de Analista de Compras.",
+      "No se cumple con el requisito m\u00ednimo de 3 a\u00f1os de experiencia espec\u00edficamente en el \u00e1rea de Compras. La experiencia descrita es principalmente administrativa, financiera (cobranzas/cr\u00e9dito/pagos) y de ventas.",
+      "Falta evidencia clara y detallada sobre el manejo de herramientas inform\u00e1ticas clave como Excel ('muy buen manejo') y SAP (deseable), indicado gen\u00e9ricamente como 'No se definieron conocimientos inform\u00e1ticos'. Aunque menciona haber trabajado con SAP en una Q&A, no especifica el nivel de manejo.",
+      "Las responsabilidades descritas en los puestos anteriores (asistencia administrativa, atenci\u00f3n al cliente financiero, ventas) no se alinean con las tareas clave de un Analista de Compras (gesti\u00f3n de solicitudes, generaci\u00f3n de \u00d3rdenes de Compra, evaluaci\u00f3n/negociaci\u00f3n con proveedores, an\u00e1lisis de cotizaciones, reportes de gesti\u00f3n de compras)."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "2937aee2-074e-4f76-89ed-6d7c3d752179",
+    "reasons": [
+      "Candidate lacks explicit experience in procurement/purchasing, a core requirement for the 'Analista de Compras' role.",
+      "Experience in administrative, retail finance sales, and collections roles is noted, but it is not explicitly in corporate finance as specified for the 'Administrador/a de Finanzas' role.",
+      "Key requirements for the 'Administrador/a de Finanzas' role are not met, including intermediate/advanced English proficiency and proven experience leading teams.",
+      "Demonstrated mastery of advanced Excel (pivot tables, macros) is not evident in the CV (IT skills are not defined).",
+      "Although SAP experience is mentioned in the Q&A, the level of proficiency and specific usage are not detailed.",
+      "The candidate's educational background (Contador P\u00fablico) and age fit some requirements for the 'Administrador/a de Finanzas' role, but these positives are significantly outweighed by the identified experience and skill gaps for both potential roles derived from the prompt's combined criteria."
+    ],
+    "score": 20
+  },
+  {
+    "participant_id": "4a6c02ce-75ae-4fca-9821-463eb29372ab",
+    "reasons": [
+      "El curr\u00edculum no demuestra experiencia directa en el \u00e1rea de Compras/Adquisiciones, que es un requisito fundamental (m\u00ednimo 3 a\u00f1os). La experiencia se centra en roles administrativos, de caja, cr\u00e9dito, cobranzas y ventas.",
+      "No se especifican conocimientos de herramientas inform\u00e1ticas, incluyendo Excel ('Muy buen manejo de Excel'), listado como requisito.",
+      "No se menciona experiencia espec\u00edfica en negociaci\u00f3n con proveedores, una responsabilidad principal del puesto de Analista de Compras.",
+      "Aunque se menciona atenci\u00f3n a clientes internos, la experiencia es en un contexto bancario/de ventas, no de compras/adquisiciones.",
+      "La experiencia laboral descrita no se alinea significativamente con las principales responsabilidades de un Analista de Compras, como la gesti\u00f3n de solicitudes, evaluaci\u00f3n/desarrollo de proveedores, an\u00e1lisis de cotizaciones o generaci\u00f3n de \u00f3rdenes de compra."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "7e520a5b-90f2-4ff9-8ed4-41ee15a82870",
+    "reasons": [
+      "La edad (40 a\u00f1os) est\u00e1 dentro del rango requerido (28-45 a\u00f1os).",
+      "Cuenta con formaci\u00f3n acad\u00e9mica af\u00edn (Contador P\u00fablico).",
+      "Tiene experiencia en rubros de servicios (Banca, Automotriz) que se valoran positivamente.",
+      "Acredita la duraci\u00f3n m\u00ednima de experiencia requerida (aprox. 6 a\u00f1os en roles administrativos con tareas financieras), aunque la profundidad en finanzas corporativas podr\u00eda no estar totalmente alineada con el perfil del puesto de Administrador/a.",
+      "Menciona experiencia con SAP (deseable ERP), pero no presenta evidencia de dominio de Excel avanzado (tablas din\u00e1micas, macros).",
+      "No se menciona el nivel de ingl\u00e9s (requerido intermedio/avanzado).",
+      "No demuestra experiencia liderando equipos (requisito excluyente para Administrador/a).",
+      "Falta informaci\u00f3n espec\u00edfica sobre la experiencia en la generaci\u00f3n de reportes ejecutivos."
+    ],
+    "score": 44
+  },
+  {
+    "participant_id": "5fa293b5-d695-4faa-bef1-6fc9f6158e87",
+    "reasons": [
+      "La experiencia principal del candidato (asistente administrativo, cobranzas, cr\u00e9dito, ventas) no se alinea con los requisitos de experiencia m\u00ednima de 3 a\u00f1os en el \u00e1rea de Compras.",
+      "No se evidencia experiencia espec\u00edfica en funciones clave de compras como la gesti\u00f3n de solicitudes, generaci\u00f3n de \u00f3rdenes de compra, evaluaci\u00f3n y desarrollo de proveedores, o an\u00e1lisis comparativo de cotizaciones.",
+      "El curr\u00edculum indica 'No se definieron conocimientos inform\u00e1ticos', lo cual contradice el requisito de muy buen manejo de Excel para el puesto.",
+      "Aunque menciona haber trabajado con SAP en una respuesta a pregunta, no se detalla el nivel de dominio y no compensa la falta de experiencia directa en Compras y manejo de Excel."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "9750f5c7-097f-4c26-a787-0fe88265211d",
+    "reasons": [
+      "La experiencia laboral descrita se centra en \u00e1reas administrativas, de cobranzas, cr\u00e9dito y ventas, no espec\u00edficamente en el \u00e1rea de Compras como requiere el puesto.",
+      "No se evidencia claramente haber alcanzado los 3 a\u00f1os de experiencia m\u00ednima requerida espec\u00edficamente en el \u00e1rea de Compras.",
+      "Aunque menciona haber trabajado con SAP en una respuesta, no se especifica el nivel de dominio ('muy buen manejo' deseable) ni se detalla experiencia con Excel (requerido 'muy buen manejo').",
+      "No se describe experiencia expl\u00edcita en negociaci\u00f3n con proveedores, una de las responsabilidades y requisitos clave del puesto.",
+      "La experiencia en atenci\u00f3n al cliente interno no se presenta en el contexto espec\u00edfico de Compras, lo cual es un requisito."
+    ],
+    "score": 25
+  },
+  {
+    "participant_id": "1503021f-2abb-46bb-8f8c-2b73130a1224",
+    "reasons": [
+      "El candidato no demuestra experiencia m\u00ednima de 3 a\u00f1os espec\u00edficamente en el \u00e1rea de Compras, seg\u00fan requerido por la descripci\u00f3n del puesto.",
+      "La experiencia descrita se centra en \u00e1reas administrativas, de cobranzas, cr\u00e9dito y ventas, no en la gesti\u00f3n de compras, evaluaci\u00f3n de proveedores o negociaci\u00f3n.",
+      "No se menciona dominio o manejo de Excel, requisito fundamental para el puesto.",
+      "Aunque menciona tener experiencia con SAP (deseable), no se detalla el tipo de experiencia ni su relevancia para las tareas de compras.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores ni en la gesti\u00f3n espec\u00edfica de requerimientos y procesos de compra detallados en la descripci\u00f3n del puesto.",
+      "El perfil es m\u00e1s acorde a roles de administraci\u00f3n general, finanzas operativas o ventas que a un Analista de Compras."
+    ],
+    "score": 15
+  },
+  {
+    "participant_id": "93ad7e08-3a6b-4a58-95f0-4e27b196762c",
+    "score": 20,
+    "reasons": [
+      "El candidato no tiene experiencia en el \u00e1rea de Compras, sino en atenci\u00f3n al cliente, cobranza y apoyo administrativo.",
+      "No se menciona manejo de Excel avanzado ni SAP.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores.",
+      "No se especifica formaci\u00f3n profesional relacionada con Compras o \u00e1reas afines.",
+      "Edad adecuada (39 a\u00f1os), pero no cumple con los requisitos t\u00e9cnicos y de experiencia para el puesto."
+    ]
+  },
+  {
+    "participant_id": "0f5e3dfb-6734-48a7-b06e-272c1ea92909",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral principalmente en atenci\u00f3n al cliente y apoyo administrativo, no espec\u00edfica en \u00e1rea de Compras.",
+      "No se menciona experiencia en gesti\u00f3n de solicitudes de compras, generaci\u00f3n de \u00f3rdenes o negociaci\u00f3n con proveedores.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP o sistemas ERP similares.",
+      "No se menciona formaci\u00f3n acad\u00e9mica relacionada con Compras o Administraci\u00f3n.",
+      "Edad adecuada (39 a\u00f1os), pero falta experiencia espec\u00edfica y habilidades t\u00e9cnicas requeridas para el puesto."
+    ]
+  },
+  {
+    "participant_id": "120f6009-0dd3-4c81-b5bf-0f0aa6448fe5",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral relevante en \u00e1reas administrativas y atenci\u00f3n al cliente, pero no espec\u00edfica en Compras.",
+      "No se menciona experiencia m\u00ednima de 3 a\u00f1os en el \u00e1rea de Compras.",
+      "No se evidencia manejo avanzado de Excel ni experiencia con SAP o sistemas ERP.",
+      "No se menciona experiencia en negociaci\u00f3n con proveedores.",
+      "Ubicaci\u00f3n en Pilar, lo cual es adecuado para el puesto.",
+      "Edad adecuada para el puesto (nacida en 1984)."
+    ]
+  },
+  {
+    "participant_id": "f945a13d-0216-48b8-83bd-e57eec3d31c7",
+    "score": 30,
+    "reasons": [
+      "No se menciona experiencia espec\u00edfica en el \u00e1rea de Compras, solo experiencia administrativa y atenci\u00f3n al cliente.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores.",
+      "No se menciona formaci\u00f3n profesional relacionada con Compras o \u00e1reas afines.",
+      "Edad adecuada (39 a\u00f1os) y ubicaci\u00f3n en Pilar, lo cual es positivo.",
+      "Experiencia laboral relevante pero no alineada con las responsabilidades del puesto."
+    ]
+  },
+  {
+    "participant_id": "95b09de9-d4a2-46b9-863c-239a69497c40",
+    "score": 20,
+    "reasons": [
+      "El candidato tiene experiencia administrativa y en atenci\u00f3n al cliente, pero no espec\u00edfica en el \u00e1rea de Compras.",
+      "No se menciona experiencia m\u00ednima de 3 a\u00f1os en Compras, requisito fundamental para el puesto.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP o sistemas ERP.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores ni generaci\u00f3n de \u00f3rdenes de compra.",
+      "La experiencia laboral est\u00e1 m\u00e1s orientada a atenci\u00f3n al cliente y apoyo administrativo, no a gesti\u00f3n de compras.",
+      "Edad adecuada (39 a\u00f1os), pero no cumple con los requisitos t\u00e9cnicos y de experiencia espec\u00edficos del puesto."
+    ]
+  },
+  {
+    "participant_id": "2d7d7a70-f626-4950-94b4-9512367a5d34",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral relevante en \u00e1reas administrativas y atenci\u00f3n al cliente, pero no espec\u00edfica en Compras.",
+      "No se menciona experiencia m\u00ednima de 3 a\u00f1os en el \u00e1rea de Compras.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP.",
+      "Edad adecuada (nacida en 1984).",
+      "No se menciona experiencia en negociaci\u00f3n con proveedores ni generaci\u00f3n de \u00f3rdenes de compra.",
+      "No se especifica formaci\u00f3n profesional relacionada con Compras o \u00e1reas afines.",
+      "Ubicaci\u00f3n en Pilar, lo cual es positivo para el lugar de trabajo."
+    ]
+  },
+  {
+    "participant_id": "39507a8a-b916-40d7-955d-f778e1379c00",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral principalmente en \u00e1reas administrativas y atenci\u00f3n al cliente, no en compras.",
+      "No se menciona experiencia espec\u00edfica en gesti\u00f3n de compras, negociaci\u00f3n con proveedores ni generaci\u00f3n de \u00f3rdenes de compra.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP.",
+      "Edad adecuada (39 a\u00f1os).",
+      "No se menciona formaci\u00f3n profesional espec\u00edfica ni experiencia m\u00ednima de 3 a\u00f1os en compras.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores ni elaboraci\u00f3n de informes para toma de decisiones."
+    ]
+  },
+  {
+    "participant_id": "77bfe0cd-e5fc-4281-aeec-7838e642f34c",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral relevante en atenci\u00f3n al cliente y apoyo administrativo, pero no espec\u00edfica en \u00e1rea de Compras.",
+      "No se menciona experiencia m\u00ednima de 3 a\u00f1os en Compras.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP.",
+      "No se evidencia experiencia en negociaci\u00f3n con proveedores.",
+      "Edad adecuada (39 a\u00f1os).",
+      "No se menciona formaci\u00f3n acad\u00e9mica relacionada con Compras o Administraci\u00f3n.",
+      "Ubicaci\u00f3n en Pilar, lo cual es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3ca59cca-d61e-4b16-819b-010d8d41e385",
+    "score": 30,
+    "reasons": [
+      "El candidato tiene experiencia en atenci\u00f3n al cliente y apoyo administrativo, pero no se evidencia experiencia espec\u00edfica en el \u00e1rea de Compras.",
+      "No se menciona manejo avanzado de Excel ni experiencia con SAP o sistemas ERP similares.",
+      "No se indica experiencia en negociaci\u00f3n con proveedores ni generaci\u00f3n de \u00f3rdenes de compra.",
+      "Edad adecuada (39 a\u00f1os), pero no cumple con el requisito m\u00ednimo de 3 a\u00f1os en Compras.",
+      "No se menciona formaci\u00f3n profesional relacionada con Compras o \u00e1reas afines.",
+      "Experiencia laboral m\u00e1s orientada a atenci\u00f3n al cliente y administraci\u00f3n general, no a gesti\u00f3n de compras."
+    ]
+  },
+  {
+    "participant_id": "32685e52-9326-460e-86b1-2251d894ca5c",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral principalmente en atenci\u00f3n al cliente, cobranza y apoyo administrativo, no en compras.",
+      "No se menciona experiencia espec\u00edfica en gesti\u00f3n de compras, negociaci\u00f3n con proveedores ni generaci\u00f3n de \u00f3rdenes de compra.",
+      "No se indica manejo avanzado de Excel ni experiencia con SAP u otro sistema ERP.",
+      "Edad adecuada (39 a\u00f1os) para el puesto.",
+      "No se menciona nivel de ingl\u00e9s.",
+      "No se indica formaci\u00f3n acad\u00e9mica relacionada con compras o administraci\u00f3n.",
+      "Experiencia en atenci\u00f3n al cliente interno y externo, lo cual es relevante pero insuficiente para el puesto.",
+      "No se evidencia capacidad de liderazgo ni generaci\u00f3n de reportes ejecutivos."
+    ]
+  }
+]

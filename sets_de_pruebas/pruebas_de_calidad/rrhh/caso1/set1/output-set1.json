@@ -1,0 +1,107 @@
+[
+  {
+    "participant_id": "7baa4ca2-4ea4-4da1-82c6-2add71db5e62",
+    "reasons": [
+      "La candidata aún está estudiando la carrera universitaria, no ha cumplido con el requisito EXCLUYENTE de estar graduada.",
+      "La candidata tiene menos de 2 años de experiencia laboral total y ninguna experiencia en roles similares (Talent Acquisition), lo cual está muy lejos del mínimo de 5 años requerido.",
+      "El nivel de inglés reportado es Básico, no cumple con el requisito EXCLUYENTE de inglés avanzado.",
+      "La experiencia laboral previa no es en la industria de Oil & Gas, aunque este requisito es ideal y no excluyente.",
+      "La candidata no parece residir en Neuquén Capital, lugar de trabajo requerido."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "0e21dba6-199c-41b7-a058-1d79249b0693",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a RRHH (indica que está cursando actualmente).",
+      "No cumple con el requisito de un mínimo de cinco años de experiencia en roles similares (la experiencia laboral listada es como vendedora y recepcionista, no afín a Talent Acquisition).",
+      "No cumple con el requisito excluyente de idioma inglés avanzado (indica nivel básico).",
+      "No presenta experiencia previa en la industria de Oil & Gas (requisito ideal)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "ab780126-4883-44e6-b4f1-6d610415db67",
+    "reasons": [
+      "No cumple con el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (se encuentra estudiando, no graduada).",
+      "No cumple con el requisito excluyente de un mínimo de cinco años de experiencia en roles similares (la experiencia presentada es como Vendedora y Recepcionista, no en Talent Acquisition o roles similares, y la duración total en esos roles no es de 5 años).",
+      "No cumple con el requisito excluyente de idioma inglés avanzado (indica nivel básico).",
+      "No presenta experiencia en la industria de Oil & Gas (requisito ideal)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "d708791c-01d7-4513-bd7a-5ba675727071",
+    "reasons": [
+      "El candidato no es graduado de carrera universitaria afín a Recursos Humanos, lo cual es un requisito EXCLUYENTE.",
+      "El candidato no cuenta con la experiencia mínima requerida de cinco años en roles similares.",
+      "El nivel de inglés del candidato es básico, no avanzado, lo cual es un requisito EXCLUYENTE."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "39f1dd2a-8339-48e6-9f9c-7651e7b6fabf",
+    "reasons": [
+      "El candidato no cumple el requisito excluyente de estar graduado/a de carreras universitarias afines a Recursos Humanos (aún cursando).",
+      "El candidato no cumple el requisito de un mínimo de cinco años de experiencia en roles similares (solo experiencia breve en ventas y recepción).",
+      "El candidato no cumple el requisito excluyente de Idioma ingles avanzado (indica nivel básico).",
+      "La experiencia laboral no es en la industria de Oíl & Gas ni en roles de Talent Acquisition."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "25117cfe-4d1b-4d14-8a8b-e43f4c372bc2",
+    "reasons": [
+      "El candidato no está graduado de una carrera universitaria afín a Recursos Humanos, requisito excluyente según la descripción del puesto.",
+      "El candidato no acredita la experiencia mínima de cinco años en roles similares requerida para el puesto.",
+      "El nivel de inglés del candidato es básico, cuando se requiere un nivel avanzado (excluyente).",
+      "La experiencia laboral detallada no es en roles de Talent Acquisition o relacionados con las responsabilidades del puesto.",
+      "La ubicación del candidato (Pilar) no coincide con la ubicación del puesto (Neuquén Capital)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "486b677f-d32a-4ce8-854b-c38b52cec8aa",
+    "reasons": [
+      "No es graduado/a universitario/a en carrera afín a Recursos Humanos, requisito excluyente.",
+      "No cuenta con el mínimo de cinco años de experiencia en roles similares a Talent Acquisition.",
+      "El nivel de inglés es básico, no avanzado, requisito excluyente.",
+      "La experiencia laboral actual y anterior no es en roles de Recursos Humanos o Talent Acquisition, sino en ventas y recepción.",
+      "La experiencia laboral mencionada es en otras industrias (Retail, Inmobiliaria), no en Oil & Gas (idealmente)."
+    ],
+    "score": 0
+  },
+  {
+    "participant_id": "d592d734-8ec1-4b88-af3b-fe5700aa35bf",
+    "reasons": [
+      "La candidata no está graduada de una carrera universitaria afín a Recursos Humanos (requisito EXCLUYENTE).",
+      "La candidata no cumple con el requisito de un mínimo de cinco años de experiencia en roles similares. Su experiencia es en ventas y recepción.",
+      "La candidata tiene nivel de inglés básico, no avanzado (requisito EXCLUYENTE).",
+      "La experiencia laboral no es en Talent Acquisition o similar.",
+      "No tiene experiencia en la industria de Oil & Gas (mencionado como ideal).",
+      "La ubicación del domicilio no es Neuquén, para un puesto 100% presencial."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "a2e12c82-a6af-47f2-86ed-88c17c5176de",
+    "reasons": [
+      "La candidata no está graduada de una carrera universitaria afín (Requisito EXCLUYENTE).",
+      "No posee el mínimo de cinco años de experiencia requerido en roles similares (Vendedora y Recepcionista no son roles de Talent Acquisition).",
+      "El nivel de inglés reportado es Básico, siendo el nivel Avanzado un requisito EXCLUYENTE.",
+      "No cuenta con experiencia en la industria de Oil & Gas, lo cual es un plus valorado.",
+      "La experiencia laboral mencionada no es relevante para las responsabilidades del puesto de Talent Acquisition Specialist (Publicación de vacantes, screening, entrevistas, etc.)."
+    ],
+    "score": 5
+  },
+  {
+    "participant_id": "478b4d26-b99e-40da-8fc1-f16619fade95",
+    "reasons": [
+      "El candidato no está graduado/a de carrera universitaria afín a Recursos Humanos (requisito EXCLUYENTE).",
+      "El candidato no cuenta con el mínimo de cinco años de experiencia en roles similares.",
+      "El nivel de inglés del candidato es básico, cuando se requiere avanzado (requisito EXCLUYENTE).",
+      "La experiencia laboral del candidato no es en roles de Talent Acquisition o similares."
+    ],
+    "score": 5
+  }
+]
